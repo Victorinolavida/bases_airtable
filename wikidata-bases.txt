@@ -1,0 +1,1324 @@
+abreviatura	nombre	Esta en wikidata	urlWikidata
+3dmet	Three-Dimensional Structure Database of Natural Metabolites	SI	https://www.wikidata.org/wiki/Q23948774 
+4dn.biosource	4DNucleome Data Portal	SI	https://www.wikidata.org/wiki/Q110613621 
+4dn.replicate	4D Nucleome Data Portal Experiment Replicate	NO	Por definir 
+aao	Amphibian gross Anatomy Ontology	NO	Por definir 
+abcd	ABCD database	NO	Por definir 
+abm	Applied Biological Materials cell line products	NO	Por definir 
+abs	Annotated regulatory Binding Sites from Orthologous Promoters	NO	Por definir 
+ac	Activity Streams	NO	Por definir 
+aceview.worm	Aceview Worm	NO	Por definir 
+addexbio	AddexBio cell line products	NO	Por definir 
+addgene	Addgene	NO	Por definir 
+adw	Animal natural history and life history	NO	Por definir 
+aeo	Anatomical Entity Ontology	NO	Por definir 
+aero	Adverse Event Reporting ontology	NO	Por definir 
+affy.probeset	Affymetrix Probeset	NO	Por definir 
+afo	Agriculture and Forestry Ontology	NO	Por definir 
+aftol.taxonomy	Assembling the Fungal Tree of Life - Taxonomy	NO	Por definir 
+agricola	Agricultural Online Access	NO	Por definir 
+agro	Agronomy Ontology	NO	Por definir 
+agrovoc	AGROVOC	NO	Por definir 
+aism	Ontology for the Anatomy of the Insect SkeletoMuscular system	NO	Por definir 
+allergome	Allergome	NO	Por definir 
+alzforum.mutation	Alzforum Mutations	NO	Por definir 
+amoebadb	AmoebaDB	NO	Por definir 
+amphx	The Amphioxus Development and Anatomy Ontology	NO	Por definir 
+antibodyregistry	Antibody Registry	NO	Por definir 
+antweb	AntWeb	NO	Por definir 
+aop	AOPWiki	NO	Por definir 
+aop.events	AOPWiki (Key Event)	NO	Por definir 
+aop.relationships	AOPWiki (Key Event Relationship)	NO	Por definir 
+aop.stressor	AOPWiki (Stressor)	NO	Por definir 
+apaonto	Psychology Ontology	NO	Por definir 
+apd	Antimicrobial Peptide Database	NO	Por definir 
+aphidbase.transcript	AphidBase Transcript	NO	Por definir 
+apid.interactions	APID Interactomes	NO	Por definir 
+apo	Ascomycete Phenotype Ontology	NO	Por definir 
+apollosv	Apollo-SV	NO	Por definir 
+arachnoserver	ArachnoServer: Spider toxin database	NO	Por definir 
+araport	Arabidopsis Information Portal	NO	Por definir 
+ardb	Antibiotic Resistance Genes Database	NO	Por definir 
+ark	Archival Resource Key	NO	Por definir 
+aro	Antibiotic Resistance Ontology	NO	Por definir 
+arrayexpress	ArrayExpress	NO	Por definir 
+arrayexpress.platform	ArrayExpress Platform	NO	Por definir 
+arraymap	arrayMap - Genomic Array Data for Cancer CNV Profiles	NO	Por definir 
+arxiv	arXiv	NO	Por definir 
+asap	A Systematic Annotation Package	NO	Por definir 
+ascl	Astrophysics Source Code Library	NO	Por definir 
+asin	Amazon Standard Identification Number	NO	Por definir 
+aspgd.locus	AspGD Locus	NO	Por definir 
+aspgd.protein	AspGD Protein	NO	Por definir 
+asrp	Arabidopsis Small RNA Project	NO	Por definir 
+assembly	Assembly	NO	Por definir 
+atc	Anatomical Therapeutic Chemical Classification	SI	https://www.wikidata.org/wiki/por definir 
+atcc	American Type Culture Collection database	NO	Por definir 
+atcvet	Anatomical Therapeutic Chemical Vetinary	NO	Por definir 
+atfdb.family	Animal TFDB Family	NO	Por definir 
+ato	Amphibian Taxonomy Ontology	NO	Por definir 
+atol	Animal Trait Ontology for Livestock	NO	Por definir 
+autdb	AutDB	NO	Por definir 
+bacdive	Bacterial Diversity Metadatabase	NO	Por definir 
+bacmap.biog	BacMap Biography	NO	Por definir 
+bacmap.map	BacMap Map	NO	Por definir 
+bactibase	Bactibase: database dedicated to bacteriocins	NO	Por definir 
+bams	Brain Architecture Knowledge Management System Neuroanatomical Ontology	NO	Por definir 
+bao	BioAssay Ontology	NO	Por definir 
+bbkg	Blue Brain Project Knowledge Graph	NO	Por definir 
+bbtp	Blue Brain Project Topological sampling Knowledge Graph	NO	Por definir 
+bcgo	Beta Cell Genomics Ontology	NO	Por definir 
+bcio	Brain-Computer Interaction (BCI) Ontology	NO	Por definir 
+bco	Biological Collections Ontology	NO	Por definir 
+bcrc	BCRC Strain Collection Catalog	NO	Por definir 
+bcrj	Banco de Celulas do Rio de Janeiro	NO	Por definir 
+bdgp.est	BDGP EST	NO	Por definir 
+bdgp.insertion	BDGP insertion DB	NO	Por definir 
+bdsc	Bloomington Drosophila Stock Center	NO	Por definir 
+beetlebase	BeetleBase	NO	Por definir 
+begdb	The Benchmark Energy & Geometry Database	NO	Por definir 
+beiresources	BEI Resources	NO	Por definir 
+bel	Biological Expression Language	NO	Por definir 
+bfo	Basic Formal Ontology	NO	Por definir 
+bgee.family	Bgee family	NO	Por definir 
+bgee.gene	Bgee gene	NO	Por definir 
+bgee.organ	Bgee organ	NO	Por definir 
+bgee.stage	Bgee stage	NO	Por definir 
+bigg.compartment	BiGG Compartment	NO	Por definir 
+bigg.metabolite	BiGG Metabolite	NO	Por definir 
+bigg.model	BiGG Model	NO	Por definir 
+bigg.reaction	BiGG Reaction	NO	Por definir 
+bila	Bilateria anatomy	NO	Por definir 
+bindingdb	BindingDB database of measured binding affinities	NO	Por definir 
+biocarta.pathway	BioCarta Pathway	NO	Por definir 
+biocatalogue.service	BioCatalogue Service	NO	Por definir 
+biocyc	BioCyc	NO	Por definir 
+biogrid	Biological General Repository for Interaction Datasets	NO	Por definir 
+biogrid.interaction	BioGRID Interactions	NO	Por definir 
+biolegend	BioLegend	NO	Por definir 
+biolink	Biolink Model	NO	Por definir 
+biominder	Bio-MINDER Tissue Database	NO	Por definir 
+biomodels.db	BioModels Database	NO	Por definir 
+biomodels.kisao	Kinetic Simulation Algorithm Ontology	NO	Por definir 
+biomodels.teddy	TErminology for the Description of DYnamics	NO	Por definir 
+biomodels.vocabulary	SBML RDF Vocabulary	NO	Por definir 
+bionumbers	BioNumbers	NO	Por definir 
+bioportal	BioPortal	NO	Por definir 
+bioproject	NCBI BioProject	NO	Por definir 
+bioregistry	Bioregistry	NO	Por definir 
+bioregistry.collection	Bioregistry Collections	NO	Por definir 
+bioregistry.registry	Bioregistry Metaregistry	NO	Por definir 
+bioregistry.schema	Bioregistry Schema	NO	Por definir 
+biorxiv	bioRxiv	NO	Por definir 
+biosample	NCBI BioSample	NO	Por definir 
+biosimulations	biosimulations	NO	Por definir 
+biosimulators	BioSimulators	NO	Por definir 
+biostudies	BioStudies	NO	Por definir 
+biosystems	NCBI BioSystems Database	NO	Por definir 
+biotools	bio.tools	NO	Por definir 
+biozil	BIOZIL	NO	Por definir 
+birnlex	Biomedical Informatics Research Network Project Lexicon	NO	Por definir 
+bitbucket	Bitbucket	NO	Por definir 
+bitterdb.cpd	BitterDB Compound	NO	Por definir 
+bitterdb.rec	BitterDB Receptor	NO	Por definir 
+bko	SBGN Bricks data and ontology	NO	Por definir 
+bmrb	Biological Magnetic Resonance Data Bank	NO	Por definir 
+bmrb.restraint	NMR Restraints Grid	NO	Por definir 
+bold.taxonomy	BOLD Taxonomy	NO	Por definir 
+bootstrep	Gene Regulation Ontology	NO	Por definir 
+bpdb	Bio-Pesticides DataBase	NO	Por definir 
+brenda	BRENDA Enzyme Database	NO	Por definir 
+broad	Broad Fungal Genome Initiative	NO	Por definir 
+bs	Biosapiens Protein Feature Ontology	NO	Por definir 
+bspo	Biological SPatial Ontology	NO	Por definir 
+bto	BRENDA tissue / enzyme source	SI	https://www.wikidata.org/wiki/Q4836352 
+bugbase.expt	BugBase Expt	NO	Por definir 
+bugbase.protocol	BugBase Protocol	NO	Por definir 
+bykdb	Bacterial protein tYrosine Kinase database	NO	Por definir 
+cabri	Common Access to Biological Resources and Information	NO	Por definir 
+cadsr	Cancer Data Standards Registry and Repository	NO	Por definir 
+caloha	CALIPHO Group Ontology of Human Anatomy	NO	Por definir 
+cameo	Continuously Automated Model Evaluation	NO	Por definir 
+caps	CAPS-DB	NO	Por definir 
+caro	Common Anatomy Reference Ontology	NO	Por definir 
+cas	CAS Registry Number	SI	https://www.wikidata.org/wiki/por definir 
+cath	CATH	NO	Por definir 
+cath.domain	CATH domain	NO	Por definir 
+cath.superfamily	CATH superfamily	NO	Por definir 
+cattleqtldb	Animal Genome Cattle QTL	NO	Por definir 
+cazy	The Carbohydrate-Active enZYmes Database	NO	Por definir 
+cba	Chinese Biological Abstracts	NO	Por definir 
+cbioportal	cBioPortal for Cancer Genomics	NO	Por definir 
+ccdc	CCDC Number	NO	Por definir 
+ccds	The Consensus CDS	NO	Por definir 
+ccle	Cancer Cell Line Encyclopedia Cells	NO	Por definir 
+cco	Cell Cycle Ontology	NO	Por definir 
+ccrid	National Experimental Cell Resource Sharing Platform	NO	Por definir 
+cdao	Comparative Data Analysis Ontology	NO	Por definir 
+cdd	Canadian Disaster Database	NO	Por definir 
+cdno	Compositional Dietary Nutrition Ontology	NO	Por definir 
+cdpd	Canadian Drug Product Database	NO	Por definir 
+cell_biolabs	Cell Biolabs cell line products	NO	Por definir 
+cell_model_passport	Sanger Cell Model Passports	NO	Por definir 
+cellbank.australia	CellBank Australia	NO	Por definir 
+cellimage	Cell Image Library	NO	Por definir 
+cellopub	Cellosaurus Publication	NO	Por definir 
+cellosaurus	Cellosaurus	SI	https://www.wikidata.org/wiki/Q24691710 
+cellosaurus.resource	Cellosaurus Registry	NO	Por definir 
+cellrepo	Cell Version Control Repository	NO	Por definir 
+ceph	Cephalopod Ontology	NO	Por definir 
+cgd	Candida Genome Database	NO	Por definir 
+cghdb	CGH Data Base	NO	Por definir 
+cgnc	Chicken Gene Nomenclature Consortium	NO	Por definir 
+cgsc	Coli Genetic Stock Center	NO	Por definir 
+charprot	CharProt	NO	Por definir 
+chebi	Chemical Entities of Biological Interest	SI	https://www.wikidata.org/wiki/Q902623 
+chembl	ChEMBL	NO	Por definir 
+chembl.cell	ChEMBL database of bioactive drug-like small molecules - Cell lines section	NO	Por definir 
+chembl.compound	ChEMBL compound	SI	https://www.wikidata.org/wiki/Q6120337 
+chembl.target	ChEMBL target	NO	Por definir 
+chemdb	The UC Irvine ChemDB	NO	Por definir 
+chemidplus	ChemIDplus	NO	Por definir 
+cheminf	CHEMical INFormation Ontology	NO	Por definir 
+chemspider	ChemSpider	SI	https://www.wikidata.org/wiki/Q2311683 
+chickenqtldb	Animal Genome Chicken QTL	NO	Por definir 
+chiro	ChEBI Integrated Role Ontology	NO	Por definir 
+chmo	Chemical Methods Ontology	NO	Por definir 
+cido	Coronavirus Infectious Disease Ontology	NO	Por definir 
+cio	Confidence Information Ontology	NO	Por definir 
+citexplore	Cerebrotendinous Xanthomatosis Ontology	NO	Por definir 
+civic.aid	CIViC Assertion	NO	Por definir 
+civic.eid	CIViC Evidence	NO	Por definir 
+cl	Cell Ontology	SI	https://www.wikidata.org/wiki/Q55118285 
+clao	Collembola Anatomy Ontology	NO	Por definir 
+classyfire	ClassyFire	NO	Por definir 
+cldb	Cell Line Database	NO	Por definir 
+clingene	ClinGen Allele Registry	NO	Por definir 
+clinicaltrials	ClinicalTrials.gov	NO	Por definir 
+clinvar	ClinVar	SI	https://www.wikidata.org/wiki/Q20023123 
+clinvar.record	ClinVar Record	NO	Por definir 
+clinvar.submission	ClinVar Submission	NO	Por definir 
+clinvar.submitter	ClinVar Submitter	NO	Por definir 
+clo	Cell Line Ontology	SI	https://www.wikidata.org/wiki/por definir 
+cls	Cell Lines Service	NO	Por definir 
+clyh	Clytia hemisphaerica Development and Anatomy Ontology	NO	Por definir 
+cmecs	Costal and Marine Ecological Classification Standard	NO	Por definir 
+cmf	CranioMaxilloFacial ontology	NO	Por definir 
+cmo	Clinical Measurement Ontology	NO	Por definir 
+cmpo	Cellular Microscopy Phenotype Ontology	NO	Por definir 
+co_320	Rice Ontology	NO	Por definir 
+co_321	Wheat Ontology	NO	Por definir 
+co_322	Maize Ontology	NO	Por definir 
+co_323	Barley Ontology	NO	Por definir 
+co_324	Sorghum Ontology	NO	Por definir 
+co_325	Banana Ontology	NO	Por definir 
+co_326	Coconut ontology	NO	Por definir 
+co_327	Pearl Millet Ontology	NO	Por definir 
+co_330	Potato Ontology	NO	Por definir 
+co_331	Sweet Potato Ontology	NO	Por definir 
+co_333	Beet Ontology	NO	Por definir 
+co_334	IBP Cassava Trait Ontology	NO	Por definir 
+co_335	Common Bean Ontology	NO	Por definir 
+co_336	Soybean Ontology	NO	Por definir 
+co_337	Groundnut Ontology	NO	Por definir 
+co_338	Chickpea Ontology	NO	Por definir 
+co_339	Lentil Ontology	NO	Por definir 
+co_340	IBP Cowpea Trait Ontology	NO	Por definir 
+co_341	Pigeon Pea Ontology	NO	Por definir 
+co_343	Yam Ontology	NO	Por definir 
+co_345	Brachiaria Ontology	NO	Por definir 
+co_346	Mungbean Ontology	NO	Por definir 
+co_347	Castor Bean Ontology	NO	Por definir 
+co_348	Brassica Ontology	NO	Por definir 
+co_350	Oat Trait Ontology	NO	Por definir 
+co_356	Vitis Ontology	NO	Por definir 
+co_357	Woody Plant Ontology	NO	Por definir 
+co_358	Cotton ontology	NO	Por definir 
+co_359	Sunflower ontology	NO	Por definir 
+co_360	Sugar Kelp Trait Ontology	NO	Por definir 
+co_365	Fababean ontology	NO	Por definir 
+co_366	Bambara groundnut ontology	NO	Por definir 
+cob	Core Ontology for Biology and Biomedicine	NO	Por definir 
+coconut	COlleCtion of Open Natural ProdUcTs	NO	Por definir 
+cog	Clusters of Orthologous Groups of Proteins: Phylogenetic classification of proteins encoded in complete genomes	NO	Por definir 
+cog.category	COG Categories	NO	Por definir 
+cog.pathway	COG Pathways	NO	Por definir 
+cohd	MIMIC III Database	NO	Por definir 
+colao	Coleoptera Anatomy Ontology	NO	Por definir 
+colonatlas	Colorectal Cancer Atlas	NO	Por definir 
+combine.specifications	COMBINE specifications	NO	Por definir 
+come	The Bioinorganic Motif Database	NO	Por definir 
+complexportal	Complex Portal	SI	https://www.wikidata.org/wiki/Q47196990 
+comptox	CompTox Chemistry Dashboard	NO	Por definir 
+compulyeast	Compulyeast	NO	Por definir 
+conoserver	ConoServer	NO	Por definir 
+conso	Curation of Neurodegeneration Supporting Ontology	NO	Por definir 
+coriell	Coriell Cell Repositories	NO	Por definir 
+corrdb	Animal Trait Correlation Database	NO	Por definir 
+corum	 Comprehensive Resource of Mammalian protein complexes	NO	Por definir 
+cosmic	Catalogue of Somatic Mutations in Cancer	NO	Por definir 
+cosmic.cell	COSMIC Cell Lines	NO	Por definir 
+covid19	SARS-CoV-2	NO	Por definir 
+covoc	CoVoc Coronavirus Vocabulary	NO	Por definir 
+cp	Cellular Phenotypes	NO	Por definir 
+cpc	Climate Prediction Center	NO	Por definir 
+cpga	Cereal Plant Gross Anatomy Ontology	NO	Por definir 
+credit	CASRAI Contributor Roles Taxonomy	NO	Por definir 
+crisprdb	CRISPRdb	NO	Por definir 
+cro	Contributor Role Ontology	NO	Por definir 
+cryoem	Cryo Electron Microscopy	NO	Por definir 
+cryptodb	CryptoDB	NO	Por definir 
+csa	Catalytic Site Atlas	NO	Por definir 
+csd	The Cambridge Structural Database	NO	Por definir 
+csp	Computer Retrieval of Information on Science Projects Thesaurus	NO	Por definir 
+cst	Cell Signaling Technology Pathway Database	NO	Por definir 
+cst.ab	Cell Signaling Technology Antibody	NO	Por definir 
+ctd.chemical	CTD Chemical	NO	Por definir 
+ctd.disease	CTD Disease	NO	Por definir 
+ctd.gene	CTD Gene	NO	Por definir 
+cteno	Ctenophore Ontology	NO	Por definir 
+cto	Clinical Trials Ontology	NO	Por definir 
+cubedb	Cube db	NO	Por definir 
+cvdo	Cardiovascular Disease Ontology	NO	Por definir 
+d1id	DataONE	NO	Por definir 
+dailymed	DailyMed	NO	Por definir 
+dandi	Distributed Archives for Neurophysiology Data Integration	NO	Por definir 
+darc	Database of Aligned Ribosomal Complexes	NO	Por definir 
+dashr	Database of small human non-coding RNAs	NO	Por definir 
+dashr.expression	DASHR expression	NO	Por definir 
+datanator.gene	Datanator Gene	NO	Por definir 
+datanator.metabolite	Datanator Metabolite	NO	Por definir 
+datanator.reaction	Datanator Reaction	NO	Por definir 
+datf	Database of Arabidopsis Transcription Factors	NO	Por definir 
+dbd	Transcription Factor Database	NO	Por definir 
+dbest	Expressed Sequence Tags database	NO	Por definir 
+dbg2introns	DBG2 Introns	NO	Por definir 
+dbgap	Database of Genotypes and Phenotypes	NO	Por definir 
+dbmhc	Database of human Major Histocompatibility Complex	NO	Por definir 
+dbprobe	dbProbe	NO	Por definir 
+dbsnp	Database of Single Nucleotide Polymorphism	NO	Por definir 
+dc	Dublin Core Metadata Element Set	NO	Por definir 
+dc_cl	Dendritic cell	NO	Por definir 
+dcat	Data Catalog Vocabulary	NO	Por definir 
+dcterms	Dublin Core Metadata Initiative (DCMI) Metadata Terms	NO	Por definir 
+dctypes	Dublin Core Types	NO	Por definir 
+ddanat	Dictyostelium Anatomy Ontology	NO	Por definir 
+ddpheno	Dictyostelium Phenotype Ontology	NO	Por definir 
+degradome	Degradome Database	NO	Por definir 
+depmap	DepMap Cell Lines	NO	Por definir 
+depod	The human DEPhOsphorylation Database	NO	Por definir 
+dermo	Human Dermatological Disease Ontology	NO	Por definir 
+dev.ga4ghdos	Development Data Object Service	NO	Por definir 
+dg.4503	BioData Catalyst	NO	Por definir 
+dg.4dfc	NCI Data Commons Framework Services	NO	Por definir 
+dg.6vts	JCOIN	NO	Por definir 
+dg.anv0	Anvil	NO	Por definir 
+dg.f82a1a	Kids First	NO	Por definir 
+dg5b0d	BloodPAC	NO	Por definir 
+dgrc	Drosophila Genomics Resource Center	NO	Por definir 
+dicom	Digital Imaging and COmmunications in Medicine	NO	Por definir 
+dictybase	dictyBase	NO	Por definir 
+dictybase.est	dictyBase Expressed Sequence Tag	NO	Por definir 
+dictybase.gene	Dictybase Gene	NO	Por definir 
+did	Decentralized Identifier	NO	Por definir 
+dideo	The Potential Drug-drug Interaction and Potential Drug-drug Interaction Evidence Ontology	NO	Por definir 
+dinto	The Drug-Drug Interactions Ontology	NO	Por definir 
+dip	Database of Interacting Proteins	NO	Por definir 
+discoverx	DiscoverX cell line products	NO	Por definir 
+disdriv	Disease Drivers Ontology	NO	Por definir 
+diseaseclass	Disease Class	NO	Por definir 
+diseasesdb	Diseases Database	SI	https://www.wikidata.org/wiki/Q213103 
+disprot	Database of Protein Disorder	NO	Por definir 
+disprot.region	DisProt region	NO	Por definir 
+dlxb	Linear double stranded DNA sequences	NO	Por definir 
+dlxc	Circular double stranded DNA sequences composed	NO	Por definir 
+doi	Digital Object Identifier	NO	Por definir 
+doid	Disease Ontology	SI	https://www.wikidata.org/wiki/Q5282129 
+dommino	Database of Macromolecular Interactions	NO	Por definir 
+door	Database for Prokaryotic Operons	NO	Por definir 
+doqcs.model	Database of Quantitative Cellular Signaling: Model	NO	Por definir 
+doqcs.pathway	Database of Quantitative Cellular Signaling: Pathway	NO	Por definir 
+dpo	Drosophila Phenotype Ontology	NO	Por definir 
+dpv	Description of Plant Viruses	NO	Por definir 
+dragondb.allele	DragonDB Allele	NO	Por definir 
+dragondb.dna	DragonDB DNA	NO	Por definir 
+dragondb.locus	DragonDB Locus	NO	Por definir 
+dragondb.protein	DragonDB Protein	NO	Por definir 
+dron	The Drug Ontology	NO	Por definir 
+drsc	Drosophila RNAi Screening Center	NO	Por definir 
+drugbank	DrugBank	SI	https://www.wikidata.org/wiki/Q1122544 
+drugbank.salt	DrugBank Salts	NO	Por definir 
+drugbankv4.target	DrugBank Target v4	NO	Por definir 
+drugcentral	DrugCentral	NO	Por definir 
+dsmz	Deutsche Sammlung von Mikroorganismen und Zellkulturen	NO	Por definir 
+dto	Drug Target Ontology	NO	Por definir 
+duo	The Data Use Ontology	NO	Por definir 
+eaglei	eagle-i	NO	Por definir 
+ebisc	European Bank for induced pluripotent Stem Cells	NO	Por definir 
+ecacc	European Collection of Authenticated Cell Culture	NO	Por definir 
+ecao	The Echinoderm Anatomy and Development Ontology	NO	Por definir 
+eccode	Integrated relational Enzyme database	SI	https://www.wikidata.org/wiki/por definir 
+ecg	ElectroCardioGraphy Ontology	NO	Por definir 
+echobase	EchoBASE	NO	Por definir 
+ecmdb	E. coli Metabolite Database	SI	https://www.wikidata.org/wiki/Q17052437 
+eco	Evidence and Conclusion Ontology	NO	Por definir 
+ecocore	An ontology of core ecological entities	NO	Por definir 
+ecocyc	EcoCyc E. coli Database	NO	Por definir 
+ecogene	Escherichia coli strain K12 genome database	NO	Por definir 
+ecolexicon	EcoLexicon	NO	Por definir 
+ecoliwiki	EcoliWiki:  A Wiki-based community resource for Escherichia coli	NO	Por definir 
+ecto	Environmental conditions, treatments and exposures ontology	NO	Por definir 
+ecyano.entity	E-cyanobacterium entity	NO	Por definir 
+ecyano.experiment	E-cyanobacterium Experimental Data	NO	Por definir 
+ecyano.model	E-cyanobacterium model	NO	Por definir 
+ecyano.rule	E-cyanobacterium rule	NO	Por definir 
+edam	EMBRACE Data and Methods Ontology	NO	Por definir 
+edda	EDDA Study Designs Taxonomy	NO	Por definir 
+efo	Experimental Factor Ontology	NO	Por definir 
+ega.dataset	The European Genome-phenome Archive	NO	Por definir 
+ega.study	European Genome-phenome Archive Study	NO	Por definir 
+eggnog	Evolutionary Genealogy of Genes: Non-supervised Orthologous Groups	NO	Por definir 
+ehda	Human Developmental Anatomy Ontology, timed version	NO	Por definir 
+ehdaa	Human Developmental Anatomy Ontology, abstract version 1	NO	Por definir 
+ehdaa2	Edinburgh human developmental anatomy abstract version 2	NO	Por definir 
+elm	Eukaryotic Linear Motifs	NO	Por definir 
+emap	Mouse Gross Anatomy and Development Ontology	NO	Por definir 
+emapa	Mouse gross anatomy and development, timed	NO	Por definir 
+emdb	Electron Microscopy Data Bank	NO	Por definir 
+emolecules	Reaxys eMolecules	NO	Por definir 
+empiar	Electron Microscopy Public Image Archive	NO	Por definir 
+ena.embl	European Nucleotide Archive	NO	Por definir 
+encode	ENCODE Project	NO	Por definir 
+enm	eNanoMapper Ontology	NO	Por definir 
+ensembl	Ensembl	SI	https://www.wikidata.org/wiki/Q1344256 
+ensembl.bacteria	Ensembl Bacteria	NO	Por definir 
+ensembl.fungi	Ensembl Fungi	NO	Por definir 
+ensembl.metazoa	Ensembl Metazoa	NO	Por definir 
+ensembl.plant	Ensembl Plants	NO	Por definir 
+ensembl.protist	Ensembl Protists	NO	Por definir 
+ensemblglossary	Ensembl Glossary	NO	Por definir 
+envipath	enviPath	NO	Por definir 
+envo	Environment Ontology	NO	Por definir 
+enzo	Enzo Life Sciences	NO	Por definir 
+eo	Plant Environment Ontology	NO	Por definir 
+eol	Encyclopedia of Life	NO	Por definir 
+epcc	European Paediatric Cardiac Codes	NO	Por definir 
+epd	The Encyclopedia of Proteome Dynamics	NO	Por definir 
+epio	EpilepsyOntology	NO	Por definir 
+epo	Early Pregnancy Ontology	NO	Por definir 
+epso	Epilepsy and Seizure Ontology	NO	Por definir 
+erm	European Registry of Materials	NO	Por definir 
+ero	eagle-i Research Resource Ontology	NO	Por definir 
+erv	Human Endogenous Retrovirus Database	NO	Por definir 
+estdab	European Searchable Tumour Line Database	NO	Por definir 
+eu89h	JRC Data Catalogue	NO	Por definir 
+euclinicaltrials	EU Clinical Trials	NO	Por definir 
+eupath	Eukaryotic Pathogen, Host & Vector Genomics Resource Ontology	NO	Por definir 
+eurofir	European Food Information Resource Network	NO	Por definir 
+ev	eVOC (Expressed Sequence Annotation for Humans)	NO	Por definir 
+evm	eVOC mouse development stage	NO	Por definir 
+exac.gene	ExAC Gene	NO	Por definir 
+exac.transcript	ExAC Transcript	NO	Por definir 
+exac.variant	ExAC Variant	NO	Por definir 
+exo	Exposure Ontology	NO	Por definir 
+fabio	FaBiO, the FRBR-aligned Bibliographic Ontology	NO	Por definir 
+facebase	FaceBase	NO	Por definir 
+fairsharing	FAIRsharing	NO	Por definir 
+faldo	Feature Annotation Location Description Ontology	NO	Por definir 
+fao	Fungal Gross Anatomy Ontology	NO	Por definir 
+fbbi	Biological Imaging methods Ontology	NO	Por definir 
+fbbt	Drosophila anatomy ontology	NO	Por definir 
+fbcv	FlyBase Controlled Vocabulary	NO	Por definir 
+fbdv	Drosophila developmental ontology	NO	Por definir 
+fbol	Fungal Barcode	NO	Por definir 
+fbql	FlyBase Qualifiers	NO	Por definir 
+fbrf	FlyBase Reference Report	NO	Por definir 
+fbsp	Fly Taxonomy	NO	Por definir 
+fbtc	Flybase Cell Line	NO	Por definir 
+fcb	the FAIR Cookbook	NO	Por definir 
+fcsfree	Fetal Calf Serum-Free Database	NO	Por definir 
+fideo	Food Interactions with Drugs Evidence Ontology	NO	Por definir 
+fishbase.species	FishBase	SI	https://www.wikidata.org/wiki/Q837101 
+fix	Physico-chemical methods and properties	NO	Por definir 
+flopo	Flora Phenotype Ontology	NO	Por definir 
+flowrepository	FlowRepository	NO	Por definir 
+flu	Influenza Ontology	NO	Por definir 
+flybase	FlyBase	SI	https://www.wikidata.org/wiki/Q3074571 
+flybrain.ndb	FlyBrain Neuron Database	NO	Por definir 
+fma	Foundational Model of Anatomy	NO	Por definir 
+foaf	Friend of a Friend	NO	Por definir 
+fobi	Food-Biomarker Ontology	NO	Por definir 
+foodb.compound	FooDB Compound	NO	Por definir 
+foodon	FoodOn	NO	Por definir 
+fovt	FuTRES Ontology of Vertebrate Traits	NO	Por definir 
+fplx	FamPlex	SI	https://www.wikidata.org/wiki/por definir 
+fsnp	F-SNP	NO	Por definir 
+ftt	Feature Type Thesaurus	NO	Por definir 
+funcbase.fly	FuncBase Fly	NO	Por definir 
+funcbase.human	FuncBase Human	NO	Por definir 
+funcbase.mouse	FuncBase Mouse	NO	Por definir 
+funcbase.yeast	FuncBase Yeast	NO	Por definir 
+funderregistry	FunderRegistry	NO	Por definir 
+fungidb	Fungal and Oomycete genomics resource	NO	Por definir 
+fyeco	Fission Yeast Experimental Conditions Ontology	NO	Por definir 
+fyler	Fyler	NO	Por definir 
+fypo	Fission Yeast Phenotype Ontology	NO	Por definir 
+ga4ghdos	Data Object Service	NO	Por definir 
+gabi	GABI	NO	Por definir 
+galen	GALEN	NO	Por definir 
+gard	Genetic and Rare Diseases Information Center	SI	https://www.wikidata.org/wiki/por definir 
+gateway	Health Data Research Innovation Gateway	NO	Por definir 
+gaz	Gazetteer	SI	https://www.wikidata.org/wiki/por definir 
+gbif	Global Biodiversity Information Facility	SI	https://www.wikidata.org/wiki/por definir 
+gc	Genetic Code	NO	Por definir 
+gcst	GWAS Catalog	NO	Por definir 
+gdc	Genomic Data Commons Data Portal	NO	Por definir 
+gdsc	Genomics of Drug Sensitivity in Cancer	NO	Por definir 
+gecko	Genomics Cohorts Knowledge Ontology	NO	Por definir 
+gemet	General Multilingual Environmental Thesaurus	NO	Por definir 
+genatlas	GenAtlas	NO	Por definir 
+genbank	GenBank	NO	Por definir 
+genecards	Human Gene Database	NO	Por definir 
+genedb	GeneDB	SI	https://www.wikidata.org/wiki/Q5531047 
+genefarm	Structural and functional annotation of Arabidopsis thaliana gene and protein families	NO	Por definir 
+genepio	Genomic Epidemiology Ontology	NO	Por definir 
+genetree	GeneTree	NO	Por definir 
+genewiki	Gene Wiki	NO	Por definir 
+geno	Genotype Ontology	NO	Por definir 
+genpept	GenPept	NO	Por definir 
+genprop	Genome Properties	NO	Por definir 
+geo	Geographical Entity Ontology	NO	Por definir 
+geogeo	Geographical Entity Ontology	NO	Por definir 
+geonames	GeoNames	NO	Por definir 
+gexo	Gene Expression Ontology	NO	Por definir 
+ghr	Genetics Home Reference	NO	Por definir 
+giardiadb	GiardiaDB	NO	Por definir 
+github	GitHub	NO	Por definir 
+gitlab	GitLab	NO	Por definir 
+glida.gpcr	GLIDA GPCR	NO	Por definir 
+glida.ligand	GLIDA Ligand	NO	Por definir 
+glycoepitope	GlycoEpitope	NO	Por definir 
+glycomedb	GlycomeDB	NO	Por definir 
+glyconavi	GlycoNAVI	NO	Por definir 
+glycopost	GlycoPOST	NO	Por definir 
+glygen	GlyGen: Computational and Informatics Resources for Glycoscience	NO	Por definir 
+glytoucan	GlyTouCan	NO	Por definir 
+gmd	Golm Metabolome Database	NO	Por definir 
+gmd.analyte	Golm Metabolome Database Analyte	NO	Por definir 
+gmd.gcms	Golm Metabolome Database GC-MS spectra	NO	Por definir 
+gmd.profile	Golm Metabolome Database Profile	NO	Por definir 
+gmd.ref	Golm Metabolome Database Reference Substance	NO	Por definir 
+gmelin	Gmelins Handbuch der anorganischen Chemie	SI	https://www.wikidata.org/wiki/por definir 
+gno	Glycan Naming and Subsumption Ontology	NO	Por definir 
+gnpis	Genetic and Genomic Information System	NO	Por definir 
+go	Gene Ontology	SI	https://www.wikidata.org/wiki/por definir 
+go.model	Gene Ontology Causal Assembly Model	NO	Por definir 
+go.ref	Gene Ontology Reference	NO	Por definir 
+go.resource	Gene Ontology Registry	NO	Por definir 
+goa	Gene Ontology Annotation Database	NO	Por definir 
+goche	GO Chemicals	NO	Por definir 
+goeco	GO Evidence Code	NO	Por definir 
+gold	Genomes OnLine Database	NO	Por definir 
+gold.genome	GOLD genome	NO	Por definir 
+gold.meta	GOLD metadata	NO	Por definir 
+google.patent	Google Patents	NO	Por definir 
+google.scholar	Google Scholar Researcher ID	NO	Por definir 
+gorel	GO Relations	NO	Por definir 
+gpcrdb	Information system for G protein-coupled receptors	NO	Por definir 
+gpmdb	The Global Proteome Machine Database	NO	Por definir 
+gramene.gene	Gramene Gene	NO	Por definir 
+gramene.growthstage	Gramene Growth Stage Ontology	NO	Por definir 
+gramene.protein	Gramene protein	NO	Por definir 
+gramene.qtl	Gramene QTL	NO	Por definir 
+gramene.taxonomy	Gramene Taxonomy	NO	Por definir 
+grassbase	GrassBase	NO	Por definir 
+greengenes	Greengenes	NO	Por definir 
+grid	Global Research Identifier Database	NO	Por definir 
+grin.taxonomy	GRIN Plant Taxonomy	NO	Por definir 
+gro	Gene Regulation Ontology	NO	Por definir 
+grsdb	G-Rich Sequences Database	NO	Por definir 
+gsfa	General Standard for Food Additives Online Database	NO	Por definir 
+gsso	Gender, Sex, and Sexual Orientation Ontology	NO	Por definir 
+gtex	Genotype-Tissue Expression	NO	Por definir 
+gtr	Genetic Testing Registry	NO	Por definir 
+gudmap	GenitoUrinary Development Molecular Anatomy Project	NO	Por definir 
+gwascentral.marker	GWAS Central Marker	NO	Por definir 
+gwascentral.phenotype	GWAS Central Phenotype	NO	Por definir 
+gwascentral.study	GWAS Central Study	NO	Por definir 
+gxa.expt	GXA Expt	NO	Por definir 
+gxa.gene	GXA Gene	NO	Por definir 
+habronattus	Habronattus courtship	NO	Por definir 
+hamap	HAMAP database of microbial protein families	NO	Por definir 
+hancestro	Human Ancestry Ontology	NO	Por definir 
+hao	Hymenoptera Anatomy Ontology	NO	Por definir 
+hcao	Human Cell Atlas Ontology	NO	Por definir 
+hcpcs	Healthcare Common Procedure Coding System	NO	Por definir 
+hcvdb	Hepatitis C Virus Database	NO	Por definir 
+hdr	Homeodomain Research	NO	Por definir 
+hgmd	Human Gene Mutation Database	NO	Por definir 
+hgnc	HUGO Gene Nomenclature Committee	SI	https://www.wikidata.org/wiki/por definir 
+hgnc.genefamily	HGNC Family	NO	Por definir 
+hgnc.genegroup	HGNC Gene Group	NO	Por definir 
+hgnc.symbol	HGNC Symbol	NO	Por definir 
+hinv.locus	H-InvDb Locus	NO	Por definir 
+hinv.protein	H-InvDb Protein	NO	Por definir 
+hinv.transcript	H-InvDb Transcript	NO	Por definir 
+hipsci	Human Induced Pluripotent Stem Cells Initiative	NO	Por definir 
+hivreagentprogram	NIH HIV Reagent Program	NO	Por definir 
+hmdb	The Human Metabolome Database	SI	https://www.wikidata.org/wiki/Q5937262 
+hms.lincs.compound	HMS LINCS Compound	NO	Por definir 
+hog	Homologous Organ Groups	NO	Por definir 
+hogenom	HOGENOM	NO	Por definir 
+hom	HOMology	NO	Por definir 
+homd.seq	HOMD Sequence Metainformation	NO	Por definir 
+homd.taxon	HOMD Taxonomy	NO	Por definir 
+homologene	NCBI HomoloGene Database	SI	https://www.wikidata.org/wiki/Q468215 
+horizon_discovery	Horizon Discovery cell line collection	NO	Por definir 
+hovergen	Homologous Vertebrate Genes Database	NO	Por definir 
+hp	Human Phenotype Ontology	SI	https://www.wikidata.org/wiki/Q17027854 
+hpa	Human Protein Atlas	NO	Por definir 
+hpath	Histopathology Ontology	NO	Por definir 
+hpm.peptide	Human Proteome Map Peptide	NO	Por definir 
+hpm.protein	Human Proteome Map Protein	NO	Por definir 
+hprd	Human Protein Reference Database	NO	Por definir 
+hpscreg	Human Pluripotent Stem Cell Registry	NO	Por definir 
+hsapdv	Human Developmental Stages Ontology	NO	Por definir 
+hsdb	Hazardous Substances Data Bank	SI	https://www.wikidata.org/wiki/por definir 
+hso	Health Surveillance Ontology	NO	Por definir 
+hssp	HSSP	NO	Por definir 
+htn	Hypertension Ontology	NO	Por definir 
+huge	Human Unidentified Gene-Encoded large proteins database	NO	Por definir 
+iao	Information Artifact Ontology	NO	Por definir 
+icd10	International Classification of Diseases Version 10	SI	https://www.wikidata.org/wiki/por definir 
+icd10cm	International Classification of Diseases, Tenth Revision, Clinical Modification	SI	https://www.wikidata.org/wiki/por definir 
+icd10pcs	International Classification of Diseases Version 10 - Procedure Coding System	SI	https://www.wikidata.org/wiki/por definir 
+icd11	International Classification of Diseases Version 11	SI	https://www.wikidata.org/wiki/por definir 
+icd9	International Classification of Diseases 9th Revision	SI	https://www.wikidata.org/wiki/por definir 
+icd9cm	International Classification of Diseases, Ninth Revision, Clinical Modification	SI	https://www.wikidata.org/wiki/por definir 
+icdc	Integrated Climate Data Center	NO	Por definir 
+icdo	The International Classification of Diseases for Oncology	SI	https://www.wikidata.org/wiki/por definir 
+iceberg.element	ICEberg element	NO	Por definir 
+iceberg.family	ICEberg family	NO	Por definir 
+iceo	Integrative and Conjugative Element Ontology	NO	Por definir 
+iclc	Interlab Cell Line Collection	NO	Por definir 
+ico	Informed Consent Ontology	NO	Por definir 
+ideal	Intrinsically Disordered proteins with Extensive Annotations and Literature	NO	Por definir 
+ido	Infectious Disease Ontology Core	NO	Por definir 
+idocovid19	The COVID-19 Infectious Disease Ontology	NO	Por definir 
+idoden	Dengue Fever Ontology	NO	Por definir 
+idomal	Infection Disease Ontology Malaria	NO	Por definir 
+idoo	Identifiers.org Ontology	NO	Por definir 
+idot	Identifiers.org Terms	NO	Por definir 
+idr	Image Data Resource	NO	Por definir 
+iedb	Immune Epitope Database	NO	Por definir 
+iev	Event (INOH pathway ontology)	NO	Por definir 
+igrhcellid	Integrated Genomic Resources of human Cell Lines for Identification	NO	Por definir 
+igsn	International GeoSample Number	NO	Por definir 
+igsr	The International Genome Sample Resource	NO	Por definir 
+ihw	International Histocompatibility Workshop cell lines	NO	Por definir 
+imanis	Imanis Life Sciences cell line products	NO	Por definir 
+imdrf	International Medical Device Regulators Forum	NO	Por definir 
+imex	International Molecular Exchange	NO	Por definir 
+img.gene	Integrated Microbial Genomes Gene	NO	Por definir 
+img.taxon	Integrated Microbial Genomes Taxon	NO	Por definir 
+imgt.hla	IPD-IMGT/HLA - Human Leukocyte Antigen Sequence Database	NO	Por definir 
+imgt.ligm	IMGT LIGM	NO	Por definir 
+imr	Molecule role (INOH Protein name/family name ontology)	NO	Por definir 
+inchi	IUPAC International Chemical Identifier	SI	https://www.wikidata.org/wiki/por definir 
+inchikey	InChIKey	SI	https://www.wikidata.org/wiki/por definir 
+inhand	International Harmonization of Nomenclature and Diagnostic criteria	NO	Por definir 
+inn	International Nonproprietary Names	SI	https://www.wikidata.org/wiki/por definir 
+ino	Interaction Network Ontology	NO	Por definir 
+insdc	Nucleotide Sequence Database	NO	Por definir 
+insdc.cds	INSDC CDS	NO	Por definir 
+insdc.gca	Genome assembly database	NO	Por definir 
+insdc.run	International Nucleotide Sequence Database Collaboration (INSDC) Run	NO	Por definir 
+insdc.sra	Sequence Read Archive	NO	Por definir 
+intact	IntAct molecular interaction database	NO	Por definir 
+intact.molecule	IntAct Molecule	NO	Por definir 
+interlex	InterLex	NO	Por definir 
+interpro	Integrated resource of protein families, domains and functional sites	SI	https://www.wikidata.org/wiki/por definir 
+ird.segment	IRD Segment Sequence	NO	Por definir 
+irefweb	Interaction Reference Index Web Interface	NO	Por definir 
+iro	Insect Resistance Ontology	NO	Por definir 
+isbn	ISBN	NO	Por definir 
+isfinder	Insertion Sequence Finder	NO	Por definir 
+isni	International Standard Name Identifier	NO	Por definir 
+issn	ISSN	NO	Por definir 
+itis	Integrated Taxonomic Information System	SI	https://www.wikidata.org/wiki/por definir 
+ito	Intelligence Task Ontology	NO	Por definir 
+iuphar.family	IUPHAR family	NO	Por definir 
+iuphar.ligand	IUPHAR ligand	SI	https://www.wikidata.org/wiki/Q17091219 
+iuphar.receptor	IUPHAR receptor	SI	https://www.wikidata.org/wiki/Q17091219 
+jax	JAX Mice Database	NO	Por definir 
+jaxmice	JAX Mice	NO	Por definir 
+jcggdb	Japan Consortium for Glycobiology and Glycotechnology Database	NO	Por definir 
+jcm	Japan Collection of Microorganisms	NO	Por definir 
+jcrb	JRBC Cell Bank	NO	Por definir 
+jcsd	Japan Chemical Substance Dictionary	NO	Por definir 
+jstor	JSTOR	NO	Por definir 
+jws	JWS Online	NO	Por definir 
+kaggle	Kaggle	NO	Por definir 
+kclb	Korean Cell Line Bank	NO	Por definir 
+kegg	Kyoto Encyclopedia of Genes and Genomes	NO	Por definir 
+kegg.compound	KEGG Compound	SI	https://www.wikidata.org/wiki/por definir 
+kegg.disease	KEGG Disease	NO	Por definir 
+kegg.drug	KEGG Drug	SI	https://www.wikidata.org/wiki/por definir 
+kegg.environ	KEGG Environ	NO	Por definir 
+kegg.enzyme	KEGG Enzyme	NO	Por definir 
+kegg.genes	KEGG Genes	SI	https://www.wikidata.org/wiki/por definir 
+kegg.genome	KEGG Genome	SI	https://www.wikidata.org/wiki/por definir 
+kegg.glycan	KEGG Glycan	NO	Por definir 
+kegg.ligand	KEGG LIGAND	NO	Por definir 
+kegg.metagenome	KEGG Metagenome	NO	Por definir 
+kegg.module	KEGG Module	NO	Por definir 
+kegg.orthology	KEGG Orthology	NO	Por definir 
+kegg.pathway	KEGG Pathway	SI	https://www.wikidata.org/wiki/por definir 
+kegg.reaction	KEGG Reaction	SI	https://www.wikidata.org/wiki/Q909442 
+kerafast	Kerafast cell lines	NO	Por definir 
+knapsack	KNApSAcK	SI	https://www.wikidata.org/wiki/Q20900436 
+kupo	Kidney and Urinary Pathway Ontology	NO	Por definir 
+kyinno	KYinno cell lines	NO	Por definir 
+labo	clinical LABoratory Ontology	NO	Por definir 
+lbo	Livestock Breed Ontology	NO	Por definir 
+lei	Global LEI Index	NO	Por definir 
+lepao	Lepidoptera Anatomy Ontology	NO	Por definir 
+lgai.cede	LG Chemical Entity Detection Dataset (LGCEDe)	NO	Por definir 
+lgic	Ligand-Gated Ion Channel database	NO	Por definir 
+licebase	LiceBase	NO	Por definir 
+ligandbook	LigandBook	NO	Por definir 
+ligandbox	LigandBox	NO	Por definir 
+ligandexpo	Ligand Expo	NO	Por definir 
+ligea	Cancer cell LInes GEne fusions portAl	NO	Por definir 
+limore	Liver Cancer Model Repository	NO	Por definir 
+lincs.cell	LINCS Cell	NO	Por definir 
+lincs.data	LINCS Data	NO	Por definir 
+lincs.protein	LINCS Protein	NO	Por definir 
+lincs.smallmolecule	LINCS Small Molecule	NO	Por definir 
+linguist	Linguist	NO	Por definir 
+lipidbank	LipidBank	NO	Por definir 
+lipidmaps	LIPID MAPS	SI	https://www.wikidata.org/wiki/por definir 
+lipro	Lipid Ontology	NO	Por definir 
+lncipedia	LNCipedia	NO	Por definir 
+loggerhead	Loggerhead nesting	NO	Por definir 
+loinc	Logical Observation Identifier Names and Codes	NO	Por definir 
+lonza	Lonza	NO	Por definir 
+lotus	LOTUS Initiative for Open Natural Products Research	SI	https://www.wikidata.org/wiki/Q104225190 
+lrg	Locus Reference Genomic	NO	Por definir 
+lspci	Laboratory of Systems Pharmacology Compound ID	NO	Por definir 
+lter	Long Term Ecological Research Controlled Vocabulary	NO	Por definir 
+ma	Mouse Adult Gross Anatomy Ontology	NO	Por definir 
+macie	Mechanism, Annotation and Classification in Enzymes	NO	Por definir 
+maizegdb.locus	Maize Genetics and Genomics Database	NO	Por definir 
+mamo	Mathematical Modelling Ontology	NO	Por definir 
+mao	Multiple alignment	NO	Por definir 
+massbank	MassBank Europe	SI	https://www.wikidata.org/wiki/Q24088019 
+massive	Mass Spectrometry Interactive Virtual Environment	NO	Por definir 
+mat	Minimal Anatomical Terminology	NO	Por definir 
+matrixdb	Extracellular Matrix Interaction Database	NO	Por definir 
+matrixdb.association	MatrixDB Association	NO	Por definir 
+maxo	Medical Action Ontology	NO	Por definir 
+mcc	Cell Line Ontology [derivative]	NO	Por definir 
+mco	Microbial Conditions Ontology	NO	Por definir 
+mdm	Medical Data Models	NO	Por definir 
+meddra	Medical Dictionary for Regulatory Activities Terminology	SI	https://www.wikidata.org/wiki/por definir 
+medgen	MedGen	NO	Por definir 
+medlineplus	MedlinePlus Health Topics	NO	Por definir 
+merops	MEROPS	NO	Por definir 
+merops.family	MEROPS Family	NO	Por definir 
+merops.inhibitor	MEROPS Inhibitor	NO	Por definir 
+mesh	Medical Subject Headings	SI	https://www.wikidata.org/wiki/Q199897 
+mesh.2012	MeSH 2012	NO	Por definir 
+mesh.2013	MeSH 2013	NO	Por definir 
+metabolights	MetaboLights	SI	https://www.wikidata.org/wiki/Q24174701 
+metacyc.compound	MetaCyc	NO	Por definir 
+metacyc.reaction	MetaCyc Reaction	NO	Por definir 
+metanetx.chemical	MetaNetX chemical	NO	Por definir 
+metanetx.compartment	MetaNetX compartment	NO	Por definir 
+metanetx.reaction	MetaNetX reaction	NO	Por definir 
+metlin	Metabolite and Tandem Mass Spectrometry Database	NO	Por definir 
+mex	Metabolome Express	NO	Por definir 
+mf	Mental Functioning Ontology	NO	Por definir 
+mfmo	Mammalian Feeding Muscle Ontology	NO	Por definir 
+mfo	Medaka Fish Anatomy and Development Ontology	NO	Por definir 
+mfoem	Emotion Ontology	NO	Por definir 
+mfomd	MFO Mental Disease Ontology	NO	Por definir 
+mge	Aclame	NO	Por definir 
+mgi	Mouse Genome Database - a Mouse Genome Informatics (MGI) Resource	SI	https://www.wikidata.org/wiki/Q1951035 
+mgnify.analysis	MGnify Analysis	NO	Por definir 
+mgnify.proj	MGnify Project	NO	Por definir 
+mgnify.samp	MGnify Sample	NO	Por definir 
+mi	Molecular Interactions Ontology	NO	Por definir 
+miaa	Minimal Information About Anatomy ontology	NO	Por definir 
+miapa	Minimal Information About a Phylogenetic Analysis	NO	Por definir 
+micro	Ontology of Prokaryotic Phenotypic and Metabolic Characters	NO	Por definir 
+microscope	Microbial Genome Annotation & Analysis Platform	NO	Por definir 
+microsporidia	MicrosporidiaDB	NO	Por definir 
+millipore	Merck Millipore (EMD Millipore)	NO	Por definir 
+mim	Online Mendelian Inheritance in Man	SI	https://www.wikidata.org/wiki/Q241953 
+mim.ps	OMIM Phenotypic Series	NO	Por definir 
+mimodb	Mimotope Database	NO	Por definir 
+minid	Minimal Viable Identifier	NO	Por definir 
+minid.test	MINID Test	NO	Por definir 
+mint	Molecular INTeraction Database	NO	Por definir 
+mipmod	MIPModDB	NO	Por definir 
+mir	Identifiers.org Registry	NO	Por definir 
+mirbase	miRBase	SI	https://www.wikidata.org/wiki/Q6826947 
+mirbase.family	miRBase Families	SI	https://www.wikidata.org/wiki/Q6826947 
+mirbase.mature	miRBase mature sequence	SI	https://www.wikidata.org/wiki/Q6826947 
+mirex	mirEX	NO	Por definir 
+miriam	Minimal Information Required In the Annotation of Models	NO	Por definir 
+miriam.collection	MIRIAM Registry collection	NO	Por definir 
+miriam.resource	MIRIAM Registry resource	NO	Por definir 
+mirnao	MicroRNA Ontology	NO	Por definir 
+mirnest	miRNEST	NO	Por definir 
+miro	Mosquito Insecticide Resistance Ontology	NO	Por definir 
+mirtarbase	miRTarBase	NO	Por definir 
+mirte	miRNA Target Prediction at EMBL	NO	Por definir 
+mlc	MLCommons Association	NO	Por definir 
+mmdb	Molecular Modeling Database	NO	Por definir 
+mmmp.biomaps	Melanoma Molecular Map Project Biomaps	NO	Por definir 
+mmo	Measurement Method Ontology	NO	Por definir 
+mmp.cat	MarCat	NO	Por definir 
+mmp.db	MarDB	NO	Por definir 
+mmp.fun	MarFun	NO	Por definir 
+mmp.ref	MarRef	NO	Por definir 
+mmrrc	Mutant Mouse Resource and Research Centers	NO	Por definir 
+mmsl	Multum MediSource Lexicon	NO	Por definir 
+mmusdv	Mouse Developmental Stages	NO	Por definir 
+mo	MGED Ontology	NO	Por definir 
+mobidb	MobiDB	NO	Por definir 
+mod	Protein Modification Ontology	NO	Por definir 
+modeldb	ModelDB	NO	Por definir 
+molbase	Molbase	NO	Por definir 
+molbase.sheffield	MolBase	NO	Por definir 
+molmedb	MolMeDB: Molecules on Membranes Database	NO	Por definir 
+mondo	Monarch Disease Ontology	SI	https://www.wikidata.org/wiki/por definir 
+mop	Molecular Process Ontology	NO	Por definir 
+morpheus	Morpheus model repository	NO	Por definir 
+mp	Mammalian Phenotype Ontology	NO	Por definir 
+mpath	Mouse PATHology	NO	Por definir 
+mpid	Microbial Protein Interaction Database	NO	Por definir 
+mpio	Minimum PDDI Information Ontology	NO	Por definir 
+mro	MHC Restriction Ontology	NO	Por definir 
+ms	Mass Spectrometry Controlled Vocabulary	NO	Por definir 
+msigdb	Molecular Signatures Database	SI	https://www.wikidata.org/wiki/por definir 
+msio	Metabolomics Standards Initiative Ontology	NO	Por definir 
+multicellds	MultiCellular Data Standard	NO	Por definir 
+multicellds.cell_line	MultiCellDS Digital Cell Line	NO	Por definir 
+multicellds.collection	MultiCellDS collection	NO	Por definir 
+multicellds.snapshot	MultiCellDS Digital snapshot	NO	Por definir 
+mw.project	Metabolomics Workbench Project	NO	Por definir 
+mw.study	Metabolomics Workbench Study	NO	Por definir 
+myco.lepra	MycoBrowser leprae	NO	Por definir 
+myco.marinum	MycoBrowser marinum	NO	Por definir 
+myco.smeg	MycoBrowser smegmatis	NO	Por definir 
+myco.tuber	MycoBrowser tuberculosis	NO	Por definir 
+mycobank	MycoBank	NO	Por definir 
+mzspec	Universal Spectrum Identifier	NO	Por definir 
+n2t	Name-to-Thing	NO	Por definir 
+namerxn	NameRXN	NO	Por definir 
+napdi	Natural Product-Drug Interaction Research Data Repository	NO	Por definir 
+napp	Nucleic Acid Phylogenetic Profile	NO	Por definir 
+narcis	NARCIS	NO	Por definir 
+nasc	Nottingham Arabidopsis Stock Centre Seeds Database	NO	Por definir 
+nbn	National Bibliography Number	NO	Por definir 
+nbo	Neuro Behavior Ontology	NO	Por definir 
+nbrc	NITE Biological Research Center Catalogue	NO	Por definir 
+ncats.drug	NCATS Drugs	NO	Por definir 
+ncbi.resource	NCBI Registry	NO	Por definir 
+ncbibook	NCBI Bookshelf	NO	Por definir 
+ncbigene	NCBI Gene	SI	https://www.wikidata.org/wiki/Q1345229 
+ncbiprotein	NCBI Protein	NO	Por definir 
+ncbitaxon	NCBI Taxonomy	SI	https://www.wikidata.org/wiki/Q13711410 
+ncim	NCI Metathesaurus	NO	Por definir 
+ncit	NCI Thesaurus	SI	https://www.wikidata.org/wiki/Q19404626 
+ncro	Non-coding RNA Ontology	NO	Por definir 
+ndc	National Drug Code	NO	Por definir 
+nddf	National Drug Data File	NO	Por definir 
+ndex	The Network Data Exchange	NO	Por definir 
+ndfrt	National Drug File	SI	https://www.wikidata.org/wiki/Q21008030 
+nemo	Neural ElectroMagnetic Ontologies	NO	Por definir 
+neurolex	NeuroLex	NO	Por definir 
+neuromorpho	NeuroMorpho	NO	Por definir 
+neuronames	NeuroNames	SI	https://www.wikidata.org/wiki/por definir 
+neurondb	NeuronDB	NO	Por definir 
+neurovault.collection	NeuroVault Collection	NO	Por definir 
+neurovault.image	NeuroVault Image	NO	Por definir 
+nextdb	Nematode Expression Pattern DataBase	NO	Por definir 
+nextprot	neXtProt	SI	https://www.wikidata.org/wiki/Q6983890 
+nextprot.family	neXtProt family	NO	Por definir 
+ngl	NASA GeneLab	NO	Por definir 
+nhcdr	NINDS Human Cell and Data Repository	NO	Por definir 
+niaest	NIA Mouse cDNA Project	NO	Por definir 
+nif_cell	Neuroscience Information Framework (NIF) Cell Ontology	NO	Por definir 
+nif_dysfunction	NIF Dysfunction	NO	Por definir 
+nif_grossanatomy	NIF Gross Anatomy	NO	Por definir 
+nist	NIST Chemistry WebBook	NO	Por definir 
+nlm	National Library of Medicine Catalog	NO	Por definir 
+nlxanat	NeuroLex Anatomy	NO	Por definir 
+nlxdys	NeuroLex Dysfunction	NO	Por definir 
+nmdc	National Microbiome Data Collaborative	SI	https://www.wikidata.org/wiki/Q107698738 
+nmr	Nuclear Magnetic Resonance Controlled Vocabulary	NO	Por definir 
+nmrshiftdb2	nmrshiftdb2	NO	Por definir 
+nomen	A nomenclatural ontology for biological names	NO	Por definir 
+noncodev3	NONCODE v3	NO	Por definir 
+noncodev4.gene	NONCODE v4 Gene	NO	Por definir 
+noncodev4.rna	NONCODE v4 Transcript	NO	Por definir 
+norine	Non-Ribosomal Peptides Database	NO	Por definir 
+novus	Novus Biologicals	NO	Por definir 
+npass	Natural Product Activity and Species Source Database	NO	Por definir 
+npo	NanoParticle Ontology	NO	Por definir 
+nuclearbd	NucleaRDB	NO	Por definir 
+nucleotide	Nucleotide	NO	Por definir 
+oa	Web Annotation Ontology	NO	Por definir 
+oae	Ontology of Adverse Events	NO	Por definir 
+oarcs	Ontology of Arthropod Circulatory Systems	NO	Por definir 
+oba	Ontology of Biological Attributes	NO	Por definir 
+obcs	Ontology of Biological and Clinical Statistics	NO	Por definir 
+obi	Ontology for Biomedical Investigations	NO	Por definir 
+obib	Ontology for Biobanking	NO	Por definir 
+obo	OBO Foundry	NO	Por definir 
+oboformat	OBO Format Syntax and Semantics	NO	Por definir 
+oboinowl	OBO in OWL	NO	Por definir 
+occ	OpenCitations Corpus	NO	Por definir 
+oci	Open Citation Identifier	NO	Por definir 
+ocid	Ontology Concept Identifiers	NO	Por definir 
+oclc	Online Computer Library Center WorldCat	NO	Por definir 
+odam	Open Data for Access and Mining	NO	Por definir 
+odc.sci	Open Data Commons for Spinal Cord Injury	NO	Por definir 
+odc.tbi	Open Data Commons for Traumatic Brain Injury	NO	Por definir 
+odor	Odor Molecules DataBase	NO	Por definir 
+ogg	Ontology of Genes and Genomes	NO	Por definir 
+ogi	Ontology for Genetic Interval	NO	Por definir 
+ogms	Ontology for General Medical Science	SI	https://www.wikidata.org/wiki/Q4866972 
+ogsf	Ontology for Genetic Susceptibility Factor	NO	Por definir 
+ohd	The Oral Health and Disease Ontology	NO	Por definir 
+ohmi	Ontology of Host-Microbe Interactions	NO	Por definir 
+ohpi	Ontology of Host-Pathogen Interactions	NO	Por definir 
+oid	OID Repository	NO	Por definir 
+olatdv	Medaka Stage Ontology	NO	Por definir 
+om	Ontology of units of Measure	NO	Por definir 
+oma.grp	OMA Group	NO	Por definir 
+oma.hog	OMA HOGs	NO	Por definir 
+oma.protein	OMA Protein	NO	Por definir 
+omia	Online Mendelian Inheritance in Animals	NO	Por definir 
+omiabis	Ontologized MIABIS	NO	Por definir 
+omit	Ontology for MicroRNA Target	SI	https://www.wikidata.org/wiki/Q55118529 
+omo	OBO Metadata Ontology	NO	Por definir 
+omop	Observational Medical Outcomes Partnership	NO	Por definir 
+omp	Ontology of Microbial Phenotypes	SI	https://www.wikidata.org/wiki/Q81661753 
+omrse	Ontology of Medically Related Social Entities	NO	Por definir 
+oncotree	OncoTree	NO	Por definir 
+one	Ontology for Nutritional epidemiology	NO	Por definir 
+ons	Ontology for Nutritional Studies	NO	Por definir 
+ontoavida	Ontology for Avida digital evolution platform	NO	Por definir 
+ontoneo	Obstetric and Neonatal Ontology	NO	Por definir 
+oostt	Ontology of Organizational Structures of Trauma centers and Trauma systems	NO	Por definir 
+opb	Ontology of Physics for Biology	NO	Por definir 
+openalex	OpenAlex	NO	Por definir 
+opl	Ontology for Parasite LifeCycle	NO	Por definir 
+opm	Open Provenance Model	NO	Por definir 
+opmi	Ontology of Precision Medicine and Investigation	NO	Por definir 
+orcid	Open Researcher and Contributor ID	SI	https://www.wikidata.org/wiki/Q51044 
+ordb	Olfactory Receptor Database	NO	Por definir 
+oridb.sacch	OriDB Saccharomyces	NO	Por definir 
+oridb.schizo	OriDB Schizosaccharomyces	NO	Por definir 
+ornaseq	Ontology of RNA Sequencing	NO	Por definir 
+orphanet	Orphanet	SI	https://www.wikidata.org/wiki/Q1515833 
+orphanet.ordo	Orphanet Rare Diseases Ontology	NO	Por definir 
+orth	Orthology Ontology	NO	Por definir 
+orthodb	Database of Orthologous Groups	NO	Por definir 
+oryzabase.gene	Oryzabase Gene	NO	Por definir 
+oryzabase.mutant	Oryzabase Mutant	NO	Por definir 
+oryzabase.reference	Oryzabase Reference	NO	Por definir 
+oryzabase.stage	Oryzabase Stage	NO	Por definir 
+oryzabase.strain	Oryzabase Strain	NO	Por definir 
+otl	Oryza Tag Line	NO	Por definir 
+ovae	Ontology of Vaccine Adverse Events	NO	Por definir 
+owl	Web Ontology Language	NO	Por definir 
+p3db.protein	P3DB Protein	NO	Por definir 
+p3db.site	P3DB Site	NO	Por definir 
+paleodb	Paleobiology Database	NO	Por definir 
+panorama	Panorama Public	NO	Por definir 
+panther.family	PANTHER Family	NO	Por definir 
+panther.node	PANTHER Node	NO	Por definir 
+panther.pathway	PANTHER Pathway	NO	Por definir 
+panther.pthcmp	PANTHER Pathway Component	NO	Por definir 
+pao	Plant Anatomy Ontology	NO	Por definir 
+pass2	Protein Alignment organised as Structural Superfamily	NO	Por definir 
+pathbank	PathBank	NO	Por definir 
+pathwaycommons	Pathway Commons	NO	Por definir 
+pato	Phenotypic QualiTy Ontology	NO	Por definir 
+pav	Provenance, Authoring and Versioning Ontology	NO	Por definir 
+paxdb.organism	PaxDb Organism	NO	Por definir 
+paxdb.protein	PaxDb Protein	NO	Por definir 
+pazar	PAZAR	NO	Por definir 
+pcl	Provisional Cell Ontology	NO	Por definir 
+pco	Population and Community Ontology	NO	Por definir 
+pd_st	Platynereis stage ontology	NO	Por definir 
+pdb	Worldwide Protein Data Bank	SI	https://www.wikidata.org/wiki/Q766195 
+pdb-ccd	Chemical Component Dictionary	NO	Por definir 
+pdb.ligand	Protein Data Bank Ligand	SI	https://www.wikidata.org/wiki/por definir 
+pdro	The Prescription of Drugs Ontology	NO	Por definir 
+pdumdv	Platynereis Developmental Stages	NO	Por definir 
+peco	Plant Experimental Condition Ontology	NO	Por definir 
+ped	PED	NO	Por definir 
+ped.ensemble	Protein Ensemble Database ensemble	NO	Por definir 
+peff	PSI Extended File Format	NO	Por definir 
+peptideatlas	PeptideAtlas	NO	Por definir 
+peptideatlas.dataset	PeptideAtlas Dataset	NO	Por definir 
+perkinelmer	PerkinElmer cell line collection	NO	Por definir 
+peroxibase	PeroxiBase	NO	Por definir 
+pesticides	Alan Wood's Pesticides	NO	Por definir 
+pfam	Protein Families	SI	https://www.wikidata.org/wiki/Q906796 
+pfam.clan	Pfam Clans	NO	Por definir 
+pfr	Texas Data Repository	NO	Por definir 
+pgdso	Plant Growth and Development Stage	NO	Por definir 
+pgs	Polygenic Score Catalog	NO	Por definir 
+pgx	Progenetix	NO	Por definir 
+pharmacodb.cell	PharmacoDB Cells	NO	Por definir 
+pharmacodb.dataset	PharmacoDB Datasets	NO	Por definir 
+pharmacodb.tissue	PharmacoDB Tissues	NO	Por definir 
+pharmgkb.disease	PharmGKB Disease	SI	https://www.wikidata.org/wiki/por definir 
+pharmgkb.drug	PharmGKB Drug	SI	https://www.wikidata.org/wiki/por definir 
+pharmgkb.gene	PharmGKB Gene	SI	https://www.wikidata.org/wiki/por definir 
+pharmgkb.pathways	PharmGKB Pathways	SI	https://www.wikidata.org/wiki/por definir 
+phenolexplorer	Phenol-Explorer	NO	Por definir 
+phenx	PhenX Phenotypic Terms	NO	Por definir 
+phipo	Pathogen Host Interaction Phenotype Ontology	NO	Por definir 
+phosphopoint.kinase	PhosphoPoint Kinase	NO	Por definir 
+phosphopoint.protein	PhosphoPoint Phosphoprotein	NO	Por definir 
+phosphosite.protein	PhosphoSite Protein	NO	Por definir 
+phosphosite.residue	PhosphoSite Residue	NO	Por definir 
+phylomedb	PhylomeDB	NO	Por definir 
+phytozome.locus	Phytozome Locus	NO	Por definir 
+pictar	PicTar	NO	Por definir 
+pid.pathway	Pathway Interaction Database	NO	Por definir 
+pigqtldb	Animal Genome Pig QTL	NO	Por definir 
+pina	Protein Interaction Network Analysis platform	NO	Por definir 
+piroplasma	PiroplasmaDB	NO	Por definir 
+pirsf	PIR SuperFamily	NO	Por definir 
+pkdb	Pharmacokinetics Database	NO	Por definir 
+plana	Planarian Anatomy and Developmental Stage Ontology	NO	Por definir 
+planp	Planarian Phenotype Ontology	NO	Por definir 
+planttfdb	Plant Transcription Factor Database	NO	Por definir 
+plasmodb	PlasmoDB	NO	Por definir 
+plo	Plasmodium Life Cycle	NO	Por definir 
+pmap.cutdb	CutDB	NO	Por definir 
+pmap.substratedb	SubstrateDB	NO	Por definir 
+pmc	PubMed Central	SI	https://www.wikidata.org/wiki/por definir 
+pmdb	Protein Model Database	NO	Por definir 
+pmp	Protein Model Portal	NO	Por definir 
+pmr	Physiome Model Repository	NO	Por definir 
+po	Plant Ontology	NO	Por definir 
+pocketome	Pocketome: an encyclopedia of small-molecule binding sites in 4D	NO	Por definir 
+polbase	Polbase	NO	Por definir 
+pombase	PomBase	SI	https://www.wikidata.org/wiki/Q25304673 
+poro	Porifera Ontology	NO	Por definir 
+ppdb	Plant Promoter Database	NO	Por definir 
+ppo	Plant Phenology Ontology	NO	Por definir 
+ppr	Europe PMC Preprints	NO	Por definir 
+pr	PRotein Ontology	SI	https://www.wikidata.org/wiki/Q55118584 
+pride	PRoteomics IDEntifications database	NO	Por definir 
+pride.project	PRIDE Project	NO	Por definir 
+prints	PRINTS	NO	Por definir 
+probonto	Ontology and Knowledge Base of Probability Distributions	NO	Por definir 
+prodom	ProDom	NO	Por definir 
+proglyc	ProGlycProt	NO	Por definir 
+propreo	Proteomics Data and Process Provenance Ontology	NO	Por definir 
+prosite	PROSITE	SI	https://www.wikidata.org/wiki/Q899676 
+protclustdb	NCBI Protein Clusters Database	NO	Por definir 
+proteomicsdb.peptide	ProteomicsDB Peptide	NO	Por definir 
+proteomicsdb.protein	ProteomicsDB Protein	NO	Por definir 
+protonet.cluster	ProtoNet Cluster	NO	Por definir 
+protonet.proteincard	ProtoNet ProteinCard	NO	Por definir 
+prov	PROV Namespace	NO	Por definir 
+pscdb	Protein Structure Change Database	NO	Por definir 
+psdo	Performance Summary Display Ontology	NO	Por definir 
+pseudogene	PseudoGene	SI	https://www.wikidata.org/wiki/Q7254809 
+pseudomonas	Pseudomonas Genome Database	NO	Por definir 
+psipar	Protein Affinity Reagents	NO	Por definir 
+pso	PatientSafetyOntology	NO	Por definir 
+pspub	Phenoscape Publication	NO	Por definir 
+pubchem.bioassay	PubChem-bioassay	NO	Por definir 
+pubchem.compound	PubChem	SI	https://www.wikidata.org/wiki/Q278487 
+pubchem.element	PubChem Element	NO	Por definir 
+pubchem.substance	PubChem-substance	SI	https://www.wikidata.org/wiki/Q278487 
+publons.researcher	Publons Researcher ID	NO	Por definir 
+pubmed	PubMed	SI	https://www.wikidata.org/wiki/por definir 
+pw	Pathway Ontology	SI	https://www.wikidata.org/wiki/Q28864280 
+px	ProteomeXchange	NO	Por definir 
+pypi	PyPI	NO	Por definir 
+qtldb	Animal Genome QTL	NO	Por definir 
+qudt	Quantities, Units, Dimensions and Types	NO	Por definir 
+radiomics	Radiomics Ontology	NO	Por definir 
+rapdb.locus	RAP-DB Locus	NO	Por definir 
+rapdb.transcript	RAP-DB Transcript	NO	Por definir 
+rbk	(Re)Building a Kidney	NO	Por definir 
+rbo	Radiation Biology Ontology	NO	Por definir 
+rcb	RIKEN Bioresource Center Cell Bank	NO	Por definir 
+rdf	Resource Description Framework	NO	Por definir 
+rdfs	Resource Description Framework Schema	NO	Por definir 
+rdo	RGD Disease_Ontology	NO	Por definir 
+re3data	re3data	NO	Por definir 
+reactome	Reactome	SI	https://www.wikidata.org/wiki/Q2134522 
+reaxys	Reaxys	SI	https://www.wikidata.org/wiki/por definir 
+rebase	Restriction enzymes and methylases database	NO	Por definir 
+receptome.family	Human Plasma Membrane Receptome Families	NO	Por definir 
+refseq	Reference Sequence Database	NO	Por definir 
+reo	Reagent Ontology	NO	Por definir 
+repeatsdb.protein	RepeatsDB Protein	NO	Por definir 
+repeatsdb.structure	RepeatsDB Structure	NO	Por definir 
+reproduceme	REPRODUCE-ME	NO	Por definir 
+resid	RESID	NO	Por definir 
+reto	Regulation of Transcription Ontolology	NO	Por definir 
+rex	Physico-chemical process	NO	Por definir 
+rexo	Regulation of Gene Expression Ontolology	NO	Por definir 
+rfam	Rfam	NO	Por definir 
+rgd	Rat Genome Database	SI	https://www.wikidata.org/wiki/Q7295410 
+rgd.qtl	Rat Genome Database qTL	NO	Por definir 
+rgd.strain	Rat Genome Database strain	NO	Por definir 
+rhea	Rhea	SI	https://www.wikidata.org/wiki/Q24265951 
+ricegap	Rice Genome Annotation Project	NO	Por definir 
+ricenetdb.compound	RiceNetDB Compound	NO	Por definir 
+ricenetdb.gene	RiceNetDB Gene	NO	Por definir 
+ricenetdb.mirna	RiceNetDB miRNA	NO	Por definir 
+ricenetdb.protein	RiceNetDB Protein	NO	Por definir 
+ricenetdb.reaction	RiceNetDB Reaction	NO	Por definir 
+rnacentral	RNAcentral	NO	Por definir 
+rnamod	The RNA Modification Database	NO	Por definir 
+rnamods	RNA Modification Database	NO	Por definir 
+rnao	RNA Ontology	NO	Por definir 
+ro	OBO Relations Ontology	SI	https://www.wikidata.org/wiki/por definir 
+rouge	ROdent Unidentified Gene-Encoded large proteins	NO	Por definir 
+rrid	Research Resource Identifiers	NO	Por definir 
+rs	Rat Strain Ontology	NO	Por definir 
+runbiosimulations	runBioSimulations	NO	Por definir 
+rxno	Name Reaction Ontology	SI	https://www.wikidata.org/wiki/por definir 
+rxnorm	RxNORM	SI	https://www.wikidata.org/wiki/Q7383767 
+sabiork.compound	SABIO-RK Compound	NO	Por definir 
+sabiork.ec	SABIO-RK EC Record	NO	Por definir 
+sabiork.kineticrecord	SABIO-RK Kinetic Record	NO	Por definir 
+sabiork.reaction	SABIO-RK Biochemical Reaction Kinetics Database	NO	Por definir 
+sael	Standards and Ontologies for Functional Genomics (SOFG) Anatomy Entry List	NO	Por definir 
+salk	Salk Institute for Biological Studies Accession	NO	Por definir 
+sao	Subcellular Anatomy Ontology	NO	Por definir 
+sasbdb	Small angle scattering biological data bank	NO	Por definir 
+sbo	Systems Biology Ontology	NO	Por definir 
+scdo	Sickle Cell Disease Ontology	NO	Por definir 
+schem	Selventa Chemicals	NO	Por definir 
+scholia.resource	Scholia Registry	NO	Por definir 
+scomp	Selventa Complexes	NO	Por definir 
+scop	Structural Classification Of Proteins	NO	Por definir 
+scopus	Scopus	NO	Por definir 
+scretf	ScerTF	NO	Por definir 
+sdbs	Spectral Database for Organic Compounds	NO	Por definir 
+sdgio	Sustainable Development Goals Interface Ontology	NO	Por definir 
+sdis	Selventa Diseases	NO	Por definir 
+sedml.format	SED-ML data format	NO	Por definir 
+sedml.language	SED-ML model format	NO	Por definir 
+seed	SEED Subsystem	NO	Por definir 
+seed.compound	SEED Compound	NO	Por definir 
+seed.reaction	SEED Reactions	NO	Por definir 
+sep	Sample Processing and Separation Techniques Ontology	NO	Por definir 
+sepio	Scientific Evidence and Provenance Information Ontology	NO	Por definir 
+sfam	Selventa Families	NO	Por definir 
+sgd	Saccharomyces Genome Database	SI	https://www.wikidata.org/wiki/Q3460832 
+sgd.pathways	Saccharomyces genome database pathways	NO	Por definir 
+sgn	Sol Genomics Network	NO	Por definir 
+sheepqtldb	Animal Genome Sheep QTL	NO	Por definir 
+sibo	Social Inset Behavior Ontology	NO	Por definir 
+sider.drug	SIDER Drug	NO	Por definir 
+sider.effect	SIDER Side Effect	NO	Por definir 
+sigmaaldirch	Sigma Aldrich	NO	Por definir 
+signaling-gateway	Signaling Gateway	NO	Por definir 
+signor	SIGnaling Network Open Resource	NO	Por definir 
+signor.relation	SIGNOR Relation	NO	Por definir 
+sio	Semanticscience Integrated Ontology	NO	Por definir 
+sisu	Sequencing Initiative Suomi	NO	Por definir 
+sitex	SitEx database of eukaryotic protein functional sites	NO	Por definir 
+skip	Stemcell Knowledge and Information Portal	NO	Por definir 
+skos	Simple Knowledge Organization System	NO	Por definir 
+slkbase	SUM Breast Cancer Cell Line Knowledge Base	NO	Por definir 
+smart	Simple Modular Architecture Research Tool	NO	Por definir 
+smid	C. elegans Small Molecule Identifier Database	NO	Por definir 
+smiles	Simplified Molecular Input Line Entry Specification Format	SI	https://www.wikidata.org/wiki/por definir 
+smpdb	Small Molecule Pathway Database	NO	Por definir 
+snap	Snapshot	NO	Por definir 
+snomedct	Systematized Nomenclature of Medicine-Clinical Terms	SI	https://www.wikidata.org/wiki/Q1753883 
+snornabase	snoRNABase	SI	https://www.wikidata.org/wiki/por definir 
+snp2tfbs	SNP to Transcription Factor Binding Sites	NO	Por definir 
+so	Sequence Ontology	NO	Por definir 
+sopharm	Suggested Ontology for Pharmacogenomics	NO	Por definir 
+soybase	SoyBase	NO	Por definir 
+span	Span	NO	Por definir 
+spd	Spider Anatomy Ontology	SI	https://www.wikidata.org/wiki/por definir 
+spdx	Software Package Data Exchange License	NO	Por definir 
+spike.map	SPIKE Map	NO	Por definir 
+splash	Spectra Hash Code	NO	Por definir 
+spp	Signaling Pathways Project	NO	Por definir 
+srao	Subject Resource Application Ontology	NO	Por definir 
+ssbd.dataset	SSBD: Systems Science of Biological Dynamics	NO	Por definir 
+ssbd.project	System Science of Biological Dynamics project	NO	Por definir 
+stap	Statistical Torsional Angles Potentials of NMR Refinement Database	NO	Por definir 
+stato	Statistics Ontology	NO	Por definir 
+stitch	Search Tool for Interactions of Chemicals	NO	Por definir 
+storedb	STOREDB	NO	Por definir 
+string	STRING	NO	Por definir 
+sty	Semantic Types Ontology	NO	Por definir 
+subtilist	Bacillus subtilis strain 168 genome	NO	Por definir 
+subtiwiki	SubtiWiki	NO	Por definir 
+sugarbind	SugarBind	NO	Por definir 
+supfam	SUPERFAMILY	NO	Por definir 
+sweetrealm	Semantic Web for Earth and Environment Technology Ontology	NO	Por definir 
+swh	Software Heritage	NO	Por definir 
+swiss-model	SWISS-MODEL Repository of 3D protein structure models	NO	Por definir 
+swisslipid	SwissLipids	SI	https://www.wikidata.org/wiki/Q41165322 
+swissregulon	SwissRegulon	NO	Por definir 
+swo	SoftWare Ontology	NO	Por definir 
+symp	Symptom Ontology	SI	https://www.wikidata.org/wiki/por definir 
+syoid	Gemina Symptom Ontology Identifier	NO	Por definir 
+t3db	Toxin and Toxin Target Database	NO	Por definir 
+tads	Tick Gross Anatomy	NO	Por definir 
+tahe	Terminology of Anatomy of Human Embryology	NO	Por definir 
+tahh	Terminology of Anatomy of Human Histology	NO	Por definir 
+tair.gene	TAIR Gene	NO	Por definir 
+tair.locus	TAIR Locus	NO	Por definir 
+tair.protein	TAIR Protein	NO	Por definir 
+tao	Teleost Anatomy Ontology	NO	Por definir 
+tarbase	TarBase	NO	Por definir 
+taxrank	Taxonomic Rank Vocabulary	NO	Por definir 
+tcb	Tick Cell Biobank	NO	Por definir 
+tcdb	Transporter Classification Database	SI	https://www.wikidata.org/wiki/Q142667 
+te	Terminologia Embryologica	SI	https://www.wikidata.org/wiki/por definir 
+tfclass	Transcription Factor Class	NO	Por definir 
+tgd	Tetrahymena Genome Database	NO	Por definir 
+tgma	Mosquito gross anatomy	NO	Por definir 
+tgn	Getty Thesaurus of Geographic Names	NO	Por definir 
+th	Terminologia Histologica	NO	Por definir 
+thermofisher	Thermo Fisher Scientific	NO	Por definir 
+tigrfam	TIGRFAMS	NO	Por definir 
+tkg	Tohoku University cell line catalog	NO	Por definir 
+tngb	Telethon Network of Genetic Biobanks	NO	Por definir 
+to	Plant Trait Ontology	NO	Por definir 
+tokue	TOKU-E Cell-culture Database	NO	Por definir 
+tol	Tree of Life	NO	Por definir 
+topdb	Topology Data Bank of Transmembrane Proteins	NO	Por definir 
+topfind	Termini-Oriented Protein Function INferred Database	NO	Por definir 
+toxoplasma	ToxoDB	NO	Por definir 
+trans	Nurse Transitional	NO	Por definir 
+transyt	Transport Systems Tracker	NO	Por definir 
+treebase	TreeBase	NO	Por definir 
+treefam	TreeFam	NO	Por definir 
+trichdb	TrichDB	NO	Por definir 
+tritrypdb	TriTrypDB	NO	Por definir 
+ttd.drug	TTD Drug	NO	Por definir 
+ttd.target	TTD Target	NO	Por definir 
+tto	Teleost Taxonomy Ontology	SI	https://www.wikidata.org/wiki/Q81661821 
+txpo	Toxic Process Ontology	NO	Por definir 
+uberon	UBER anatomy ONtology	SI	https://www.wikidata.org/wiki/por definir 
+ubio.namebank	uBio NameBank	NO	Por definir 
+ubprop	Uberon Property	NO	Por definir 
+ucsc	UCSC Genome Browser	SI	https://www.wikidata.org/wiki/por definir 
+umbbd.compound	UM-BBD Compound	SI	https://www.wikidata.org/wiki/por definir 
+umbbd.enzyme	UM-BBD Enzyme	NO	Por definir 
+umbbd.pathway	UM-BBD Pathway	NO	Por definir 
+umbbd.reaction	UM-BBD Reaction	SI	https://www.wikidata.org/wiki/Q24188985 
+umbbd.rule	UM-BBD Biotransformation Rule	NO	Por definir 
+umls	Unified Medical Language System	SI	https://www.wikidata.org/wiki/por definir 
+unigene	UniGene gene-oriented nucleotide sequence clusters	NO	Por definir 
+unii	Unique Ingredient Identifier	SI	https://www.wikidata.org/wiki/por definir 
+unimod	Unimod	NO	Por definir 
+uniparc	UniParc	NO	Por definir 
+unipathway.compound	UniPathway Compound	NO	Por definir 
+unipathway.reaction	UniPathway Reaction	NO	Por definir 
+uniprot	UniProt Knowledgebase	SI	https://www.wikidata.org/wiki/Q905695 
+uniprot.chain	UniProt Chain	NO	Por definir 
+uniprot.disease	UniProt Diseases	NO	Por definir 
+uniprot.isoform	UniProt Isoform	NO	Por definir 
+uniprot.keyword	UniProt Keywords	NO	Por definir 
+uniprot.location	UniProt Subcellular Locations	NO	Por definir 
+uniprot.resource	UniProt Resource	NO	Por definir 
+uniprot.tissue	Tissue List	NO	Por definir 
+uniprot.var	UniProt Variants	NO	Por definir 
+uniref	UniRef	NO	Por definir 
+unirule	UniRule	NO	Por definir 
+unists	UniSTS	NO	Por definir 
+unite	UNITE	NO	Por definir 
+unpd	Universal Natural Products Database	NO	Por definir 
+uo	Units Ontology	NO	Por definir 
+upa	Unipathway	SI	https://www.wikidata.org/wiki/Q85719315 
+upheno	Combined Phenotype Ontology	NO	Por definir 
+uspto	United States Patent and Trademark Office	NO	Por definir 
+validatordb	ValidatorDB	NO	Por definir 
+vandf	Veterans Health Administration National Drug File	NO	Por definir 
+vario	Variation Ontology	NO	Por definir 
+vbase2	VBASE2	NO	Por definir 
+vbrc	Viral Bioinformatics Resource Center	NO	Por definir 
+vcell	VCell Published Models	NO	Por definir 
+vectorbase	VectorBase	NO	Por definir 
+vega	The Vertebrate Genome Annotation Database	NO	Por definir 
+vegbank	VegBank	NO	Por definir 
+vfb	Virtual Fly Brain	NO	Por definir 
+vfdb.gene	VFDB Gene	NO	Por definir 
+vfdb.genus	VFDB Genus	NO	Por definir 
+vgnc	Vertebrate Gene Nomenclature Committee	NO	Por definir 
+vhog	Vertebrate Homologous Organ Group Ontology	NO	Por definir 
+viaf	Virtual International Authority File	NO	Por definir 
+vido	Virus Infectious Disease Ontology	NO	Por definir 
+vipr	Virus Pathogen Database and Analysis Resource	NO	Por definir 
+viralzone	ViralZone	NO	Por definir 
+virsirna	VIRsiRNA	NO	Por definir 
+vmc	Variation Modelling Collaboration	NO	Por definir 
+vmhgene	VMH Gene	NO	Por definir 
+vmhmetabolite	VMH metabolite	NO	Por definir 
+vmhreaction	VMH reaction	NO	Por definir 
+vo	Vaccine Ontology	NO	Por definir 
+void	Vocabulary of Interlinked Datasets	NO	Por definir 
+vsao	Vertebrate Skeletal Anatomy Ontology	NO	Por definir 
+vsdb	Veterinary Substances DataBase	NO	Por definir 
+vso	Vital Sign Ontology	NO	Por definir 
+vt	Vertebrate Trait Ontology	NO	Por definir 
+vto	Vertebrate Taxonomy Ontology	NO	Por definir 
+vuid	Veterans Health Administration (VHA) unique identifier	NO	Por definir 
+vz	ViralZone	SI	https://www.wikidata.org/wiki/Q15674507 
+wb.rnai	WormBase RNAi	NO	Por definir 
+wbbt	C. elegans gross anatomy	NO	Por definir 
+wbls	C. elegans development	NO	Por definir 
+wbphenotype	C. elegans phenotype	NO	Por definir 
+webelements	Web Elements	NO	Por definir 
+wgs84	WGS84 Geo Positioning	NO	Por definir 
+wicell	WiCell Research Institute Cell Collection	NO	Por definir 
+wikidata	Wikidata	SI	undefined 
+wikidata.property	Wikidata Property	NO	Por definir 
+wikigenes	WikiGenes	NO	Por definir 
+wikipathways	WikiPathways	SI	https://www.wikidata.org/wiki/Q7999828 
+wikipedia.en	Wikipedia	NO	Por definir 
+worfdb	Worfdb	NO	Por definir 
+wormbase	WormBase	SI	https://www.wikidata.org/wiki/Q3570042 
+wormpep	Wormpep	NO	Por definir 
+worms	World Register of Marine Species	NO	Por definir 
+wwf.ecoregion	World Wildlife Fund Ecoregion	SI	https://www.wikidata.org/wiki/Q929975 
+xao	Xenopus Anatomy Ontology	SI	https://www.wikidata.org/wiki/por definir 
+xco	Experimental Conditions Ontology	NO	Por definir 
+xenbase	Xenopus laevis and tropicalis biology and genomics resource	NO	Por definir 
+ximbio	Ximbio	NO	Por definir 
+xl	Cross-linker reagents ontology	NO	Por definir 
+xlmod	mass spectrometry cross-linking and derivatization reagents	NO	Por definir 
+xpo	Xenopus Phenotype Ontology	NO	Por definir 
+xsd	XML Schema Definition	NO	Por definir 
+xuo	XUO	NO	Por definir 
+ydpm	Yeast Deletion and the Mitochondrial Proteomics Project	NO	Por definir 
+yeastintron	Yeast Intron Database v4.3	NO	Por definir 
+yetfasco	YeTFasCo	NO	Por definir 
+yid	Yeast Intron Database v3	NO	Por definir 
+ymdb	The Yeast Metabolome Database	NO	Por definir 
+yrcpdr	Yeast Resource Center Public Data Repository	NO	Por definir 
+zea	Maize Gross Anatomy Ontology	NO	Por definir 
+zeco	Zebrafish Experimental Conditions Ontology	NO	Por definir 
+zfa	Zebrafish anatomy and development	NO	Por definir 
+zfin	The Zebrafish Information Network	SI	https://www.wikidata.org/wiki/Q29128476 
+zfs	Zebrafish Developmental Stages	NO	Por definir 
+zinc	ZINC is not Commercial	SI	https://www.wikidata.org/wiki/por definir 
+zp	Zebrafish Phenotype Ontology	NO	Por definir 
