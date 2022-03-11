@@ -1,0 +1,1324 @@
+Abreviatura	Nombre	URL	URL vencida	Esta en wikidata	URL Wikidata
+ 3dmet	Three-Dimensional Structure Database of Natural Metabolites	 http://www.3dmet.dna.affrc.go.jp/	NO	SI	https://www.wikidata.org/wiki/Q23948774	
+ 4dn.biosource	4DNucleome Data Portal	 https://data.4dnucleome.org/	NO	SI	https://www.wikidata.org/wiki/Q110613621	
+ 4dn.replicate	4D Nucleome Data Portal Experiment Replicate	 https://data.4dnucleome.org/experiment-set-replicates/	desconocido	NO	por definir	
+ aao	Amphibian gross Anatomy Ontology	 http://github.com/seger/aao	SI	NO	por definir	
+ abcd	ABCD database	 https://web.expasy.org/abcd/	desconocido	NO	por definir	
+ abm	Applied Biological Materials cell line products	 https://www.abmgood.com/Cell-Biology.html	desconocido	NO	por definir	
+ abs	Annotated regulatory Binding Sites from Orthologous Promoters	 http://genome.crg.es/datasets/abs2005/	NO	NO	por definir	
+ ac	Activity Streams	 http://www.w3.org/ns/activitystreams	desconocido	NO	por definir	
+ aceview.worm	Aceview Worm	 https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html?worm	NO	NO	por definir	
+ addexbio	AddexBio cell line products	 https://www.addexbio.com/productshow?id=4	desconocido	NO	por definir	
+ addgene	Addgene	 http://addgene.org/	NO	NO	por definir	
+ adw	Animal natural history and life history	 https://animaldiversity.org/	NO	NO	por definir	
+ aeo	Anatomical Entity Ontology	 https://github.com/obophenotype/human-developmental-anatomy-ontology/	NO	NO	por definir	
+ aero	Adverse Event Reporting ontology	 http://purl.obolibrary.org/obo/aero	SI	NO	por definir	
+ affy.probeset	Affymetrix Probeset	 http://www.affymetrix.com/	NO	NO	por definir	
+ afo	Agriculture and Forestry Ontology	 https://www.allotrope.org/	desconocido	NO	por definir	
+ aftol.taxonomy	Assembling the Fungal Tree of Life - Taxonomy	 http://aftol.org/data.php	NO	NO	por definir	
+ agricola	Agricultural Online Access	 http://agricola.nal.usda.gov/	NO	NO	por definir	
+ agro	Agronomy Ontology	 https://github.com/AgriculturalSemantics/agro	NO	NO	por definir	
+ agrovoc	AGROVOC	 https://data.apps.fao.org/catalog/organization/agrovoc	desconocido	NO	por definir	
+ aism	Ontology for the Anatomy of the Insect SkeletoMuscular system	 https://github.com/insect-morphology/aism	NO	NO	por definir	
+ allergome	Allergome	 http://www.allergome.org/	NO	NO	por definir	
+ alzforum.mutation	Alzforum Mutations	 https://www.alzforum.org/mutations	desconocido	NO	por definir	
+ amoebadb	AmoebaDB	 http://amoebadb.org/amoeba/	NO	NO	por definir	
+ amphx	The Amphioxus Development and Anatomy Ontology	 https://github.com/EBISPOT/amphx_ontology	NO	NO	por definir	
+ antibodyregistry	Antibody Registry	 http://antibodyregistry.org/	NO	NO	por definir	
+ antweb	AntWeb	 http://www.antweb.org/	NO	NO	por definir	
+ aop	AOPWiki	 https://aopwiki.org/	NO	NO	por definir	
+ aop.events	AOPWiki (Key Event)	 https://aopwiki.org/	NO	NO	por definir	
+ aop.relationships	AOPWiki (Key Event Relationship)	 https://aopwiki.org/	NO	NO	por definir	
+ aop.stressor	AOPWiki (Stressor)	 https://aopwiki.org/	NO	NO	por definir	
+ apaonto	Psychology Ontology	 https://bioportal.bioontology.org/ontologies/APAONTO	desconocido	NO	por definir	
+ apd	Antimicrobial Peptide Database	 http://aps.unmc.edu/AP/	NO	NO	por definir	
+ aphidbase.transcript	AphidBase Transcript	 http://www.aphidbase.com/aphidbase	NO	NO	por definir	
+ apid.interactions	APID Interactomes	 http://cicblade.dep.usal.es:8080/APID/	NO	NO	por definir	
+ apo	Ascomycete Phenotype Ontology	 http://www.yeastgenome.org/	SI	NO	por definir	
+ apollosv	Apollo-SV	 https://github.com/ApolloDev/apollo-sv	NO	NO	por definir	
+ arachnoserver	ArachnoServer: Spider toxin database	 http://www.arachnoserver.org/	NO	NO	por definir	
+ araport	Arabidopsis Information Portal	 https://www.araport.org/	desconocido	NO	por definir	
+ ardb	Antibiotic Resistance Genes Database	 http://ardb.cbcb.umd.edu/	NO	NO	por definir	
+ ark	Archival Resource Key	 http://n2t.net/	NO	NO	por definir	
+ aro	Antibiotic Resistance Ontology	 https://github.com/arpcard/aro	NO	NO	por definir	
+ arrayexpress	ArrayExpress	 https://www.ebi.ac.uk/arrayexpress/	NO	NO	por definir	
+ arrayexpress.platform	ArrayExpress Platform	 https://www.ebi.ac.uk/arrayexpress/	NO	NO	por definir	
+ arraymap	arrayMap - Genomic Array Data for Cancer CNV Profiles	 https://www.arraymap.org	NO	NO	por definir	
+ arxiv	arXiv	 https://arxiv.org/	NO	NO	por definir	
+ asap	A Systematic Annotation Package	 http://asap.ahabs.wisc.edu/asap/home.php	NO	NO	por definir	
+ ascl	Astrophysics Source Code Library	 http://ascl.net/	NO	NO	por definir	
+ asin	Amazon Standard Identification Number	 https://www.amazon.co.uk/gp/help/customer/display.html/277-3416785-8259466?ie=UTF8&nodeId=898182	NO	NO	por definir	
+ aspgd.locus	AspGD Locus	 http://www.aspgd.org/	NO	NO	por definir	
+ aspgd.protein	AspGD Protein	 http://www.aspgd.org/	NO	NO	por definir	
+ asrp	Arabidopsis Small RNA Project	 https://asrp.danforthcenter.org/	desconocido	NO	por definir	
+ assembly	Assembly	 https://www.ncbi.nlm.nih.gov/	NO	NO	por definir	
+ atc	Anatomical Therapeutic Chemical Classification	 http://www.whocc.no/atc_ddd_index/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ atcc	American Type Culture Collection database	 http://www.atcc.org/	NO	NO	por definir	
+ atcvet	Anatomical Therapeutic Chemical Vetinary	 http://www.whocc.no/atcvet/atcvet_index/	NO	NO	por definir	
+ atfdb.family	Animal TFDB Family	 http://www.bioguo.org/AnimalTFDB/family_index.php	NO	NO	por definir	
+ ato	Amphibian Taxonomy Ontology	 http://www.amphibanat.org	SI	NO	por definir	
+ atol	Animal Trait Ontology for Livestock	 http://www.atol-ontology.com	desconocido	NO	por definir	
+ autdb	AutDB	 http://autism.mindspec.org/autdb/	NO	NO	por definir	
+ bacdive	Bacterial Diversity Metadatabase	 https://bacdive.dsmz.de/	NO	NO	por definir	
+ bacmap.biog	BacMap Biography	 http://bacmap.wishartlab.com/	NO	NO	por definir	
+ bacmap.map	BacMap Map	 http://bacmap.wishartlab.com/	NO	NO	por definir	
+ bactibase	Bactibase: database dedicated to bacteriocins	 http://bactibase.hammamilab.org	desconocido	NO	por definir	
+ bams	Brain Architecture Knowledge Management System Neuroanatomical Ontology	 https://bams1.org	SI	NO	por definir	
+ bao	BioAssay Ontology	 http://bioportal.bioontology.org/ontologies/BAO/	NO	NO	por definir	
+ bbkg	Blue Brain Project Knowledge Graph	 https://portal.bluebrain.epfl.ch	NO	NO	por definir	
+ bbtp	Blue Brain Project Topological sampling Knowledge Graph	 https://portal.bluebrain.epfl.ch	NO	NO	por definir	
+ bcgo	Beta Cell Genomics Ontology	 https://github.com/obi-bcgo/bcgo	SI	NO	por definir	
+ bcio	Brain-Computer Interaction (BCI) Ontology	 https://www.humanbehaviourchange.org/	desconocido	NO	por definir	
+ bco	Biological Collections Ontology	 https://github.com/BiodiversityOntologies/bco	NO	NO	por definir	
+ bcrc	BCRC Strain Collection Catalog	 https://catalog.bcrc.firdi.org.tw	desconocido	NO	por definir	
+ bcrj	Banco de Celulas do Rio de Janeiro	 http://bcrj.org.br/celula/bcrj	desconocido	NO	por definir	
+ bdgp.est	BDGP EST	 https://www.ncbi.nlm.nih.gov/dbEST/index.html	NO	NO	por definir	
+ bdgp.insertion	BDGP insertion DB	 http://flypush.imgen.bcm.tmc.edu/pscreen/	NO	NO	por definir	
+ bdsc	Bloomington Drosophila Stock Center	 https://bdsc.indiana.edu/about/mission.html	NO	NO	por definir	
+ beetlebase	BeetleBase	 http://beetlebase.org/	NO	NO	por definir	
+ begdb	The Benchmark Energy & Geometry Database	 http://www.begdb.com	NO	NO	por definir	
+ beiresources	BEI Resources	 https://www.beiresources.org	desconocido	NO	por definir	
+ bel	Biological Expression Language	 https://biological-expression-language.github.io/	desconocido	NO	por definir	
+ bfo	Basic Formal Ontology	 https://github.com/BFO-ontology/BFO	NO	NO	por definir	
+ bgee.family	Bgee family	 http://bgee.unil.ch/bgee/bgee	NO	NO	por definir	
+ bgee.gene	Bgee gene	 https://bgee.org/	NO	NO	por definir	
+ bgee.organ	Bgee organ	 http://bgee.unil.ch/bgee/bgee	NO	NO	por definir	
+ bgee.stage	Bgee stage	 http://bgee.unil.ch/bgee/bgee	NO	NO	por definir	
+ bigg.compartment	BiGG Compartment	 http://bigg.ucsd.edu/compartments/	NO	NO	por definir	
+ bigg.metabolite	BiGG Metabolite	 http://bigg.ucsd.edu/universal/metabolites	NO	NO	por definir	
+ bigg.model	BiGG Model	 http://bigg.ucsd.edu/models	NO	NO	por definir	
+ bigg.reaction	BiGG Reaction	 http://bigg.ucsd.edu/universal/reactions	NO	NO	por definir	
+ bila	Bilateria anatomy	 http://purl.obolibrary.org/obo/BILA_$1	undefined	NO	por definir	
+ bindingdb	BindingDB database of measured binding affinities	 https://www.bindingdb.org	NO	NO	por definir	
+ biocarta.pathway	BioCarta Pathway	 https://www.biocarta.com/	NO	NO	por definir	
+ biocatalogue.service	BioCatalogue Service	 https://www.biocatalogue.org/	NO	NO	por definir	
+ biocyc	BioCyc	 http://biocyc.org	NO	NO	por definir	
+ biogrid	Biological General Repository for Interaction Datasets	 http://thebiogrid.org/	NO	NO	por definir	
+ biogrid.interaction	BioGRID Interactions	 https://thebiogrid.org/	desconocido	NO	por definir	
+ biolegend	BioLegend	 https://www.biolegend.com	desconocido	NO	por definir	
+ biolink	Biolink Model	 https://biolink.github.io/biolink-model	NO	NO	por definir	
+ biominder	Bio-MINDER Tissue Database	 https://datalab.rwth-aachen.de/MINDER	NO	NO	por definir	
+ biomodels.db	BioModels Database	 https://www.ebi.ac.uk/biomodels/	NO	NO	por definir	
+ biomodels.kisao	Kinetic Simulation Algorithm Ontology	 http://bioportal.bioontology.org/ontologies/KISAO	NO	NO	por definir	
+ biomodels.teddy	TErminology for the Description of DYnamics	 http://teddyontology.sourceforge.net/	NO	NO	por definir	
+ biomodels.vocabulary	SBML RDF Vocabulary	 http://biomodels.net/rdf/vocabulary.rdf	NO	NO	por definir	
+ bionumbers	BioNumbers	 https://bionumbers.hms.harvard.edu	NO	NO	por definir	
+ bioportal	BioPortal	 http://bioportal.bioontology.org/	NO	NO	por definir	
+ bioproject	NCBI BioProject	 http://trace.ddbj.nig.ac.jp/bioproject/	NO	NO	por definir	
+ bioregistry	Bioregistry	 https://bioregistry.io	desconocido	NO	por definir	
+ bioregistry.collection	Bioregistry Collections	 https://bioregistry.io/collection	desconocido	NO	por definir	
+ bioregistry.registry	Bioregistry Metaregistry	 https://bioregistry.io/metaregistry/	desconocido	NO	por definir	
+ bioregistry.schema	Bioregistry Schema	 https://bioregistry.io/schema	desconocido	NO	por definir	
+ biorxiv	bioRxiv	 https://biorxiv.org	desconocido	NO	por definir	
+ biosample	NCBI BioSample	 https://www.ebi.ac.uk/biosamples/	NO	NO	por definir	
+ biosimulations	biosimulations	 https://icahn.mssm.edu/	NO	NO	por definir	
+ biosimulators	BioSimulators	 https://biosimulators.org/	NO	NO	por definir	
+ biostudies	BioStudies	 https://www.ebi.ac.uk/biostudies/	NO	NO	por definir	
+ biosystems	NCBI BioSystems Database	 https://www.ncbi.nlm.nih.gov/biosystems/	NO	NO	por definir	
+ biotools	bio.tools	 https://bio.tools/	NO	NO	por definir	
+ biozil	BIOZIL	 https://www.biozol.de/en	desconocido	NO	por definir	
+ birnlex	Biomedical Informatics Research Network Project Lexicon	 https://bioportal.bioontology.org/ontologies/BIRNLEX	desconocido	NO	por definir	
+ bitbucket	Bitbucket	 https://www.atlassian.com/	NO	NO	por definir	
+ bitterdb.cpd	BitterDB Compound	 http://bitterdb.agri.huji.ac.il/dbbitter.php	NO	NO	por definir	
+ bitterdb.rec	BitterDB Receptor	 http://bitterdb.agri.huji.ac.il/dbbitter.php	NO	NO	por definir	
+ bko	SBGN Bricks data and ontology	 http://www.sbgnbricks.org/	desconocido	NO	por definir	
+ bmrb	Biological Magnetic Resonance Data Bank	 http://www.bmrb.wisc.edu/	NO	NO	por definir	
+ bmrb.restraint	NMR Restraints Grid	 https://restraintsgrid.bmrb.io/NRG/MRGridServlet	desconocido	NO	por definir	
+ bold.taxonomy	BOLD Taxonomy	 http://www.boldsystems.org/	NO	NO	por definir	
+ bootstrep	Gene Regulation Ontology	 http://www.ebi.ac.uk/Rebholz-srv/GRO/GRO.html	SI	NO	por definir	
+ bpdb	Bio-Pesticides DataBase	 https://sitem.herts.ac.uk/aeru/bpdb/index.htm	desconocido	NO	por definir	
+ brenda	BRENDA Enzyme Database	 https://www.brenda-enzymes.org/	NO	NO	por definir	
+ broad	Broad Fungal Genome Initiative	 https://www.broadinstitute.org/annotation/genome/magnaporthe_grisea/	NO	NO	por definir	
+ bs	Biosapiens Protein Feature Ontology	 https://github.com/The-Sequence-Ontology/SO-Ontologies	desconocido	NO	por definir	
+ bspo	Biological SPatial Ontology	 https://github.com/obophenotype/biological-spatial-ontology	NO	NO	por definir	
+ bto	BRENDA tissue / enzyme source	 https://www.ebi.ac.uk/ols/ontologies/bto	NO	SI	https://www.wikidata.org/wiki/Q4836352	
+ bugbase.expt	BugBase Expt	 http://bugs.sgul.ac.uk/E-BUGS	NO	NO	por definir	
+ bugbase.protocol	BugBase Protocol	 http://bugs.sgul.ac.uk/E-BUGS	NO	NO	por definir	
+ bykdb	Bacterial protein tYrosine Kinase database	 https://bykdb.ibcp.fr/BYKdb/	NO	NO	por definir	
+ cabri	Common Access to Biological Resources and Information	 http://www.cabri.org/	NO	NO	por definir	
+ cadsr	Cancer Data Standards Registry and Repository	 https://wiki.nci.nih.gov/display/caDSR/caDSR+Wiki	NO	NO	por definir	
+ caloha	CALIPHO Group Ontology of Human Anatomy	 https://github.com/calipho-sib/controlled-vocabulary	desconocido	NO	por definir	
+ cameo	Continuously Automated Model Evaluation	 https://cameo3d.org	NO	NO	por definir	
+ caps	CAPS-DB	 http://www.bioinsilico.org/cgi-bin/CAPSDB/staticHTML/home	NO	NO	por definir	
+ caro	Common Anatomy Reference Ontology	 https://github.com/obophenotype/caro/	NO	NO	por definir	
+ cas	CAS Registry Number	 https://commonchemistry.cas.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ cath	CATH	 http://www.cathdb.info	NO	NO	por definir	
+ cath.domain	CATH domain	 http://www.cathdb.info/	NO	NO	por definir	
+ cath.superfamily	CATH superfamily	 http://www.cathdb.info/	NO	NO	por definir	
+ cattleqtldb	Animal Genome Cattle QTL	 https://www.animalgenome.org/QTLdb	NO	NO	por definir	
+ cazy	The Carbohydrate-Active enZYmes Database	 http://www.cazy.org/	NO	NO	por definir	
+ cba	Chinese Biological Abstracts	 http://www.cba.ac.cn	desconocido	NO	por definir	
+ cbioportal	cBioPortal for Cancer Genomics	 http://www.cbioportal.org	NO	NO	por definir	
+ ccdc	CCDC Number	 https://www.ccdc.cam.ac.uk/	NO	NO	por definir	
+ ccds	The Consensus CDS	 http://www.ncbi.nlm.nih.gov/CCDS/	NO	NO	por definir	
+ ccle	Cancer Cell Line Encyclopedia Cells	 https://www.cbioportal.org/study/summary?id=ccle_broad_2019	desconocido	NO	por definir	
+ cco	Cell Cycle Ontology	 https://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=CCO	NO	NO	por definir	
+ ccrid	National Experimental Cell Resource Sharing Platform	 http://www.cellresource.cn	desconocido	NO	por definir	
+ cdao	Comparative Data Analysis Ontology	 https://github.com/evoinfo/cdao	NO	NO	por definir	
+ cdd	Canadian Disaster Database	 https://www.ncbi.nlm.nih.gov/sites/entrez?db=cdd	NO	NO	por definir	
+ cdno	Compositional Dietary Nutrition Ontology	 https://github.com/Southern-Cross-Plant-Science/cdno	NO	NO	por definir	
+ cdpd	Canadian Drug Product Database	 http://webprod3.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp	NO	NO	por definir	
+ cell_biolabs	Cell Biolabs cell line products	 https://www.cellbiolabs.com	desconocido	NO	por definir	
+ cell_model_passport	Sanger Cell Model Passports	 https://cellmodelpassports.sanger.ac.uk/	desconocido	NO	por definir	
+ cellbank.australia	CellBank Australia	 http://www.cellbankaustralia.com/cellbank-australia-exclusive-lines/	desconocido	NO	por definir	
+ cellimage	Cell Image Library	 http://cellimagelibrary.org/	NO	NO	por definir	
+ cellopub	Cellosaurus Publication	 https://web.expasy.org/cellosaurus/	desconocido	NO	por definir	
+ cellosaurus	Cellosaurus	 https://web.expasy.org/cellosaurus/	NO	SI	https://www.wikidata.org/wiki/Q24691710	
+ cellosaurus.resource	Cellosaurus Registry	 https://web.expasy.org/cellosaurus/	desconocido	NO	por definir	
+ cellrepo	Cell Version Control Repository	 https://cellrepo.ico2s.org/	NO	NO	por definir	
+ ceph	Cephalopod Ontology	 https://github.com/obophenotype/cephalopod-ontology	NO	NO	por definir	
+ cgd	Candida Genome Database	 http://www.candidagenome.org/	NO	NO	por definir	
+ cghdb	CGH Data Base	 http://www.cghtmd.jp/CGHDatabase/index_e.jsp	desconocido	NO	por definir	
+ cgnc	Chicken Gene Nomenclature Consortium	 http://birdgenenames.org/cgnc/	desconocido	NO	por definir	
+ cgsc	Coli Genetic Stock Center	 http://cgsc.biology.yale.edu/index.php	NO	NO	por definir	
+ charprot	CharProt	 http://www.jcvi.org/charprotdb	NO	NO	por definir	
+ chebi	Chemical Entities of Biological Interest	 https://www.ebi.ac.uk/chebi/	NO	SI	https://www.wikidata.org/wiki/Q902623	
+ chembl	ChEMBL	 https://www.ebi.ac.uk/chembl	NO	NO	por definir	
+ chembl.cell	ChEMBL database of bioactive drug-like small molecules - Cell lines section	 https://www.ebi.ac.uk/chembldb	desconocido	NO	por definir	
+ chembl.compound	ChEMBL compound	 https://www.ebi.ac.uk/chembldb/	NO	SI	https://www.wikidata.org/wiki/Q6120337	
+ chembl.target	ChEMBL target	 https://www.ebi.ac.uk/chembldb/	NO	NO	por definir	
+ chemdb	The UC Irvine ChemDB	 http://cdb.ics.uci.edu/	NO	NO	por definir	
+ chemidplus	ChemIDplus	 https://chem.nlm.nih.gov/chemidplus/chemidheavy.jsp	NO	NO	por definir	
+ cheminf	CHEMical INFormation Ontology	 https://github.com/semanticchemistry/semanticchemistry	NO	NO	por definir	
+ chemspider	ChemSpider	 http://www.chemspider.com/	NO	SI	https://www.wikidata.org/wiki/Q2311683	
+ chickenqtldb	Animal Genome Chicken QTL	 https://www.animalgenome.org/QTLdb	NO	NO	por definir	
+ chiro	ChEBI Integrated Role Ontology	 https://github.com/obophenotype/chiro	NO	NO	por definir	
+ chmo	Chemical Methods Ontology	 https://github.com/rsc-ontologies/rsc-cmo	NO	NO	por definir	
+ cido	Coronavirus Infectious Disease Ontology	 https://github.com/cido-ontology/cido	NO	NO	por definir	
+ cio	Confidence Information Ontology	 https://github.com/BgeeDB/confidence-information-ontology	NO	NO	por definir	
+ citexplore	Cerebrotendinous Xanthomatosis Ontology	 https://www.ebi.ac.uk/citexplore/	desconocido	NO	por definir	
+ civic.aid	CIViC Assertion	 https://civicdb.org/	NO	NO	por definir	
+ civic.eid	CIViC Evidence	 https://civicdb.org/	NO	NO	por definir	
+ cl	Cell Ontology	 https://www.ebi.ac.uk/ols/ontologies/cl	NO	SI	https://www.wikidata.org/wiki/Q55118285	
+ clao	Collembola Anatomy Ontology	 https://github.com/luis-gonzalez-m/Collembola	NO	NO	por definir	
+ classyfire	ClassyFire	 http://classyfire.wishartlab.com/	NO	NO	por definir	
+ cldb	Cell Line Database	 http://bioinformatics.hsanmartino.it/hypercldb/indexes.html	NO	NO	por definir	
+ clingene	ClinGen Allele Registry	 https://reg.clinicalgenome.org	desconocido	NO	por definir	
+ clinicaltrials	ClinicalTrials.gov	 https://clinicaltrials.gov/	NO	NO	por definir	
+ clinvar	ClinVar	 http://www.ncbi.nlm.nih.gov/clinvar/	NO	SI	https://www.wikidata.org/wiki/Q20023123	
+ clinvar.record	ClinVar Record	 http://www.ncbi.nlm.nih.gov/clinvar/	NO	NO	por definir	
+ clinvar.submission	ClinVar Submission	 http://www.ncbi.nlm.nih.gov/clinvar/	NO	NO	por definir	
+ clinvar.submitter	ClinVar Submitter	 https://www.ncbi.nlm.nih.gov/clinvar/	NO	NO	por definir	
+ clo	Cell Line Ontology	 http://www.clo-ontology.org	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ cls	Cell Lines Service	 https://www.clsgmbh.de	desconocido	NO	por definir	
+ clyh	Clytia hemisphaerica Development and Anatomy Ontology	 https://github.com/EBISPOT/clyh_ontology	NO	NO	por definir	
+ cmecs	Costal and Marine Ecological Classification Standard	 https://cmecscatalog.org/cmecs	desconocido	NO	por definir	
+ cmf	CranioMaxilloFacial ontology	 https://code.google.com/p/craniomaxillofacial-ontology/	SI	NO	por definir	
+ cmo	Clinical Measurement Ontology	 http://rgd.mcw.edu/rgdweb/ontology/search.html	NO	NO	por definir	
+ cmpo	Cellular Microscopy Phenotype Ontology	 http://www.ebi.ac.uk/cmpo	desconocido	NO	por definir	
+ co_320	Rice Ontology	 https://cropontology.org/ontology/CO_320/Rice	desconocido	NO	por definir	
+ co_321	Wheat Ontology	 https://cropontology.org/ontology/CO_321/Wheat	desconocido	NO	por definir	
+ co_322	Maize Ontology	 https://cropontology.org/ontology/CO_322/Maize	desconocido	NO	por definir	
+ co_323	Barley Ontology	 https://cropontology.org/ontology/CO_323/Barley	desconocido	NO	por definir	
+ co_324	Sorghum Ontology	 https://cropontology.org/ontology/CO_324/Sorghum	desconocido	NO	por definir	
+ co_325	Banana Ontology	 https://cropontology.org/ontology/CO_325/Banana	desconocido	NO	por definir	
+ co_326	Coconut ontology	 https://cropontology.org/ontology/CO_326/Coconut	desconocido	NO	por definir	
+ co_327	Pearl Millet Ontology	 http://www.cropontology.org/ontology/CO_327/Pearl%20millet	desconocido	NO	por definir	
+ co_330	Potato Ontology	 https://cropontology.org/ontology/CO_330/Potato	desconocido	NO	por definir	
+ co_331	Sweet Potato Ontology	 http://www.cropontology.org/ontology/CO_331/Sweet%20Potato	desconocido	NO	por definir	
+ co_333	Beet Ontology	 http://www.cropontology.org/ontology/CO_333/Beet%20Ontology	desconocido	NO	por definir	
+ co_334	IBP Cassava Trait Ontology	 https://cropontology.org/ontology/CO_334/Cassava	desconocido	NO	por definir	
+ co_335	Common Bean Ontology	 http://www.cropontology.org/ontology/CO_335/Common%20Bean	desconocido	NO	por definir	
+ co_336	Soybean Ontology	 https://cropontology.org/ontology/CO_336/Soybean	desconocido	NO	por definir	
+ co_337	Groundnut Ontology	 https://cropontology.org/ontology/CO_337/Groundnut	desconocido	NO	por definir	
+ co_338	Chickpea Ontology	 https://cropontology.org/ontology/CO_338/Chickpea	desconocido	NO	por definir	
+ co_339	Lentil Ontology	 https://cropontology.org/ontology/CO_339/Lentil	desconocido	NO	por definir	
+ co_340	IBP Cowpea Trait Ontology	 https://cropontology.org/ontology/CO_340/Cowpea	desconocido	NO	por definir	
+ co_341	Pigeon Pea Ontology	 https://cropontology.org/ontology/CO_341/Pigeonpea	desconocido	NO	por definir	
+ co_343	Yam Ontology	 https://cropontology.org/ontology/CO_343/Yam	desconocido	NO	por definir	
+ co_345	Brachiaria Ontology	 https://cropontology.org/ontology/CO_345/Brachiaria	desconocido	NO	por definir	
+ co_346	Mungbean Ontology	 https://cropontology.org/ontology/CO_346/Mungbean	desconocido	NO	por definir	
+ co_347	Castor Bean Ontology	 http://www.cropontology.org/ontology/CO_347/Castor%20bean	desconocido	NO	por definir	
+ co_348	Brassica Ontology	 https://cropontology.org/ontology/CO_348/Brassica	desconocido	NO	por definir	
+ co_350	Oat Trait Ontology	 https://cropontology.org/ontology/CO_350/Oat	desconocido	NO	por definir	
+ co_356	Vitis Ontology	 https://cropontology.org/ontology/CO_356/Vitis	desconocido	NO	por definir	
+ co_357	Woody Plant Ontology	 http://www.cropontology.org/ontology/CO_357/Woody%20Plant%20Ontology	desconocido	NO	por definir	
+ co_358	Cotton ontology	 https://cropontology.org/ontology/CO_358/Cotton	desconocido	NO	por definir	
+ co_359	Sunflower ontology	 https://cropontology.org/ontology/CO_359/Sunflower	desconocido	NO	por definir	
+ co_360	Sugar Kelp Trait Ontology	 http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait	desconocido	NO	por definir	
+ co_365	Fababean ontology	 https://cropontology.org/ontology/CO_365/Fababean	desconocido	NO	por definir	
+ co_366	Bambara groundnut ontology	 http://www.cropontology.org/ontology/CO_366/Bambara%20groundnut	desconocido	NO	por definir	
+ cob	Core Ontology for Biology and Biomedicine	 https://github.com/OBOFoundry/COB	NO	NO	por definir	
+ coconut	COlleCtion of Open Natural ProdUcTs	 https://coconut.naturalproducts.net	desconocido	NO	por definir	
+ cog	Clusters of Orthologous Groups of Proteins: Phylogenetic classification of proteins encoded in complete genomes	 https://www.ncbi.nlm.nih.gov/research/cog/	desconocido	NO	por definir	
+ cog.category	COG Categories	 https://www.ncbi.nlm.nih.gov/research/cog/	desconocido	NO	por definir	
+ cog.pathway	COG Pathways	 https://www.ncbi.nlm.nih.gov/research/cog/pathways	desconocido	NO	por definir	
+ cohd	MIMIC III Database	 https://github.com/MIT-LCP/mimic-omop	desconocido	NO	por definir	
+ colao	Coleoptera Anatomy Ontology	 https://github.com/insect-morphology/colao	NO	NO	por definir	
+ colonatlas	Colorectal Cancer Atlas	 http://www.coloncanceratlas.org	desconocido	NO	por definir	
+ combine.specifications	COMBINE specifications	 https://co.mbine.org/standards/	NO	NO	por definir	
+ come	The Bioinorganic Motif Database	 https://www.flymine.org/come	desconocido	NO	por definir	
+ complexportal	Complex Portal	 https://www.ebi.ac.uk/complexportal	NO	SI	https://www.wikidata.org/wiki/Q47196990	
+ comptox	CompTox Chemistry Dashboard	 https://comptox.epa.gov/dashboard	NO	NO	por definir	
+ compulyeast	Compulyeast	 http://compluyeast2dpage.dacya.ucm.es/	NO	NO	por definir	
+ conoserver	ConoServer	 http://www.conoserver.org/	NO	NO	por definir	
+ conso	Curation of Neurodegeneration Supporting Ontology	 https://pharmacome.github.io/conso/	desconocido	NO	por definir	
+ coriell	Coriell Cell Repositories	 http://ccr.coriell.org/	NO	NO	por definir	
+ corrdb	Animal Trait Correlation Database	 https://www.animalgenome.org	NO	NO	por definir	
+ corum	 Comprehensive Resource of Mammalian protein complexes	 https://mips.helmholtz-muenchen.de/genre/proj/corum/	NO	NO	por definir	
+ cosmic	Catalogue of Somatic Mutations in Cancer	 http://cancer.sanger.ac.uk/cosmic/	NO	NO	por definir	
+ cosmic.cell	COSMIC Cell Lines	 https://cancer.sanger.ac.uk/cell_lines/	desconocido	NO	por definir	
+ covid19	SARS-CoV-2	 https://covid19.sfb.uit.no	NO	NO	por definir	
+ covoc	CoVoc Coronavirus Vocabulary	 https://github.com/EBISPOT/covoc	desconocido	NO	por definir	
+ cp	Cellular Phenotypes	 Part of cell ontology but deprecated, see https://github.com/obophenotype/cell-ontology/issues/572	SI	NO	por definir	
+ cpc	Climate Prediction Center	 https://worldwide.espacenet.com/classification	NO	NO	por definir	
+ cpga	Cereal Plant Gross Anatomy Ontology	 http://www.gramene.org/plant_ontology/	SI	NO	por definir	
+ credit	CASRAI Contributor Roles Taxonomy	 https://casrai.org/credit/	desconocido	NO	por definir	
+ crisprdb	CRISPRdb	 http://crispr.i2bc.paris-saclay.fr/	NO	NO	por definir	
+ cro	Contributor Role Ontology	 https://github.com/data2health/contributor-role-ontology	NO	NO	por definir	
+ cryoem	Cryo Electron Microscopy	 http://scipion.i2pc.es/ontology/cryoem	desconocido	NO	por definir	
+ cryptodb	CryptoDB	 https://cryptodb.org/cryptodb/	NO	NO	por definir	
+ csa	Catalytic Site Atlas	 https://www.ebi.ac.uk/thornton-srv/databases/CSA/	NO	NO	por definir	
+ csd	The Cambridge Structural Database	 https://www.ccdc.cam.ac.uk/	NO	NO	por definir	
+ csp	Computer Retrieval of Information on Science Projects Thesaurus	 https://web.archive.org/web/20091223034048/http://crisp.cit.nih.gov/Thesaurus/index.htm	SI	NO	por definir	
+ cst	Cell Signaling Technology Pathway Database	 http://www.cellsignal.com/pathways/index.html	NO	NO	por definir	
+ cst.ab	Cell Signaling Technology Antibody	 http://www.cellsignal.com/catalog/index.html	NO	NO	por definir	
+ ctd.chemical	CTD Chemical	 http://ctdbase.org/	NO	NO	por definir	
+ ctd.disease	CTD Disease	 http://ctdbase.org/	NO	NO	por definir	
+ ctd.gene	CTD Gene	 http://ctdbase.org/	NO	NO	por definir	
+ cteno	Ctenophore Ontology	 https://github.com/obophenotype/ctenophore-ontology	NO	NO	por definir	
+ cto	Clinical Trials Ontology	 https://github.com/BFO-ontology/BFO	NO	NO	por definir	
+ cubedb	Cube db	 http://epsf.bmad.bii.a-star.edu.sg/cube/db/html/home.html	NO	NO	por definir	
+ cvdo	Cardiovascular Disease Ontology	 https://github.com/OpenLHS/CVDO	NO	NO	por definir	
+ d1id	DataONE	 https://www.dataone.org	NO	NO	por definir	
+ dailymed	DailyMed	 https://dailymed.nlm.nih.gov/dailymed/	NO	NO	por definir	
+ dandi	Distributed Archives for Neurophysiology Data Integration	 https://dandiarchive.org/	NO	NO	por definir	
+ darc	Database of Aligned Ribosomal Complexes	 http://darcsite.genzentrum.lmu.de/darc/index.php	NO	NO	por definir	
+ dashr	Database of small human non-coding RNAs	 http://lisanwanglab.org/DASHR/	NO	NO	por definir	
+ dashr.expression	DASHR expression	 https://dashr1.lisanwanglab.org/show-expression-table.php?start=0	NO	NO	por definir	
+ datanator.gene	Datanator Gene	 https://datanator.info/	NO	NO	por definir	
+ datanator.metabolite	Datanator Metabolite	 https://datanator.info/	NO	NO	por definir	
+ datanator.reaction	Datanator Reaction	 https://icahn.mssm.edu/	NO	NO	por definir	
+ datf	Database of Arabidopsis Transcription Factors	 http://datf.cbi.pku.edu.cn/	NO	NO	por definir	
+ dbd	Transcription Factor Database	 http://www.transcriptionfactor.org/	NO	NO	por definir	
+ dbest	Expressed Sequence Tags database	 https://www.ncbi.nlm.nih.gov/nucest	NO	NO	por definir	
+ dbg2introns	DBG2 Introns	 http://webapps2.ucalgary.ca/~groupii/	NO	NO	por definir	
+ dbgap	Database of Genotypes and Phenotypes	 https://www.ncbi.nlm.nih.gov/projects/gap	NO	NO	por definir	
+ dbmhc	Database of human Major Histocompatibility Complex	 https://www.ncbi.nlm.nih.gov/gv/mhc/	SI	NO	por definir	
+ dbprobe	dbProbe	 https://www.ncbi.nlm.nih.gov/sites/entrez?db=probe	NO	NO	por definir	
+ dbsnp	Database of Single Nucleotide Polymorphism	 https://www.ncbi.nlm.nih.gov/snp/	NO	NO	por definir	
+ dc	Dublin Core Metadata Element Set	 https://www.dublincore.org/specifications/dublin-core/dcmi-terms/	desconocido	NO	por definir	
+ dc_cl	Dendritic cell	 http://www.dukeontologygroup.org/Projects.html	SI	NO	por definir	
+ dcat	Data Catalog Vocabulary	 https://www.w3.org/ns/dcat	desconocido	NO	por definir	
+ dcterms	Dublin Core Metadata Initiative (DCMI) Metadata Terms	 https://www.dublincore.org/specifications/dublin-core/dcmi-terms/	desconocido	NO	por definir	
+ dctypes	Dublin Core Types	 https://dublincore.org/specifications/dublin-core/dcmi-terms/	desconocido	NO	por definir	
+ ddanat	Dictyostelium Anatomy Ontology	 http://dictybase.org/	NO	NO	por definir	
+ ddpheno	Dictyostelium Phenotype Ontology	 http://dictybase.org/	NO	NO	por definir	
+ degradome	Degradome Database	 http://degradome.uniovi.es/	NO	NO	por definir	
+ depmap	DepMap Cell Lines	 https://depmap.org/portal	desconocido	NO	por definir	
+ depod	The human DEPhOsphorylation Database	 http://www.depod.bioss.uni-freiburg.de	NO	NO	por definir	
+ dermo	Human Dermatological Disease Ontology	 https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-016-0085-x	desconocido	NO	por definir	
+ dev.ga4ghdos	Development Data Object Service	 http://github.com/ga4gh/data-object-service-schemas	NO	NO	por definir	
+ dg.4503	BioData Catalyst	 https://gen3.biodatacatalyst.nhlbi.nih.gov	NO	NO	por definir	
+ dg.4dfc	NCI Data Commons Framework Services	 https://nci-crdc.datacommons.io/	NO	NO	por definir	
+ dg.6vts	JCOIN	 https://jcoin.datacommons.io	NO	NO	por definir	
+ dg.anv0	Anvil	 https://gen3.theanvil.io	NO	NO	por definir	
+ dg.f82a1a	Kids First	 https://kidsfirstdrc.org	NO	NO	por definir	
+ dg5b0d	BloodPAC	 https://data.bloodpac.org/.	NO	NO	por definir	
+ dgrc	Drosophila Genomics Resource Center	 https://dgrc.bio.indiana.edu/cells/Catalog	desconocido	NO	por definir	
+ dicom	Digital Imaging and COmmunications in Medicine	 http://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_D.html	desconocido	NO	por definir	
+ dictybase	dictyBase	 http://dictybase.org/gene/$1	desconocido	NO	por definir	
+ dictybase.est	dictyBase Expressed Sequence Tag	 http://dictybase.org/	NO	NO	por definir	
+ dictybase.gene	Dictybase Gene	 http://dictybase.org/	NO	NO	por definir	
+ did	Decentralized Identifier	 https://w3c-ccg.github.io/did-spec/	NO	NO	por definir	
+ dideo	The Potential Drug-drug Interaction and Potential Drug-drug Interaction Evidence Ontology	 https://github.com/DIDEO/DIDEO	NO	NO	por definir	
+ dinto	The Drug-Drug Interactions Ontology	 http://labda.inf.uc3m.es/doku.php?id=es:labda_dinto	SI	NO	por definir	
+ dip	Database of Interacting Proteins	 https://dip.doe-mbi.ucla.edu/	NO	NO	por definir	
+ discoverx	DiscoverX cell line products	 https://www.discoverx.com/products-applications/cell-lines	desconocido	NO	por definir	
+ disdriv	Disease Drivers Ontology	 http://www.disease-ontology.org	NO	NO	por definir	
+ diseaseclass	Disease Class	 URL no encontrado	SI	NO	por definir	
+ diseasesdb	Diseases Database	 http://www.diseasesdatabase.com/	desconocido	SI	https://www.wikidata.org/wiki/Q213103	
+ disprot	Database of Protein Disorder	 https://disprot.org/	NO	NO	por definir	
+ disprot.region	DisProt region	 https://www.disprot.org	NO	NO	por definir	
+ dlxb	Linear double stranded DNA sequences	 https://doulix.com	NO	NO	por definir	
+ dlxc	Circular double stranded DNA sequences composed	 https://doulix.com	NO	NO	por definir	
+ doi	Digital Object Identifier	 https://www.doi.org/	NO	NO	por definir	
+ doid	Disease Ontology	 https://www.ebi.ac.uk/ols/ontologies/doid	NO	SI	https://www.wikidata.org/wiki/Q5282129	
+ dommino	Database of Macromolecular Interactions	 http://dommino.org/	NO	NO	por definir	
+ door	Database for Prokaryotic Operons	 http://csbl.bmb.uga.edu/DOOR/operon.php	NO	NO	por definir	
+ doqcs.model	Database of Quantitative Cellular Signaling: Model	 http://doqcs.ncbs.res.in/	NO	NO	por definir	
+ doqcs.pathway	Database of Quantitative Cellular Signaling: Pathway	 http://doqcs.ncbs.res.in/	NO	NO	por definir	
+ dpo	Drosophila Phenotype Ontology	 http://purl.obolibrary.org/obo/fbcv	NO	NO	por definir	
+ dpv	Description of Plant Viruses	 http://www.dpvweb.net/	NO	NO	por definir	
+ dragondb.allele	DragonDB Allele	 http://www.antirrhinum.net/	NO	NO	por definir	
+ dragondb.dna	DragonDB DNA	 http://www.antirrhinum.net/	NO	NO	por definir	
+ dragondb.locus	DragonDB Locus	 http://www.antirrhinum.net/	NO	NO	por definir	
+ dragondb.protein	DragonDB Protein	 http://www.antirrhinum.net/	NO	NO	por definir	
+ dron	The Drug Ontology	 https://github.com/ufbmi/dron	NO	NO	por definir	
+ drsc	Drosophila RNAi Screening Center	 http://flyrnai.org/	NO	NO	por definir	
+ drugbank	DrugBank	 http://www.drugbank.ca/	NO	SI	https://www.wikidata.org/wiki/Q1122544	
+ drugbank.salt	DrugBank Salts	 http://www.drugbank.ca	desconocido	NO	por definir	
+ drugbankv4.target	DrugBank Target v4	 http://www.drugbank.ca/targets	NO	NO	por definir	
+ drugcentral	DrugCentral	 http://drugcentral.org	desconocido	NO	por definir	
+ dsmz	Deutsche Sammlung von Mikroorganismen und Zellkulturen	 https://www.dsmz.de	desconocido	NO	por definir	
+ dto	Drug Target Ontology	 https://github.com/DrugTargetOntology/DTO	desconocido	NO	por definir	
+ duo	The Data Use Ontology	 https://github.com/EBISPOT/DUO	NO	NO	por definir	
+ eaglei	eagle-i	 https://hawaii.eagle-i.net	desconocido	NO	por definir	
+ ebisc	European Bank for induced pluripotent Stem Cells	 https://www.ebisc.org	desconocido	NO	por definir	
+ ecacc	European Collection of Authenticated Cell Culture	 https://www.phe-culturecollections.org.uk/collections/ecacc.aspx	desconocido	NO	por definir	
+ ecao	The Echinoderm Anatomy and Development Ontology	 https://github.com/echinoderm-ontology/ecao_ontology	NO	NO	por definir	
+ eccode	Integrated relational Enzyme database	 https://www.ebi.ac.uk/intenz/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ ecg	ElectroCardioGraphy Ontology	 https://bioportal.bioontology.org/ontologies/ECG	desconocido	NO	por definir	
+ echobase	EchoBASE	 http://www.york.ac.uk/	NO	NO	por definir	
+ ecmdb	E. coli Metabolite Database	 https://ecmdb.ca	desconocido	SI	https://www.wikidata.org/wiki/Q17052437	
+ eco	Evidence and Conclusion Ontology	 https://www.ebi.ac.uk/ols/ontologies/eco	NO	NO	por definir	
+ ecocore	An ontology of core ecological entities	 https://github.com/EcologicalSemantics/ecocore	NO	NO	por definir	
+ ecocyc	EcoCyc E. coli Database	 http://ecocyc.org/	desconocido	NO	por definir	
+ ecogene	Escherichia coli strain K12 genome database	 http://ecogene.org/	NO	NO	por definir	
+ ecolexicon	EcoLexicon	 http://ecolexicon.ugr.es/en/index.htm	desconocido	NO	por definir	
+ ecoliwiki	EcoliWiki:  A Wiki-based community resource for Escherichia coli	 http://ecoliwiki.net/colipedia/	NO	NO	por definir	
+ ecto	Environmental conditions, treatments and exposures ontology	 https://github.com/EnvironmentOntology/environmental-exposure-ontology	NO	NO	por definir	
+ ecyano.entity	E-cyanobacterium entity	 http://www.e-cyanobacterium.org/bcs/entity/	NO	NO	por definir	
+ ecyano.experiment	E-cyanobacterium Experimental Data	 https://www.e-cyanobacterium.org/experiments-repository/	NO	NO	por definir	
+ ecyano.model	E-cyanobacterium model	 http://e-cyanobacterium.org/models/	NO	NO	por definir	
+ ecyano.rule	E-cyanobacterium rule	 http://www.e-cyanobacterium.org/bcs/rule/	NO	NO	por definir	
+ edam	EMBRACE Data and Methods Ontology	 http://bioportal.bioontology.org/ontologies/EDAM	NO	NO	por definir	
+ edda	EDDA Study Designs Taxonomy	 https://bioportal.bioontology.org/ontologies/EDDA	desconocido	NO	por definir	
+ efo	Experimental Factor Ontology	 https://www.ebi.ac.uk/ols/ontologies/efo	NO	NO	por definir	
+ ega.dataset	The European Genome-phenome Archive	 https://www.ebi.ac.uk/ega/dataset	NO	NO	por definir	
+ ega.study	European Genome-phenome Archive Study	 https://www.ebi.ac.uk/ega/studies	NO	NO	por definir	
+ eggnog	Evolutionary Genealogy of Genes: Non-supervised Orthologous Groups	 http://eggnog.embl.de/version_3.0/	NO	NO	por definir	
+ ehda	Human Developmental Anatomy Ontology, timed version	 http://genex.hgu.mrc.ac.uk/	SI	NO	por definir	
+ ehdaa	Human Developmental Anatomy Ontology, abstract version 1	 http://purl.obolibrary.org/obo/EHDAA_$1	SI	NO	por definir	
+ ehdaa2	Edinburgh human developmental anatomy abstract version 2	 https://github.com/obophenotype/human-developmental-anatomy-ontology	NO	NO	por definir	
+ elm	Eukaryotic Linear Motifs	 http://elm.eu.org/	NO	NO	por definir	
+ emap	Mouse Gross Anatomy and Development Ontology	 http://emouseatlas.org	SI	NO	por definir	
+ emapa	Mouse gross anatomy and development, timed	 http://www.informatics.jax.org/expression.shtml	NO	NO	por definir	
+ emdb	Electron Microscopy Data Bank	 https://www.ebi.ac.uk/pdbe/emdb/	NO	NO	por definir	
+ emolecules	Reaxys eMolecules	 https://reaxys.emolecules.com	desconocido	NO	por definir	
+ empiar	Electron Microscopy Public Image Archive	 https://www.ebi.ac.uk/pdbe/emdb	desconocido	NO	por definir	
+ ena.embl	European Nucleotide Archive	 https://www.ebi.ac.uk/ena/	NO	NO	por definir	
+ encode	ENCODE Project	 www.encodeproject.org	NO	NO	por definir	
+ enm	eNanoMapper Ontology	 http://www.enanomapper.net/	desconocido	NO	por definir	
+ ensembl	Ensembl	 https://www.ensembl.org/	NO	SI	https://www.wikidata.org/wiki/Q1344256	
+ ensembl.bacteria	Ensembl Bacteria	 https://bacteria.ensembl.org/	NO	NO	por definir	
+ ensembl.fungi	Ensembl Fungi	 https://fungi.ensembl.org/	NO	NO	por definir	
+ ensembl.metazoa	Ensembl Metazoa	 https://metazoa.ensembl.org/	NO	NO	por definir	
+ ensembl.plant	Ensembl Plants	 https://plants.ensembl.org/	NO	NO	por definir	
+ ensembl.protist	Ensembl Protists	 https://protists.ensembl.org	NO	NO	por definir	
+ ensemblglossary	Ensembl Glossary	 http://ensembl.org/glossary	desconocido	NO	por definir	
+ envipath	enviPath	 https://envipath.org/	NO	NO	por definir	
+ envo	Environment Ontology	 https://www.ebi.ac.uk/ols/ontologies/envo	NO	NO	por definir	
+ enzo	Enzo Life Sciences	 https://www.enzolifesciences.com	desconocido	NO	por definir	
+ eo	Plant Environment Ontology	 http://archive.gramene.org/db/ontology/search_term?id=EO:0007359	NO	NO	por definir	
+ eol	Encyclopedia of Life	 http://www.atol-ontology.com	desconocido	NO	por definir	
+ epcc	European Paediatric Cardiac Codes	 https://www.aepc.org/european-paediatric-cardiac-coding	desconocido	NO	por definir	
+ epd	The Encyclopedia of Proteome Dynamics	 http://epd.vital-it.ch/	NO	NO	por definir	
+ epio	EpilepsyOntology	 https://github.com/SCAI-BIO/EpilepsyOntology	NO	NO	por definir	
+ epo	Early Pregnancy Ontology	 https://code.google.com/p/epidemiology-ontology/	SI	NO	por definir	
+ epso	Epilepsy and Seizure Ontology	 http://prism.case.edu/prism/index.php/EpilepsyOntology	desconocido	NO	por definir	
+ erm	European Registry of Materials	 https://nanocommons.github.io/identifiers/	NO	NO	por definir	
+ ero	eagle-i Research Resource Ontology	 https://open.med.harvard.edu/wiki/display/eaglei/Ontology	NO	NO	por definir	
+ erv	Human Endogenous Retrovirus Database	 https://herv.img.cas.cz/	NO	NO	por definir	
+ estdab	European Searchable Tumour Line Database	 https://www.ebi.ac.uk/ipd/estdab/	SI	NO	por definir	
+ eu89h	JRC Data Catalogue	 http://data.jrc.ec.europa.eu/	NO	NO	por definir	
+ euclinicaltrials	EU Clinical Trials	 https://www.clinicaltrialsregister.eu/	NO	NO	por definir	
+ eupath	Eukaryotic Pathogen, Host & Vector Genomics Resource Ontology	 https://github.com/VEuPathDB-ontology/VEuPathDB-ontology	NO	NO	por definir	
+ eurofir	European Food Information Resource Network	 https://www.eurofir.org	desconocido	NO	por definir	
+ ev	eVOC (Expressed Sequence Annotation for Humans)	 http://www.evocontology.org/	SI	NO	por definir	
+ evm	eVOC mouse development stage	 URL no encontrado	SI	NO	por definir	
+ exac.gene	ExAC Gene	 http://exac.broadinstitute.org/	NO	NO	por definir	
+ exac.transcript	ExAC Transcript	 http://exac.broadinstitute.org/	NO	NO	por definir	
+ exac.variant	ExAC Variant	 http://exac.broadinstitute.org/	NO	NO	por definir	
+ exo	Exposure Ontology	 http://ctdbase.org/help/exposureHelp.jsp	NO	NO	por definir	
+ fabio	FaBiO, the FRBR-aligned Bibliographic Ontology	 https://github.com/sparontologies/fabio	desconocido	NO	por definir	
+ facebase	FaceBase	 https://www.facebase.org	NO	NO	por definir	
+ fairsharing	FAIRsharing	 https://fairsharing.org/	NO	NO	por definir	
+ faldo	Feature Annotation Location Description Ontology	 http://biohackathon.org/resource/faldo	desconocido	NO	por definir	
+ fao	Fungal Gross Anatomy Ontology	 https://github.com/obophenotype/fungal-anatomy-ontology/	NO	NO	por definir	
+ fbbi	Biological Imaging methods Ontology	 http://cellimagelibrary.org/	NO	NO	por definir	
+ fbbt	Drosophila anatomy ontology	 http://purl.obolibrary.org/obo/fbbt	NO	NO	por definir	
+ fbcv	FlyBase Controlled Vocabulary	 http://purl.obolibrary.org/obo/fbcv	NO	NO	por definir	
+ fbdv	Drosophila developmental ontology	 http://purl.obolibrary.org/obo/fbdv	NO	NO	por definir	
+ fbol	Fungal Barcode	 http://www.fungalbarcoding.org/	NO	NO	por definir	
+ fbql	FlyBase Qualifiers	 URL no encontrado	SI	NO	por definir	
+ fbrf	FlyBase Reference Report	 https://flybase.org	desconocido	NO	por definir	
+ fbsp	Fly Taxonomy	 http://www.flybase.org/	SI	NO	por definir	
+ fbtc	Flybase Cell Line	 https://flybase.org	desconocido	NO	por definir	
+ fcb	the FAIR Cookbook	 https://w3id.org	NO	NO	por definir	
+ fcsfree	Fetal Calf Serum-Free Database	 https://fcs-free.org	desconocido	NO	por definir	
+ fideo	Food Interactions with Drugs Evidence Ontology	 https://gitub.u-bordeaux.fr/erias/fideo	NO	NO	por definir	
+ fishbase.species	FishBase	 http://fishbase.org	desconocido	SI	https://www.wikidata.org/wiki/Q837101	
+ fix	Physico-chemical methods and properties	 https://www.ebi.ac.uk/chebi/	NO	NO	por definir	
+ flopo	Flora Phenotype Ontology	 https://github.com/flora-phenotype-ontology/flopoontology	NO	NO	por definir	
+ flowrepository	FlowRepository	 https://flowrepository.org/	NO	NO	por definir	
+ flu	Influenza Ontology	 http://purl.obolibrary.org/obo/flu/	SI	NO	por definir	
+ flybase	FlyBase	 http://flybase.org/	NO	SI	https://www.wikidata.org/wiki/Q3074571	
+ flybrain.ndb	FlyBrain Neuron Database	 https://flybrain-ndb.virtualflybrain.org	desconocido	NO	por definir	
+ fma	Foundational Model of Anatomy	 https://www.ebi.ac.uk/ols/ontologies/fma/	NO	NO	por definir	
+ foaf	Friend of a Friend	 http://xmlns.com/foaf/spec/	desconocido	NO	por definir	
+ fobi	Food-Biomarker Ontology	 https://github.com/pcastellanoescuder/FoodBiomarkerOntology	NO	NO	por definir	
+ foodb.compound	FooDB Compound	 http://foodb.ca/foods	NO	NO	por definir	
+ foodon	FoodOn	 https://foodon.org	NO	NO	por definir	
+ fovt	FuTRES Ontology of Vertebrate Traits	 https://github.com/futres/fovt	NO	NO	por definir	
+ fplx	FamPlex	 https://sorgerlab.github.io/famplex	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ fsnp	F-SNP	 http://compbio.cs.queensu.ca/F-SNP/	NO	NO	por definir	
+ ftt	Feature Type Thesaurus	 https://apps.usgs.gov/thesaurus/thesaurus-full.php?thcode=3	desconocido	NO	por definir	
+ funcbase.fly	FuncBase Fly	 http://func.mshri.on.ca/fly	NO	NO	por definir	
+ funcbase.human	FuncBase Human	 http://func.mshri.on.ca/human/	NO	NO	por definir	
+ funcbase.mouse	FuncBase Mouse	 http://func.mshri.on.ca/mouse/	NO	NO	por definir	
+ funcbase.yeast	FuncBase Yeast	 http://func.mshri.on.ca/yeast	NO	NO	por definir	
+ funderregistry	FunderRegistry	 https://www.crossref.org/	NO	NO	por definir	
+ fungidb	Fungal and Oomycete genomics resource	 https://fungidb.org/fungidb	NO	NO	por definir	
+ fyeco	Fission Yeast Experimental Conditions Ontology	 https://github.com/pombase/fypo	desconocido	NO	por definir	
+ fyler	Fyler	 https://www.elsevier.com/books/nadas-pediatric-cardiology/9781416023906	desconocido	NO	por definir	
+ fypo	Fission Yeast Phenotype Ontology	 https://github.com/pombase/fypo	NO	NO	por definir	
+ ga4ghdos	Data Object Service	 http://github.com/ga4gh/data-object-service-schemas	NO	NO	por definir	
+ gabi	GABI	 http://www.gabipd.org/	NO	NO	por definir	
+ galen	GALEN	 https://www.opengalen.org	SI	NO	por definir	
+ gard	Genetic and Rare Diseases Information Center	 https://rarediseases.info.nih.gov/diseases	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ gateway	Health Data Research Innovation Gateway	 https://www.hdruk.ac.uk	NO	NO	por definir	
+ gaz	Gazetteer	 http://environmentontology.github.io/gaz/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ gbif	Global Biodiversity Information Facility	 https://www.gbif.org/species	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ gc	Genetic Code	 https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html	desconocido	NO	por definir	
+ gcst	GWAS Catalog	 https://www.ebi.ac.uk	NO	NO	por definir	
+ gdc	Genomic Data Commons Data Portal	 https://gdc.cancer.gov	NO	NO	por definir	
+ gdsc	Genomics of Drug Sensitivity in Cancer	 https://www.cancerrxgene.org	NO	NO	por definir	
+ gecko	Genomics Cohorts Knowledge Ontology	 https://github.com/IHCC-cohorts/GECKO	NO	NO	por definir	
+ gemet	General Multilingual Environmental Thesaurus	 https://www.eionet.europa.eu/gemet/en/themes/	desconocido	NO	por definir	
+ genatlas	GenAtlas	 http://genatlas.medecine.univ-paris5.fr/	NO	NO	por definir	
+ genbank	GenBank	 https://www.ncbi.nlm.nih.gov/genbank/	desconocido	NO	por definir	
+ genecards	Human Gene Database	 http://www.genecards.org/	NO	NO	por definir	
+ genedb	GeneDB	 https://www.genedb.org/	NO	SI	https://www.wikidata.org/wiki/Q5531047	
+ genefarm	Structural and functional annotation of Arabidopsis thaliana gene and protein families	 http://urgi.versailles.inra.fr/Genefarm/	NO	NO	por definir	
+ genepio	Genomic Epidemiology Ontology	 http://genepio.org/	NO	NO	por definir	
+ genetree	GeneTree	 http://www.ensembl.org/	NO	NO	por definir	
+ genewiki	Gene Wiki	 http://en.wikipedia.org/wiki/Gene_Wiki	NO	NO	por definir	
+ geno	Genotype Ontology	 https://github.com/monarch-initiative/GENO-ontology/	NO	NO	por definir	
+ genpept	GenPept	 https://www.ncbi.nlm.nih.gov/protein	NO	NO	por definir	
+ genprop	Genome Properties	 https://www.ebi.ac.uk/interpro/genomeproperties/	NO	NO	por definir	
+ geo	Geographical Entity Ontology	 https://www.ncbi.nlm.nih.gov/geo/	NO	NO	por definir	
+ geogeo	Geographical Entity Ontology	 https://github.com/ufbmi	NO	NO	por definir	
+ geonames	GeoNames	 https://www.geonames.org	desconocido	NO	por definir	
+ gexo	Gene Expression Ontology	 http://www.semantic-systems-biology.org/apo	desconocido	NO	por definir	
+ ghr	Genetics Home Reference	 https://medlineplus.gov/genetics/condition	desconocido	NO	por definir	
+ giardiadb	GiardiaDB	 https://giardiadb.org/giardiadb/	NO	NO	por definir	
+ github	GitHub	 https://github.com/	NO	NO	por definir	
+ gitlab	GitLab	 https://gitlab.com/	NO	NO	por definir	
+ glida.gpcr	GLIDA GPCR	 http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/	NO	NO	por definir	
+ glida.ligand	GLIDA Ligand	 http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/	NO	NO	por definir	
+ glycoepitope	GlycoEpitope	 https://www.glycoepitope.jp/epitopes/	NO	NO	por definir	
+ glycomedb	GlycomeDB	 https://glytoucan.org/	NO	NO	por definir	
+ glyconavi	GlycoNAVI	 https://www.noguchi.or.jp/	NO	NO	por definir	
+ glycopost	GlycoPOST	 https://glycopost.glycosmos.org	NO	NO	por definir	
+ glygen	GlyGen: Computational and Informatics Resources for Glycoscience	 https://glygen.org/glycan/	desconocido	NO	por definir	
+ glytoucan	GlyTouCan	 https://glytoucan.org	NO	NO	por definir	
+ gmd	Golm Metabolome Database	 http://gmd.mpimp-golm.mpg.de/	NO	NO	por definir	
+ gmd.analyte	Golm Metabolome Database Analyte	 http://gmd.mpimp-golm.mpg.de/	NO	NO	por definir	
+ gmd.gcms	Golm Metabolome Database GC-MS spectra	 http://gmd.mpimp-golm.mpg.de/	NO	NO	por definir	
+ gmd.profile	Golm Metabolome Database Profile	 http://gmd.mpimp-golm.mpg.de/	NO	NO	por definir	
+ gmd.ref	Golm Metabolome Database Reference Substance	 http://gmd.mpimp-golm.mpg.de/	NO	NO	por definir	
+ gmelin	Gmelins Handbuch der anorganischen Chemie	 https://link.springer.com/bookseries/562	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ gno	Glycan Naming and Subsumption Ontology	 https://gnome.glyomics.org/	NO	NO	por definir	
+ gnpis	Genetic and Genomic Information System	 https://urgi.versailles.inra.fr/gnpis/	NO	NO	por definir	
+ go	Gene Ontology	 http://amigo.geneontology.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ go.model	Gene Ontology Causal Assembly Model	 http://www.geneontology.org/gocam	desconocido	NO	por definir	
+ go.ref	Gene Ontology Reference	 http://www.geneontology.org/cgi-bin/references.cgi	NO	NO	por definir	
+ go.resource	Gene Ontology Registry	 http://geneontology.org/	desconocido	NO	por definir	
+ goa	Gene Ontology Annotation Database	 https://www.ebi.ac.uk/GOA/	NO	NO	por definir	
+ goche	GO Chemicals	 https://github.com/geneontology/go-ontology/	desconocido	NO	por definir	
+ goeco	GO Evidence Code	 http://geneontology.org/docs/guide-go-evidence-codes/	desconocido	NO	por definir	
+ gold	Genomes OnLine Database	 https://gold.jgi.doe.gov/	NO	NO	por definir	
+ gold.genome	GOLD genome	 http://www.genomesonline.org/cgi-bin/GOLD/index.cgi	NO	NO	por definir	
+ gold.meta	GOLD metadata	 http://www.genomesonline.org/cgi-bin/GOLD/index.cgi	NO	NO	por definir	
+ google.patent	Google Patents	 https://www.google.com/patents/	NO	NO	por definir	
+ google.scholar	Google Scholar Researcher ID	 https://scholar.google.com/	desconocido	NO	por definir	
+ gorel	GO Relations	 http://geneontology.org/docs/ontology-relations/	desconocido	NO	por definir	
+ gpcrdb	Information system for G protein-coupled receptors	 http://www.gpcrdb.org/	NO	NO	por definir	
+ gpmdb	The Global Proteome Machine Database	 http://gpmdb.thegpm.org/	NO	NO	por definir	
+ gramene.gene	Gramene Gene	 http://www.gramene.org/	NO	NO	por definir	
+ gramene.growthstage	Gramene Growth Stage Ontology	 http://www.gramene.org/	NO	NO	por definir	
+ gramene.protein	Gramene protein	 http://www.gramene.org/	NO	NO	por definir	
+ gramene.qtl	Gramene QTL	 http://www.gramene.org/	NO	NO	por definir	
+ gramene.taxonomy	Gramene Taxonomy	 http://www.gramene.org/	NO	NO	por definir	
+ grassbase	GrassBase	 https://www.kew.org/data/grasses-syn/index.htm	desconocido	NO	por definir	
+ greengenes	Greengenes	 http://greengenes.lbl.gov/	NO	NO	por definir	
+ grid	Global Research Identifier Database	 https://www.grid.ac/	NO	NO	por definir	
+ grin.taxonomy	GRIN Plant Taxonomy	 http://www.ars-grin.gov/cgi-bin/npgs/html/index.pl?language=en	NO	NO	por definir	
+ gro	Gene Regulation Ontology	 URL no encontrado	SI	NO	por definir	
+ grsdb	G-Rich Sequences Database	 http://bioinformatics.ramapo.edu/GRSDB2/	NO	NO	por definir	
+ gsfa	General Standard for Food Additives Online Database	 http://www.fao.org/gsfaonline	desconocido	NO	por definir	
+ gsso	Gender, Sex, and Sexual Orientation Ontology	 https://bioportal.bioontology.org/	NO	NO	por definir	
+ gtex	Genotype-Tissue Expression	 https://www.gtexportal.org	NO	NO	por definir	
+ gtr	Genetic Testing Registry	 https://www.ncbi.nlm.nih.gov/gtr/	desconocido	NO	por definir	
+ gudmap	GenitoUrinary Development Molecular Anatomy Project	 http://www.gudmap.org/	NO	NO	por definir	
+ gwascentral.marker	GWAS Central Marker	 https://www.gwascentral.org/markers/	NO	NO	por definir	
+ gwascentral.phenotype	GWAS Central Phenotype	 https://www.gwascentral.org/phenotypes	NO	NO	por definir	
+ gwascentral.study	GWAS Central Study	 https://www.gwascentral.org/studies	NO	NO	por definir	
+ gxa.expt	GXA Expt	 https://www.ebi.ac.uk/gxa/	NO	NO	por definir	
+ gxa.gene	GXA Gene	 https://www.ebi.ac.uk/gxa/	NO	NO	por definir	
+ habronattus	Habronattus courtship	 http://www.mesquiteproject.org/ontology/Habronattus/index.html	SI	NO	por definir	
+ hamap	HAMAP database of microbial protein families	 https://hamap.expasy.org/	NO	NO	por definir	
+ hancestro	Human Ancestry Ontology	 https://github.com/EBISPOT/ancestro	NO	NO	por definir	
+ hao	Hymenoptera Anatomy Ontology	 http://hymao.org	NO	NO	por definir	
+ hcao	Human Cell Atlas Ontology	 https://www.humancellatlas.org	desconocido	NO	por definir	
+ hcpcs	Healthcare Common Procedure Coding System	 https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo	desconocido	NO	por definir	
+ hcvdb	Hepatitis C Virus Database	 http://euhcvdb.ibcp.fr/euHCVdb/	NO	NO	por definir	
+ hdr	Homeodomain Research	 http://research.nhgri.nih.gov/apps/homeodomain/web/	NO	NO	por definir	
+ hgmd	Human Gene Mutation Database	 http://www.hgmd.cf.ac.uk/ac/index.php	NO	NO	por definir	
+ hgnc	HUGO Gene Nomenclature Committee	 https://www.genenames.org	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ hgnc.genefamily	HGNC Family	 http://www.genenames.org	SI	NO	por definir	
+ hgnc.genegroup	HGNC Gene Group	 https://www.genenames.org	NO	NO	por definir	
+ hgnc.symbol	HGNC Symbol	 https://www.genenames.org/	NO	NO	por definir	
+ hinv.locus	H-InvDb Locus	 http://h-invitational.jp/hinv/ahg-db/index.jsp	NO	NO	por definir	
+ hinv.protein	H-InvDb Protein	 http://h-invitational.jp/hinv/ahg-db/index.jsp	NO	NO	por definir	
+ hinv.transcript	H-InvDb Transcript	 http://h-invitational.jp/hinv/ahg-db/index.jsp	NO	NO	por definir	
+ hipsci	Human Induced Pluripotent Stem Cells Initiative	 http://www.hipsci.org	desconocido	NO	por definir	
+ hivreagentprogram	NIH HIV Reagent Program	 https://www.hivreagentprogram.org/Home.aspx	desconocido	NO	por definir	
+ hmdb	The Human Metabolome Database	 http://www.hmdb.ca/	NO	SI	https://www.wikidata.org/wiki/Q5937262	
+ hms.lincs.compound	HMS LINCS Compound	 https://lincs.hms.harvard.edu/db/sm/	desconocido	NO	por definir	
+ hog	Homologous Organ Groups	 https://bgee.org/bgee/bgee?page=documentation#sectionHomologyRelationships	desconocido	NO	por definir	
+ hogenom	HOGENOM	 http://pbil.univ-lyon1.fr/databases/hogenom/	NO	NO	por definir	
+ hom	HOMology	 https://github.com/BgeeDB/homology-ontology	NO	NO	por definir	
+ homd.seq	HOMD Sequence Metainformation	 http://www.homd.org/index.php	NO	NO	por definir	
+ homd.taxon	HOMD Taxonomy	 http://www.homd.org/index.php	NO	NO	por definir	
+ homologene	NCBI HomoloGene Database	 https://www.ncbi.nlm.nih.gov/homologene/	NO	SI	https://www.wikidata.org/wiki/Q468215	
+ horizon_discovery	Horizon Discovery cell line collection	 https://horizondiscovery.com/	desconocido	NO	por definir	
+ hovergen	Homologous Vertebrate Genes Database	 http://pbil.univ-lyon1.fr/databases/hovergen.php	NO	NO	por definir	
+ hp	Human Phenotype Ontology	 http://human-phenotype-ontology.github.io/	NO	SI	https://www.wikidata.org/wiki/Q17027854	
+ hpa	Human Protein Atlas	 http://www.proteinatlas.org/	NO	NO	por definir	
+ hpath	Histopathology Ontology	 https://github.com/Novartis/hpath	desconocido	NO	por definir	
+ hpm.peptide	Human Proteome Map Peptide	 http://www.humanproteomemap.org/index.php	NO	NO	por definir	
+ hpm.protein	Human Proteome Map Protein	 http://www.humanproteomemap.org/index.php	NO	NO	por definir	
+ hprd	Human Protein Reference Database	 http://www.hprd.org/	NO	NO	por definir	
+ hpscreg	Human Pluripotent Stem Cell Registry	 https://hpscreg.eu/	NO	NO	por definir	
+ hsapdv	Human Developmental Stages Ontology	 https://github.com/obophenotype/developmental-stage-ontologies/wiki/HsapDv	NO	NO	por definir	
+ hsdb	Hazardous Substances Data Bank	 https://pubchem.ncbi.nlm.nih.gov/source/hsdb	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ hso	Health Surveillance Ontology	 https://w3id.org/hso	NO	NO	por definir	
+ hssp	HSSP	 http://swift.cmbi.kun.nl/swift/hssp/	NO	NO	por definir	
+ htn	Hypertension Ontology	 https://github.com/aellenhicks/htn_owl	NO	NO	por definir	
+ huge	Human Unidentified Gene-Encoded large proteins database	 http://www.kazusa.or.jp/huge/	NO	NO	por definir	
+ iao	Information Artifact Ontology	 http://www.ontobee.org/ontology/IAO	NO	NO	por definir	
+ icd10	International Classification of Diseases Version 10	 http://www.who.int/classifications/icd/en/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icd10cm	International Classification of Diseases, Tenth Revision, Clinical Modification	 https://www.icd10data.com/ICD10CM	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icd10pcs	International Classification of Diseases Version 10 - Procedure Coding System	 https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/ICD10PCS	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icd11	International Classification of Diseases Version 11	 https://icd.who.int/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icd9	International Classification of Diseases 9th Revision	 https://www.cdc.gov/nchs/icd/icd9.htm	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icd9cm	International Classification of Diseases, Ninth Revision, Clinical Modification	 https://www.cdc.gov/nchs/icd/icd9cm.htm	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ icdc	Integrated Climate Data Center	 https://caninecommons.cancer.gov/#/	NO	NO	por definir	
+ icdo	The International Classification of Diseases for Oncology	 https://www.who.int/classifications/icd/adaptations/oncology/en/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ iceberg.element	ICEberg element	 http://db-mml.sjtu.edu.cn/ICEberg/	NO	NO	por definir	
+ iceberg.family	ICEberg family	 http://db-mml.sjtu.edu.cn/ICEberg/	NO	NO	por definir	
+ iceo	Integrative and Conjugative Element Ontology	 https://github.com/ontoice/ICEO	NO	NO	por definir	
+ iclc	Interlab Cell Line Collection	 http://www.iclc.it	desconocido	NO	por definir	
+ ico	Informed Consent Ontology	 https://github.com/ICO-ontology/ICO	NO	NO	por definir	
+ ideal	Intrinsically Disordered proteins with Extensive Annotations and Literature	 http://www.ideal.force.cs.is.nagoya-u.ac.jp/IDEAL/	NO	NO	por definir	
+ ido	Infectious Disease Ontology Core	 https://www.ebi.ac.uk/ols/ontologies/ido	NO	NO	por definir	
+ idocovid19	The COVID-19 Infectious Disease Ontology	 https://github.com/infectious-disease-ontology-extensions/ido-covid-19	desconocido	NO	por definir	
+ idoden	Dengue Fever Ontology	 https://bioportal.bioontology.org/ontologies/IDODEN	desconocido	NO	por definir	
+ idomal	Infection Disease Ontology Malaria	 https://www.vectorbase.org/ontology-browser	NO	NO	por definir	
+ idoo	Identifiers.org Ontology	 http://registry.api.hq.identifiers.org/semanticApi/getRegistryOntology	NO	NO	por definir	
+ idot	Identifiers.org Terms	 https://identifiers.org/	NO	NO	por definir	
+ idr	Image Data Resource	 https://idr.openmicroscopy.org	NO	NO	por definir	
+ iedb	Immune Epitope Database	 https://www.lji.org/	NO	NO	por definir	
+ iev	Event (INOH pathway ontology)	 http://www.inoh.org	SI	NO	por definir	
+ igrhcellid	Integrated Genomic Resources of human Cell Lines for Identification	 http://igrcid.ibms.sinica.edu.tw/cgi-bin/index.cgi	desconocido	NO	por definir	
+ igsn	International GeoSample Number	 http://www.geosamples.org/	NO	NO	por definir	
+ igsr	The International Genome Sample Resource	 https://www.internationalgenome.org/	desconocido	NO	por definir	
+ ihw	International Histocompatibility Workshop cell lines	 https://www.fredhutch.org/en/research/institutes-networks-ircs/international-histocompatibility-working-group.html	desconocido	NO	por definir	
+ imanis	Imanis Life Sciences cell line products	 https://www.imanislife.com/collections/cell-lines/	desconocido	NO	por definir	
+ imdrf	International Medical Device Regulators Forum	 http://www.imdrf.org/	desconocido	NO	por definir	
+ imex	International Molecular Exchange	 https://www.imexconsortium.org/	NO	NO	por definir	
+ img.gene	Integrated Microbial Genomes Gene	 http://img.jgi.doe.gov/	NO	NO	por definir	
+ img.taxon	Integrated Microbial Genomes Taxon	 http://img.jgi.doe.gov/	NO	NO	por definir	
+ imgt.hla	IPD-IMGT/HLA - Human Leukocyte Antigen Sequence Database	 https://www.ebi.ac.uk/imgt/hla/allele.html	NO	NO	por definir	
+ imgt.ligm	IMGT LIGM	 http://www.imgt.org/	NO	NO	por definir	
+ imr	Molecule role (INOH Protein name/family name ontology)	 http://www.inoh.org	SI	NO	por definir	
+ inchi	IUPAC International Chemical Identifier	 http://www.chemspider.com/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ inchikey	InChIKey	 http://www.chemspider.com/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ inhand	International Harmonization of Nomenclature and Diagnostic criteria	 https://www.goreni.org/gr3_nomenclature.php	desconocido	NO	por definir	
+ inn	International Nonproprietary Names	 https://www.who.int/teams/health-product-and-policy-standards/inn	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ ino	Interaction Network Ontology	 https://github.com/INO-ontology/ino	NO	NO	por definir	
+ insdc	Nucleotide Sequence Database	 https://www.ncbi.nlm.nih.gov/Genbank/	NO	NO	por definir	
+ insdc.cds	INSDC CDS	 http://getentry.ddbj.nig.ac.jp	NO	NO	por definir	
+ insdc.gca	Genome assembly database	 https://www.ebi.ac.uk/ena/browse/genome-assembly-database	NO	NO	por definir	
+ insdc.run	International Nucleotide Sequence Database Collaboration (INSDC) Run	 https://www.insdc.org/	desconocido	NO	por definir	
+ insdc.sra	Sequence Read Archive	 https://www.ncbi.nlm.nih.gov/sra	NO	NO	por definir	
+ intact	IntAct molecular interaction database	 https://www.ebi.ac.uk/intact/	NO	NO	por definir	
+ intact.molecule	IntAct Molecule	 https://www.ebi.ac.uk/intact/	NO	NO	por definir	
+ interlex	InterLex	 https://www.fdilab.org	NO	NO	por definir	
+ interpro	Integrated resource of protein families, domains and functional sites	 https://www.ebi.ac.uk/interpro/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ ird.segment	IRD Segment Sequence	 http://www.fludb.org/	NO	NO	por definir	
+ irefweb	Interaction Reference Index Web Interface	 http://wodaklab.org/iRefWeb/	NO	NO	por definir	
+ iro	Insect Resistance Ontology	 URL no encontrado	SI	NO	por definir	
+ isbn	ISBN	 http://isbndb.com/	NO	NO	por definir	
+ isfinder	Insertion Sequence Finder	 http://www-is.biotoul.fr/i	NO	NO	por definir	
+ isni	International Standard Name Identifier	 http://www.isni.org	NO	NO	por definir	
+ issn	ISSN	 https://portal.issn.org	NO	NO	por definir	
+ itis	Integrated Taxonomic Information System	 https://www.itis.gov/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ ito	Intelligence Task Ontology	 https://bioportal.bioontology.org/	NO	NO	por definir	
+ iuphar.family	IUPHAR family	 http://www.guidetopharmacology.org/	NO	NO	por definir	
+ iuphar.ligand	IUPHAR ligand	 http://www.guidetopharmacology.org/GRAC/LigandListForward?database=all	NO	SI	https://www.wikidata.org/wiki/Q17091219	
+ iuphar.receptor	IUPHAR receptor	 http://www.guidetopharmacology.org/targets.jsp	NO	SI	https://www.wikidata.org/wiki/Q17091219	
+ jax	JAX Mice Database	 https://www.jax.org/strain	desconocido	NO	por definir	
+ jaxmice	JAX Mice	 http://jaxmice.jax.org/	NO	NO	por definir	
+ jcggdb	Japan Consortium for Glycobiology and Glycotechnology Database	 http://jcggdb.jp/index_en.html	NO	NO	por definir	
+ jcm	Japan Collection of Microorganisms	 http://www.jcm.riken.go.jp/	NO	NO	por definir	
+ jcrb	JRBC Cell Bank	 https://cellbank.nibiohn.go.jp	desconocido	NO	por definir	
+ jcsd	Japan Chemical Substance Dictionary	 http://jglobal.jst.go.jp/en/	NO	NO	por definir	
+ jstor	JSTOR	 http://www.jstor.org/	NO	NO	por definir	
+ jws	JWS Online	 http://jjj.biochem.sun.ac.za/models/	NO	NO	por definir	
+ kaggle	Kaggle	 https://kaggle.com	NO	NO	por definir	
+ kclb	Korean Cell Line Bank	 https://cellbank.snu.ac.kr/english	desconocido	NO	por definir	
+ kegg	Kyoto Encyclopedia of Genes and Genomes	 http://www.kegg.jp/	NO	NO	por definir	
+ kegg.compound	KEGG Compound	 https://www.genome.jp/kegg/ligand.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ kegg.disease	KEGG Disease	 http://www.genome.jp/kegg/disease/	NO	NO	por definir	
+ kegg.drug	KEGG Drug	 https://www.genome.jp/kegg/drug/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ kegg.environ	KEGG Environ	 http://www.genome.jp/kegg/drug/environ.html	NO	NO	por definir	
+ kegg.enzyme	KEGG Enzyme	 http://www.genome.jp/dbget-bin/www_bfind?enzyme	desconocido	NO	por definir	
+ kegg.genes	KEGG Genes	 http://www.genome.jp/kegg/genes.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ kegg.genome	KEGG Genome	 http://www.genome.jp/kegg/catalog/org_list.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ kegg.glycan	KEGG Glycan	 https://www.genome.jp/kegg/glycan/	NO	NO	por definir	
+ kegg.ligand	KEGG LIGAND	 http://www.genome.ad.jp/kegg/docs/upd_ligand.html	SI	NO	por definir	
+ kegg.metagenome	KEGG Metagenome	 http://www.genome.jp/kegg/catalog/org_list3.html	NO	NO	por definir	
+ kegg.module	KEGG Module	 http://www.kegg.jp/kegg/module.html	NO	NO	por definir	
+ kegg.orthology	KEGG Orthology	 http://www.genome.jp/kegg/ko.html	NO	NO	por definir	
+ kegg.pathway	KEGG Pathway	 https://www.genome.jp/kegg/pathway.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ kegg.reaction	KEGG Reaction	 https://www.genome.jp/kegg/reaction/	NO	SI	https://www.wikidata.org/wiki/Q909442	
+ kerafast	Kerafast cell lines	 https://www.kerafast.com/	desconocido	NO	por definir	
+ knapsack	KNApSAcK	 http://www.knapsackfamily.com/KNApSAcK/	NO	SI	https://www.wikidata.org/wiki/Q20900436	
+ kupo	Kidney and Urinary Pathway Ontology	 http://www.kupkb.org/	SI	NO	por definir	
+ kyinno	KYinno cell lines	 https://www.kyinno.com/	desconocido	NO	por definir	
+ labo	clinical LABoratory Ontology	 https://github.com/OpenLHS/LABO	NO	NO	por definir	
+ lbo	Livestock Breed Ontology	 http://bioportal.bioontology.org/ontologies/LBO	desconocido	NO	por definir	
+ lei	Global LEI Index	 https://www.gleif.org/	NO	NO	por definir	
+ lepao	Lepidoptera Anatomy Ontology	 https://github.com/insect-morphology/lepao	NO	NO	por definir	
+ lgai.cede	LG Chemical Entity Detection Dataset (LGCEDe)	 https://www.lgresearch.ai	NO	NO	por definir	
+ lgic	Ligand-Gated Ion Channel database	 https://www.ebi.ac.uk/compneur-srv/LGICdb/LGICdb.php	NO	NO	por definir	
+ licebase	LiceBase	 https://licebase.org	NO	NO	por definir	
+ ligandbook	LigandBook	 https://ligandbook.org/	NO	NO	por definir	
+ ligandbox	LigandBox	 http://www.mypresto5.com/ligandbox/cgi-bin/index.cgi?LANG=en	NO	NO	por definir	
+ ligandexpo	Ligand Expo	 http://ligand-depot.rutgers.edu/index.html	NO	NO	por definir	
+ ligea	Cancer cell LInes GEne fusions portAl	 http://hpc-bioinformatics.cineca.it/fusion/main	desconocido	NO	por definir	
+ limore	Liver Cancer Model Repository	 https://www.picb.ac.cn/limore/home	desconocido	NO	por definir	
+ lincs.cell	LINCS Cell	 http://lincsportal.ccs.miami.edu/cells/	NO	NO	por definir	
+ lincs.data	LINCS Data	 http://lincsportal.ccs.miami.edu/datasets/	NO	NO	por definir	
+ lincs.protein	LINCS Protein	 http://lincs.hms.harvard.edu/db/proteins/	NO	NO	por definir	
+ lincs.smallmolecule	LINCS Small Molecule	 http://lincsportal.ccs.miami.edu/SmallMolecules/	NO	NO	por definir	
+ linguist	Linguist	 https://github.com/	NO	NO	por definir	
+ lipidbank	LipidBank	 http://lipidbank.jp/index.html	NO	NO	por definir	
+ lipidmaps	LIPID MAPS	 http://www.lipidmaps.org	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ lipro	Lipid Ontology	 http://purl.obolibrary.org/obo/LIPRO_$1	SI	NO	por definir	
+ lncipedia	LNCipedia	 https://lncipedia.org	desconocido	NO	por definir	
+ loggerhead	Loggerhead nesting	 http://www.mesquiteproject.org/ontology/Loggerhead/index.html	SI	NO	por definir	
+ loinc	Logical Observation Identifier Names and Codes	 https://loinc.org/	desconocido	NO	por definir	
+ lonza	Lonza	 https://knowledge.lonza.com	desconocido	NO	por definir	
+ lotus	LOTUS Initiative for Open Natural Products Research	 https://lotus.naturalproducts.net	desconocido	SI	https://www.wikidata.org/wiki/Q104225190	
+ lrg	Locus Reference Genomic	 http://www.lrg-sequence.org/	NO	NO	por definir	
+ lspci	Laboratory of Systems Pharmacology Compound ID	 https://labsyspharm.github.io/lspci/	desconocido	NO	por definir	
+ lter	Long Term Ecological Research Controlled Vocabulary	 https://vocab.lternet.edu/vocab/vocab/index.php	desconocido	NO	por definir	
+ ma	Mouse Adult Gross Anatomy Ontology	 http://www.informatics.jax.org/	NO	NO	por definir	
+ macie	Mechanism, Annotation and Classification in Enzymes	 https://www.ebi.ac.uk/thornton-srv/databases/MACiE/index.html	NO	NO	por definir	
+ maizegdb.locus	Maize Genetics and Genomics Database	 http://www.maizegdb.org/	NO	NO	por definir	
+ mamo	Mathematical Modelling Ontology	 http://bioportal.bioontology.org/ontologies/MAMO	NO	NO	por definir	
+ mao	Multiple alignment	 http://www-igbmc.u-strasbg.fr/BioInfo/MAO/mao.html	SI	NO	por definir	
+ massbank	MassBank Europe	 http://www.massbank.jp	NO	SI	https://www.wikidata.org/wiki/Q24088019	
+ massive	Mass Spectrometry Interactive Virtual Environment	 https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp	NO	NO	por definir	
+ mat	Minimal Anatomical Terminology	 http://purl.obolibrary.org/obo/MAT_$1	SI	NO	por definir	
+ matrixdb	Extracellular Matrix Interaction Database	 http://matrixdb.univ-lyon1.fr/	desconocido	NO	por definir	
+ matrixdb.association	MatrixDB Association	 http://matrixdb.univ-lyon1.fr/	NO	NO	por definir	
+ maxo	Medical Action Ontology	 https://github.com/monarch-initiative/MAxO	NO	NO	por definir	
+ mcc	Cell Line Ontology [derivative]	 URL no encontrado	SI	NO	por definir	
+ mco	Microbial Conditions Ontology	 https://github.com/microbial-conditions-ontology/microbial-conditions-ontology	NO	NO	por definir	
+ mdm	Medical Data Models	 https://medical-data-models.org/	NO	NO	por definir	
+ meddra	Medical Dictionary for Regulatory Activities Terminology	 http://bioportal.bioontology.org/ontologies/MEDDRA	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ medgen	MedGen	 https://www.ncbi.nlm.nih.gov/medgen/	NO	NO	por definir	
+ medlineplus	MedlinePlus Health Topics	 http://www.nlm.nih.gov/medlineplus/	NO	NO	por definir	
+ merops	MEROPS	 http://merops.sanger.ac.uk/index.htm	NO	NO	por definir	
+ merops.family	MEROPS Family	 http://merops.sanger.ac.uk/index.htm	NO	NO	por definir	
+ merops.inhibitor	MEROPS Inhibitor	 http://merops.sanger.ac.uk/index.htm	NO	NO	por definir	
+ mesh	Medical Subject Headings	 http://id.nlm.nih.gov/mesh/	NO	SI	https://www.wikidata.org/wiki/Q199897	
+ mesh.2012	MeSH 2012	 http://www.nlm.nih.gov/mesh/	NO	NO	por definir	
+ mesh.2013	MeSH 2013	 http://www.nlm.nih.gov/mesh/	NO	NO	por definir	
+ metabolights	MetaboLights	 https://www.ebi.ac.uk/metabolights/	NO	SI	https://www.wikidata.org/wiki/Q24174701	
+ metacyc.compound	MetaCyc	 https://metacyc.org	NO	NO	por definir	
+ metacyc.reaction	MetaCyc Reaction	 https://metacyc.org	NO	NO	por definir	
+ metanetx.chemical	MetaNetX chemical	 https://www.metanetx.org/	NO	NO	por definir	
+ metanetx.compartment	MetaNetX compartment	 https://www.metanetx.org/	NO	NO	por definir	
+ metanetx.reaction	MetaNetX reaction	 https://www.metanetx.org/	NO	NO	por definir	
+ metlin	Metabolite and Tandem Mass Spectrometry Database	 http://masspec.scripps.edu/	NO	NO	por definir	
+ mex	Metabolome Express	 https://www.metabolome-express.org/	NO	NO	por definir	
+ mf	Mental Functioning Ontology	 https://github.com/jannahastings/mental-functioning-ontology	NO	NO	por definir	
+ mfmo	Mammalian Feeding Muscle Ontology	 https://github.com/rdruzinsky/feedontology	NO	NO	por definir	
+ mfo	Medaka Fish Anatomy and Development Ontology	 http://purl.obolibrary.org/obo/MFO_$1	SI	NO	por definir	
+ mfoem	Emotion Ontology	 https://github.com/jannahastings/emotion-ontology	NO	NO	por definir	
+ mfomd	MFO Mental Disease Ontology	 https://github.com/jannahastings/mental-functioning-ontology	NO	NO	por definir	
+ mge	Aclame	 http://aclame.ulb.ac.be/	NO	NO	por definir	
+ mgi	Mouse Genome Database - a Mouse Genome Informatics (MGI) Resource	 http://www.informatics.jax.org/	NO	SI	https://www.wikidata.org/wiki/Q1951035	
+ mgnify.analysis	MGnify Analysis	 https://www.ebi.ac.uk/metagenomics/	desconocido	NO	por definir	
+ mgnify.proj	MGnify Project	 https://www.ebi.ac.uk/metagenomics	NO	NO	por definir	
+ mgnify.samp	MGnify Sample	 https://www.ebi.ac.uk/metagenomics	NO	NO	por definir	
+ mi	Molecular Interactions Ontology	 https://www.ebi.ac.uk/ols/ontologies/mi	NO	NO	por definir	
+ miaa	Minimal Information About Anatomy ontology	 same as MAT	SI	NO	por definir	
+ miapa	Minimal Information About a Phylogenetic Analysis	 http://www.evoio.org/wiki/MIAPA	NO	NO	por definir	
+ micro	Ontology of Prokaryotic Phenotypic and Metabolic Characters	 https://github.com/carrineblank/MicrO	NO	NO	por definir	
+ microscope	Microbial Genome Annotation & Analysis Platform	 http://www.genoscope.cns.fr/agc/microscope	NO	NO	por definir	
+ microsporidia	MicrosporidiaDB	 http://microsporidiadb.org/micro/	NO	NO	por definir	
+ millipore	Merck Millipore (EMD Millipore)	 https://www.merckmillipore.com/	desconocido	NO	por definir	
+ mim	Online Mendelian Inheritance in Man	 https://omim.org/	NO	SI	https://www.wikidata.org/wiki/Q241953	
+ mim.ps	OMIM Phenotypic Series	 https://www.omim.org/phenotypicSeriesTitles/all	desconocido	NO	por definir	
+ mimodb	Mimotope Database	 http://immunet.cn/bdb/	NO	NO	por definir	
+ minid	Minimal Viable Identifier	 https://fair-research.org	NO	NO	por definir	
+ minid.test	MINID Test	 https://fair-research.org	NO	NO	por definir	
+ mint	Molecular INTeraction Database	 http://mint.bio.uniroma2.it/mint/	NO	NO	por definir	
+ mipmod	MIPModDB	 http://bioinfo.iitk.ac.in/MIPModDB	NO	NO	por definir	
+ mir	Identifiers.org Registry	 https://registry.identifiers.org/registry	NO	NO	por definir	
+ mirbase	miRBase	 http://www.mirbase.org/	NO	SI	https://www.wikidata.org/wiki/Q6826947	
+ mirbase.family	miRBase Families	 http://www.mirbase.org/	desconocido	SI	https://www.wikidata.org/wiki/Q6826947	
+ mirbase.mature	miRBase mature sequence	 http://www.mirbase.org/	NO	SI	https://www.wikidata.org/wiki/Q6826947	
+ mirex	mirEX	 http://comgen.pl/mirex/?page=home	NO	NO	por definir	
+ miriam	Minimal Information Required In the Annotation of Models	 https://www.ebi.ac.uk	NO	NO	por definir	
+ miriam.collection	MIRIAM Registry collection	 https://www.ebi.ac.uk/miriam/	SI	NO	por definir	
+ miriam.resource	MIRIAM Registry resource	 https://www.ebi.ac.uk/miriam/	NO	NO	por definir	
+ mirnao	MicroRNA Ontology	 http://code.google.com/p/mirna-ontology/	SI	NO	por definir	
+ mirnest	miRNEST	 http://rhesus.amu.edu.pl/mirnest/copy/	NO	NO	por definir	
+ miro	Mosquito Insecticide Resistance Ontology	 http://anobase.vectorbase.org	NO	NO	por definir	
+ mirtarbase	miRTarBase	 http://mirtarbase.mbc.nctu.edu.tw/	NO	NO	por definir	
+ mirte	miRNA Target Prediction at EMBL	 http://www.russelllab.org/miRNAs/	desconocido	NO	por definir	
+ mlc	MLCommons Association	 https://mlcommons.org/en/	NO	NO	por definir	
+ mmdb	Molecular Modeling Database	 http://www.ncbi.nlm.nih.gov/sites/entrez?db=structure	NO	NO	por definir	
+ mmmp.biomaps	Melanoma Molecular Map Project Biomaps	 http://www.mmmp.org/MMMP/public/biomap/listBiomap.mmmp	NO	NO	por definir	
+ mmo	Measurement Method Ontology	 https://rgd.mcw.edu/rgdweb/ontology/view.html?acc_id=MMO:0000000	NO	NO	por definir	
+ mmp.cat	MarCat	 https://mmp.sfb.uit.no/databases/marcat/	NO	NO	por definir	
+ mmp.db	MarDB	 https://mmp.sfb.uit.no/databases/mardb/	NO	NO	por definir	
+ mmp.fun	MarFun	 https://mmp.sfb.uit.no/databases/marfun	NO	NO	por definir	
+ mmp.ref	MarRef	 https://mmp.sfb.uit.no/databases/marref/	NO	NO	por definir	
+ mmrrc	Mutant Mouse Resource and Research Centers	 http://www.mmrrc.org/	NO	NO	por definir	
+ mmsl	Multum MediSource Lexicon	 https://www.nlm.nih.gov/research/umls/rxnorm/sourcereleasedocs/mmsl.html	desconocido	NO	por definir	
+ mmusdv	Mouse Developmental Stages	 https://github.com/obophenotype/developmental-stage-ontologies/wiki/MmusDv	NO	NO	por definir	
+ mo	MGED Ontology	 http://bioportal.bioontology.org/	NO	NO	por definir	
+ mobidb	MobiDB	 https://mobidb.org/	NO	NO	por definir	
+ mod	Protein Modification Ontology	 https://www.ebi.ac.uk/ols/ontologies/mod	NO	NO	por definir	
+ modeldb	ModelDB	 http://senselab.med.yale.edu/ModelDB/	NO	NO	por definir	
+ molbase	Molbase	 http://www.molbase.com/	NO	NO	por definir	
+ molbase.sheffield	MolBase	 https://winter.group.shef.ac.uk/molbase/	SI	NO	por definir	
+ molmedb	MolMeDB: Molecules on Membranes Database	 http://www.upol.cz/en/	NO	NO	por definir	
+ mondo	Monarch Disease Ontology	 http://obofoundry.org/ontology/mondo.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ mop	Molecular Process Ontology	 https://github.com/rsc-ontologies/rxno	NO	NO	por definir	
+ morpheus	Morpheus model repository	 https://morpheus.gitlab.io/	NO	NO	por definir	
+ mp	Mammalian Phenotype Ontology	 http://www.informatics.jax.org/	NO	NO	por definir	
+ mpath	Mouse PATHology	 http://www.pathbase.net	NO	NO	por definir	
+ mpid	Microbial Protein Interaction Database	 http://www.jcvi.org/mpidb/about.php	NO	NO	por definir	
+ mpio	Minimum PDDI Information Ontology	 https://github.com/MPIO-Developers/MPIO	NO	NO	por definir	
+ mro	MHC Restriction Ontology	 https://github.com/IEDB/MRO	NO	NO	por definir	
+ ms	Mass Spectrometry Controlled Vocabulary	 https://www.ebi.ac.uk/ols/ontologies/ms	NO	NO	por definir	
+ msigdb	Molecular Signatures Database	 https://www.gsea-msigdb.org	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ msio	Metabolomics Standards Initiative Ontology	 https://github.com/MSI-Metabolomics-Standards-Initiative/MSIO	desconocido	NO	por definir	
+ multicellds	MultiCellular Data Standard	 http://multicellds.org/MultiCellDB.php	desconocido	NO	por definir	
+ multicellds.cell_line	MultiCellDS Digital Cell Line	 http://multicellds.org/MultiCellDB.php	NO	NO	por definir	
+ multicellds.collection	MultiCellDS collection	 http://multicellds.org/MultiCellDB.php	NO	NO	por definir	
+ multicellds.snapshot	MultiCellDS Digital snapshot	 http://multicellds.org/MultiCellDB.php	NO	NO	por definir	
+ mw.project	Metabolomics Workbench Project	 http://www.metabolomicsworkbench.org/	NO	NO	por definir	
+ mw.study	Metabolomics Workbench Study	 http://www.metabolomicsworkbench.org/	NO	NO	por definir	
+ myco.lepra	MycoBrowser leprae	 http://mycobrowser.epfl.ch/leprosy.html	NO	NO	por definir	
+ myco.marinum	MycoBrowser marinum	 http://mycobrowser.epfl.ch/marinolist.html	NO	NO	por definir	
+ myco.smeg	MycoBrowser smegmatis	 http://mycobrowser.epfl.ch/smegmalist.html	NO	NO	por definir	
+ myco.tuber	MycoBrowser tuberculosis	 http://tuberculist.epfl.ch/	NO	NO	por definir	
+ mycobank	MycoBank	 http://www.mycobank.org/	NO	NO	por definir	
+ mzspec	Universal Spectrum Identifier	 http://proteomecentral.proteomexchange.org/	NO	NO	por definir	
+ n2t	Name-to-Thing	 https://n2t.net	desconocido	NO	por definir	
+ namerxn	NameRXN	 https://www.nextmovesoftware.com/namerxn.html	desconocido	NO	por definir	
+ napdi	Natural Product-Drug Interaction Research Data Repository	 https://repo.napdi.org/	NO	NO	por definir	
+ napp	Nucleic Acid Phylogenetic Profile	 http://napp.u-psud.fr/	NO	NO	por definir	
+ narcis	NARCIS	 http://www.narcis.nl/?Language=en	NO	NO	por definir	
+ nasc	Nottingham Arabidopsis Stock Centre Seeds Database	 http://arabidopsis.info/	NO	NO	por definir	
+ nbn	National Bibliography Number	 http://nbn-resolving.org/resolve_urn.htm	NO	NO	por definir	
+ nbo	Neuro Behavior Ontology	 https://github.com/obo-behavior/behavior-ontology/	NO	NO	por definir	
+ nbrc	NITE Biological Research Center Catalogue	 http://www.nbrc.nite.go.jp/e/index.html	NO	NO	por definir	
+ ncats.drug	NCATS Drugs	 https://drugs.ncats.io/	desconocido	NO	por definir	
+ ncbi.resource	NCBI Registry	 https://www.ncbi.nlm.nih.gov/genbank/collab/db_xref/	desconocido	NO	por definir	
+ ncbibook	NCBI Bookshelf	 https://www.ncbi.nlm.nih.gov/books	desconocido	NO	por definir	
+ ncbigene	NCBI Gene	 https://www.ncbi.nlm.nih.gov/gene	NO	SI	https://www.wikidata.org/wiki/Q1345229	
+ ncbiprotein	NCBI Protein	 https://www.ncbi.nlm.nih.gov/protein	NO	NO	por definir	
+ ncbitaxon	NCBI Taxonomy	 https://www.ncbi.nlm.nih.gov/Taxonomy/	NO	SI	https://www.wikidata.org/wiki/Q13711410	
+ ncim	NCI Metathesaurus	 http://ncim.nci.nih.gov/	NO	NO	por definir	
+ ncit	NCI Thesaurus	 http://ncit.nci.nih.gov/	NO	SI	https://www.wikidata.org/wiki/Q19404626	
+ ncro	Non-coding RNA Ontology	 http://omnisearch.soc.southalabama.edu/w/index.php/Ontology	NO	NO	por definir	
+ ndc	National Drug Code	 http://www.accessdata.fda.gov/scripts/cder/ndc/	NO	NO	por definir	
+ nddf	National Drug Data File	 https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/NDDF	desconocido	NO	por definir	
+ ndex	The Network Data Exchange	 https://www.ndexbio.org	desconocido	NO	por definir	
+ ndfrt	National Drug File	 https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/NDFRT	desconocido	SI	https://www.wikidata.org/wiki/Q21008030	
+ nemo	Neural ElectroMagnetic Ontologies	 https://www.nemoarchive.org	NO	NO	por definir	
+ neurolex	NeuroLex	 http://www.neurolex.org/wiki/Main_Page	NO	NO	por definir	
+ neuromorpho	NeuroMorpho	 http://neuromorpho.org/index.jsp	NO	NO	por definir	
+ neuronames	NeuroNames	 http://braininfo.rprc.washington.edu/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ neurondb	NeuronDB	 http://senselab.med.yale.edu/NeuronDB/	NO	NO	por definir	
+ neurovault.collection	NeuroVault Collection	 http://neurovault.org	NO	NO	por definir	
+ neurovault.image	NeuroVault Image	 http://neurovault.org	NO	NO	por definir	
+ nextdb	Nematode Expression Pattern DataBase	 http://nematode.lab.nig.ac.jp/	NO	NO	por definir	
+ nextprot	neXtProt	 https://www.nextprot.org/	NO	SI	https://www.wikidata.org/wiki/Q6983890	
+ nextprot.family	neXtProt family	 https://www.nextprot.org/	desconocido	NO	por definir	
+ ngl	NASA GeneLab	 https://genelab-data.ndc.nasa.gov/genelab/	NO	NO	por definir	
+ nhcdr	NINDS Human Cell and Data Repository	 https://stemcells.nindsgenetics.org	desconocido	NO	por definir	
+ niaest	NIA Mouse cDNA Project	 http://lgsun.grc.nia.nih.gov/cDNA/	NO	NO	por definir	
+ nif_cell	Neuroscience Information Framework (NIF) Cell Ontology	 http://neuinfo.org/	SI	NO	por definir	
+ nif_dysfunction	NIF Dysfunction	 http://neuinfo.org/	SI	NO	por definir	
+ nif_grossanatomy	NIF Gross Anatomy	 http://neuinfo.org/	SI	NO	por definir	
+ nist	NIST Chemistry WebBook	 https://webbook.nist.gov/chemistry/	desconocido	NO	por definir	
+ nlm	National Library of Medicine Catalog	 https://www.ncbi.nlm.nih.gov/nlmcatalog	desconocido	NO	por definir	
+ nlxanat	NeuroLex Anatomy	 https://scicrunch.org/scicrunch/interlex/dashboard	desconocido	NO	por definir	
+ nlxdys	NeuroLex Dysfunction	 https://scicrunch.org/scicrunch/interlex/dashboard	desconocido	NO	por definir	
+ nmdc	National Microbiome Data Collaborative	 https://ror.org/02jbv0t02	NO	SI	https://www.wikidata.org/wiki/Q107698738	
+ nmr	Nuclear Magnetic Resonance Controlled Vocabulary	 https://www.ebi.ac.uk/ols/ontologies/nmrcv	NO	NO	por definir	
+ nmrshiftdb2	nmrshiftdb2	 https://nmrshiftdb.nmr.uni-koeln.de	NO	NO	por definir	
+ nomen	A nomenclatural ontology for biological names	 https://github.com/SpeciesFileGroup/nomen	NO	NO	por definir	
+ noncodev3	NONCODE v3	 http://www.noncode.org/	NO	NO	por definir	
+ noncodev4.gene	NONCODE v4 Gene	 http://www.bioinfo.org/NONCODEv4/	NO	NO	por definir	
+ noncodev4.rna	NONCODE v4 Transcript	 http://www.bioinfo.org/NONCODEv4/	NO	NO	por definir	
+ norine	Non-Ribosomal Peptides Database	 http://bioinfo.lifl.fr/norine/	NO	NO	por definir	
+ novus	Novus Biologicals	 https://www.novusbio.com	desconocido	NO	por definir	
+ npass	Natural Product Activity and Species Source Database	 http://bidd.group/NPASS/	desconocido	NO	por definir	
+ npo	NanoParticle Ontology	 https://bioportal.bioontology.org/ontologies/NPO	desconocido	NO	por definir	
+ nuclearbd	NucleaRDB	 http://www.receptors.org/nucleardb/	NO	NO	por definir	
+ nucleotide	Nucleotide	 https://www.ncbi.nlm.nih.gov/	NO	NO	por definir	
+ oa	Web Annotation Ontology	 http://www.w3.org/ns/oa	desconocido	NO	por definir	
+ oae	Ontology of Adverse Events	 https://github.com/OAE-ontology/OAE/	NO	NO	por definir	
+ oarcs	Ontology of Arthropod Circulatory Systems	 https://github.com/aszool/oarcs	NO	NO	por definir	
+ oba	Ontology of Biological Attributes	 https://github.com/obophenotype/bio-attribute-ontology	NO	NO	por definir	
+ obcs	Ontology of Biological and Clinical Statistics	 https://github.com/obcs/obcs	NO	NO	por definir	
+ obi	Ontology for Biomedical Investigations	 http://www.ontobee.org/	NO	NO	por definir	
+ obib	Ontology for Biobanking	 https://github.com/biobanking/biobanking	NO	NO	por definir	
+ obo	OBO Foundry	 http://www.obofoundry.org/	desconocido	NO	por definir	
+ oboformat	OBO Format Syntax and Semantics	 https://github.com/geneontology/go-ontology/tree/master/contrib	desconocido	NO	por definir	
+ oboinowl	OBO in OWL	 https://github.com/geneontology/go-ontology/tree/master/contrib	desconocido	NO	por definir	
+ occ	OpenCitations Corpus	 https://w3id.org/oc/corpus	NO	NO	por definir	
+ oci	Open Citation Identifier	 http://opencitations.net	NO	NO	por definir	
+ ocid	Ontology Concept Identifiers	 https://ontochem.com/	NO	NO	por definir	
+ oclc	Online Computer Library Center WorldCat	 https://www.oclc.org/en/about.html	NO	NO	por definir	
+ odam	Open Data for Access and Mining	 https://metabolome.cgfb.u-bordeaux.fr/	NO	NO	por definir	
+ odc.sci	Open Data Commons for Spinal Cord Injury	 https://odc-sci.org	NO	NO	por definir	
+ odc.tbi	Open Data Commons for Traumatic Brain Injury	 https://odc-tbi.org	NO	NO	por definir	
+ odor	Odor Molecules DataBase	 http://senselab.med.yale.edu/OdorDB	NO	NO	por definir	
+ ogg	Ontology of Genes and Genomes	 https://bitbucket.org/hegroup/ogg	NO	NO	por definir	
+ ogi	Ontology for Genetic Interval	 https://code.google.com/archive/p/ontology-for-genetic-interval/	NO	NO	por definir	
+ ogms	Ontology for General Medical Science	 https://github.com/OGMS/ogms	NO	SI	https://www.wikidata.org/wiki/Q4866972	
+ ogsf	Ontology for Genetic Susceptibility Factor	 https://code.google.com/p/ogsf/	NO	NO	por definir	
+ ohd	The Oral Health and Disease Ontology	 https://purl.obolibrary.org/obo/ohd/home	NO	NO	por definir	
+ ohmi	Ontology of Host-Microbe Interactions	 https://github.com/ohmi-ontology/ohmi	NO	NO	por definir	
+ ohpi	Ontology of Host-Pathogen Interactions	 https://github.com/OHPI/ohpi	NO	NO	por definir	
+ oid	OID Repository	 http://www.oid-info.com/introduction.htm	NO	NO	por definir	
+ olatdv	Medaka Stage Ontology	 https://github.com/obophenotype/developmental-stage-ontologies/wiki/OlatDv	NO	NO	por definir	
+ om	Ontology of units of Measure	 https://github.com/HajoRijgersberg/OM	desconocido	NO	por definir	
+ oma.grp	OMA Group	 https://omabrowser.org/cgi-bin/gateway.pl	NO	NO	por definir	
+ oma.hog	OMA HOGs	 https://omabrowser.org	NO	NO	por definir	
+ oma.protein	OMA Protein	 https://omabrowser.org/cgi-bin/gateway.pl	NO	NO	por definir	
+ omia	Online Mendelian Inheritance in Animals	 http://omia.angis.org.au/	NO	NO	por definir	
+ omiabis	Ontologized MIABIS	 https://github.com/OMIABIS/omiabis-dev	SI	NO	por definir	
+ omit	Ontology for MicroRNA Target	 https://www.ebi.ac.uk/ols/ontologies/omit/	NO	SI	https://www.wikidata.org/wiki/Q55118529	
+ omo	OBO Metadata Ontology	 https://github.com/information-artifact-ontology/ontology-metadata	NO	NO	por definir	
+ omop	Observational Medical Outcomes Partnership	 https://www.ohdsi.org/data-standardization/the-common-data-model/	desconocido	NO	por definir	
+ omp	Ontology of Microbial Phenotypes	 http://microbialphenotypes.org	NO	SI	https://www.wikidata.org/wiki/Q81661753	
+ omrse	Ontology of Medically Related Social Entities	 https://github.com/ufbmi/OMRSE/wiki/OMRSE-Overview	NO	NO	por definir	
+ oncotree	OncoTree	 http://oncotree.mskcc.org	desconocido	NO	por definir	
+ one	Ontology for Nutritional epidemiology	 https://github.com/cyang0128/Nutritional-epidemiologic-ontologies	NO	NO	por definir	
+ ons	Ontology for Nutritional Studies	 https://github.com/enpadasi/Ontology-for-Nutritional-Studies	NO	NO	por definir	
+ ontoavida	Ontology for Avida digital evolution platform	 https://gitlab.com/fortunalab/ontoavida	NO	NO	por definir	
+ ontoneo	Obstetric and Neonatal Ontology	 http://ontoneo.com	NO	NO	por definir	
+ oostt	Ontology of Organizational Structures of Trauma centers and Trauma systems	 https://github.com/OOSTT/OOSTT	NO	NO	por definir	
+ opb	Ontology of Physics for Biology	 http://bioportal.bioontology.org/ontologies/OPB	NO	NO	por definir	
+ openalex	OpenAlex	 https://openalex.org/	desconocido	NO	por definir	
+ opl	Ontology for Parasite LifeCycle	 https://github.com/OPL-ontology/OPL	NO	NO	por definir	
+ opm	Open Provenance Model	 http://opm.phar.umich.edu/	NO	NO	por definir	
+ opmi	Ontology of Precision Medicine and Investigation	 https://github.com/OPMI/opmi	NO	NO	por definir	
+ orcid	Open Researcher and Contributor ID	 https://orcid.org	NO	SI	https://www.wikidata.org/wiki/Q51044	
+ ordb	Olfactory Receptor Database	 http://senselab.med.yale.edu/OrDB/	NO	NO	por definir	
+ oridb.sacch	OriDB Saccharomyces	 http://cerevisiae.oridb.org/index.php	NO	NO	por definir	
+ oridb.schizo	OriDB Schizosaccharomyces	 http://pombe.oridb.org/index.php	NO	NO	por definir	
+ ornaseq	Ontology of RNA Sequencing	 http://kim.bio.upenn.edu/software/ornaseq.shtml	NO	NO	por definir	
+ orphanet	Orphanet	 http://www.orpha.net/consor/	NO	SI	https://www.wikidata.org/wiki/Q1515833	
+ orphanet.ordo	Orphanet Rare Diseases Ontology	 https://www.ebi.ac.uk/ols/ontologies/ordo	NO	NO	por definir	
+ orth	Orthology Ontology	 https://github.com/qfo/OrthologyOntology	desconocido	NO	por definir	
+ orthodb	Database of Orthologous Groups	 http://cegg.unige.ch/orthodb4	NO	NO	por definir	
+ oryzabase.gene	Oryzabase Gene	 http://www.shigen.nig.ac.jp/rice/oryzabaseV4/	NO	NO	por definir	
+ oryzabase.mutant	Oryzabase Mutant	 http://www.shigen.nig.ac.jp/rice/oryzabaseV4/	NO	NO	por definir	
+ oryzabase.reference	Oryzabase Reference	 http://www.shigen.nig.ac.jp/rice/oryzabaseV4/	NO	NO	por definir	
+ oryzabase.stage	Oryzabase Stage	 http://www.shigen.nig.ac.jp/rice/oryzabaseV4/	NO	NO	por definir	
+ oryzabase.strain	Oryzabase Strain	 http://www.shigen.nig.ac.jp/rice/oryzabaseV4/	NO	NO	por definir	
+ otl	Oryza Tag Line	 http://oryzatagline.cirad.fr/	NO	NO	por definir	
+ ovae	Ontology of Vaccine Adverse Events	 http://www.violinet.org/ovae/	NO	NO	por definir	
+ owl	Web Ontology Language	 https://www.w3.org/TR/owl-features/	desconocido	NO	por definir	
+ p3db.protein	P3DB Protein	 http://www.p3db.org/	NO	NO	por definir	
+ p3db.site	P3DB Site	 http://www.p3db.org/	NO	NO	por definir	
+ paleodb	Paleobiology Database	 http://paleodb.org/	NO	NO	por definir	
+ panorama	Panorama Public	 https://panoramaweb.org	desconocido	NO	por definir	
+ panther.family	PANTHER Family	 http://www.pantherdb.org/	NO	NO	por definir	
+ panther.node	PANTHER Node	 http://pantree.org/	NO	NO	por definir	
+ panther.pathway	PANTHER Pathway	 http://www.pantherdb.org/	NO	NO	por definir	
+ panther.pthcmp	PANTHER Pathway Component	 http://www.pantherdb.org/	NO	NO	por definir	
+ pao	Plant Anatomy Ontology	 http://www.plantontology.org	SI	NO	por definir	
+ pass2	Protein Alignment organised as Structural Superfamily	 http://caps.ncbs.res.in/pass2/	NO	NO	por definir	
+ pathbank	PathBank	 https://pathbank.org	desconocido	NO	por definir	
+ pathwaycommons	Pathway Commons	 http://www.pathwaycommons.org/pc/	NO	NO	por definir	
+ pato	Phenotypic QualiTy Ontology	 https://www.ebi.ac.uk/ols/ontologies/pato	NO	NO	por definir	
+ pav	Provenance, Authoring and Versioning Ontology	 https://pav-ontology.github.io/pav/	desconocido	NO	por definir	
+ paxdb.organism	PaxDb Organism	 http://pax-db.org/	NO	NO	por definir	
+ paxdb.protein	PaxDb Protein	 http://pax-db.org/	NO	NO	por definir	
+ pazar	PAZAR	 http://www.pazar.info/	NO	NO	por definir	
+ pcl	Provisional Cell Ontology	 https://github.com/obophenotype/provisional_cell_ontology	NO	NO	por definir	
+ pco	Population and Community Ontology	 https://github.com/PopulationAndCommunityOntology/pco	NO	NO	por definir	
+ pd_st	Platynereis stage ontology	 http://4dx.embl.de/platy	SI	NO	por definir	
+ pdb	Worldwide Protein Data Bank	 https://www.wwpdb.org/	NO	SI	https://www.wikidata.org/wiki/Q766195	
+ pdb-ccd	Chemical Component Dictionary	 https://www.ebi.ac.uk/pdbe-srv/pdbechem/	NO	NO	por definir	
+ pdb.ligand	Protein Data Bank Ligand	 http://www.pdb.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pdro	The Prescription of Drugs Ontology	 https://github.com/OpenLHS/PDRO	NO	NO	por definir	
+ pdumdv	Platynereis Developmental Stages	 https://github.com/obophenotype/developmental-stage-ontologies/wiki/PdumDv	NO	NO	por definir	
+ peco	Plant Experimental Condition Ontology	 http://planteome.org/	NO	NO	por definir	
+ ped	PED	 https://proteinensemble.org/	NO	NO	por definir	
+ ped.ensemble	Protein Ensemble Database ensemble	 https://proteinensemble.org/	NO	NO	por definir	
+ peff	PSI Extended File Format	 https://www.psidev.info/peff	SI	NO	por definir	
+ peptideatlas	PeptideAtlas	 http://www.peptideatlas.org/	NO	NO	por definir	
+ peptideatlas.dataset	PeptideAtlas Dataset	 https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_Summary	NO	NO	por definir	
+ perkinelmer	PerkinElmer cell line collection	 https://www.perkinelmer.com/	desconocido	NO	por definir	
+ peroxibase	PeroxiBase	 http://peroxibase.toulouse.inra.fr/	NO	NO	por definir	
+ pesticides	Alan Wood's Pesticides	 http://www.alanwood.net/pesticides	desconocido	NO	por definir	
+ pfam	Protein Families	 https://pfam.xfam.org/	NO	SI	https://www.wikidata.org/wiki/Q906796	
+ pfam.clan	Pfam Clans	 https://pfam.xfam.org	desconocido	NO	por definir	
+ pfr	Texas Data Repository	 http://repository.topdownproteomics.org/proteoforms	desconocido	NO	por definir	
+ pgdso	Plant Growth and Development Stage	 http://www.plantontology.org	SI	NO	por definir	
+ pgs	Polygenic Score Catalog	 http://pgscatalog.org	NO	NO	por definir	
+ pgx	Progenetix	 https://progenetix.org/	NO	NO	por definir	
+ pharmacodb.cell	PharmacoDB Cells	 https://pharmacodb.ca/cell_lines	desconocido	NO	por definir	
+ pharmacodb.dataset	PharmacoDB Datasets	 https://pharmacodb.ca/datasets	desconocido	NO	por definir	
+ pharmacodb.tissue	PharmacoDB Tissues	 https://pharmacodb.ca/tissues	desconocido	NO	por definir	
+ pharmgkb.disease	PharmGKB Disease	 http://www.pharmgkb.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pharmgkb.drug	PharmGKB Drug	 http://www.pharmgkb.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pharmgkb.gene	PharmGKB Gene	 http://www.pharmgkb.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pharmgkb.pathways	PharmGKB Pathways	 http://www.pharmgkb.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ phenolexplorer	Phenol-Explorer	 http://www.phenol-explorer.eu/foods/	NO	NO	por definir	
+ phenx	PhenX Phenotypic Terms	 https://www.phenxtoolkit.org/	desconocido	NO	por definir	
+ phipo	Pathogen Host Interaction Phenotype Ontology	 https://github.com/PHI-base/phipo	NO	NO	por definir	
+ phosphopoint.kinase	PhosphoPoint Kinase	 http://kinase.bioinformatics.tw/	NO	NO	por definir	
+ phosphopoint.protein	PhosphoPoint Phosphoprotein	 http://kinase.bioinformatics.tw/	NO	NO	por definir	
+ phosphosite.protein	PhosphoSite Protein	 http://www.phosphosite.org/homeAction.do	NO	NO	por definir	
+ phosphosite.residue	PhosphoSite Residue	 http://www.phosphosite.org/homeAction.do	NO	NO	por definir	
+ phylomedb	PhylomeDB	 http://phylomedb.org/	NO	NO	por definir	
+ phytozome.locus	Phytozome Locus	 http://www.phytozome.net/	NO	NO	por definir	
+ pictar	PicTar	 https://pictar.mdc-berlin.de/	SI	NO	por definir	
+ pid.pathway	Pathway Interaction Database	 http://pid.nci.nih.gov/	NO	NO	por definir	
+ pigqtldb	Animal Genome Pig QTL	 https://www.animalgenome.org/QTLdb	NO	NO	por definir	
+ pina	Protein Interaction Network Analysis platform	 http://cbg.garvan.unsw.edu.au/pina/	NO	NO	por definir	
+ piroplasma	PiroplasmaDB	 http://piroplasmadb.org/	NO	NO	por definir	
+ pirsf	PIR SuperFamily	 https://pir.georgetown.edu/	NO	NO	por definir	
+ pkdb	Pharmacokinetics Database	 https://www.hu-berlin.de/?set_language=en&cl=en	NO	NO	por definir	
+ plana	Planarian Anatomy and Developmental Stage Ontology	 https://github.com/obophenotype/planaria-ontology	NO	NO	por definir	
+ planp	Planarian Phenotype Ontology	 https://github.com/obophenotype/planarian-phenotype-ontology	NO	NO	por definir	
+ planttfdb	Plant Transcription Factor Database	 http://planttfdb.cbi.pku.edu.cn	NO	NO	por definir	
+ plasmodb	PlasmoDB	 http://plasmodb.org/plasmo/	NO	NO	por definir	
+ plo	Plasmodium Life Cycle	 http://www.sanger.ac.uk/Users/mb4/PLO/	SI	NO	por definir	
+ pmap.cutdb	CutDB	 http://cutdb.burnham.org	NO	NO	por definir	
+ pmap.substratedb	SubstrateDB	 http://substrate.burnham.org/	NO	NO	por definir	
+ pmc	PubMed Central	 http://europepmc.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pmdb	Protein Model Database	 https://bioinformatics.cineca.it/PMDB/	NO	NO	por definir	
+ pmp	Protein Model Portal	 http://www.proteinmodelportal.org/	NO	NO	por definir	
+ pmr	Physiome Model Repository	 https://www.auckland.ac.nz/en.html	NO	NO	por definir	
+ po	Plant Ontology	 http://www.plantontology.org/	NO	NO	por definir	
+ pocketome	Pocketome: an encyclopedia of small-molecule binding sites in 4D	 http://www.pocketome.org/sfSearch.cgi?act=browseall	NO	NO	por definir	
+ polbase	Polbase	 http://polbase.neb.com/	NO	NO	por definir	
+ pombase	PomBase	 http://www.pombase.org/	NO	SI	https://www.wikidata.org/wiki/Q25304673	
+ poro	Porifera Ontology	 https://github.com/obophenotype/porifera-ontology	NO	NO	por definir	
+ ppdb	Plant Promoter Database	 https://sitem.herts.ac.uk/aeru/ppdb/	desconocido	NO	por definir	
+ ppo	Plant Phenology Ontology	 https://github.com/PlantPhenoOntology/PPO	NO	NO	por definir	
+ ppr	Europe PMC Preprints	 https://europepmc.org	desconocido	NO	por definir	
+ pr	PRotein Ontology	 https://proconsortium.org/	NO	SI	https://www.wikidata.org/wiki/Q55118584	
+ pride	PRoteomics IDEntifications database	 https://www.ebi.ac.uk/pride/	NO	NO	por definir	
+ pride.project	PRIDE Project	 https://www.ebi.ac.uk/pride/	NO	NO	por definir	
+ prints	PRINTS	 http://www.bioinf.manchester.ac.uk/dbbrowser/sprint/	NO	NO	por definir	
+ probonto	Ontology and Knowledge Base of Probability Distributions	 https://www.ebi.ac.uk/ols/ontologies/probonto	NO	NO	por definir	
+ prodom	ProDom	 http://prodom.prabi.fr/prodom/current/html/home.php	NO	NO	por definir	
+ proglyc	ProGlycProt	 http://www.proglycprot.org/	NO	NO	por definir	
+ propreo	Proteomics Data and Process Provenance Ontology	 http://lsdis.cs.uga.edu/projects/glycomics/propreo/	SI	NO	por definir	
+ prosite	PROSITE	 https://www.expasy.org/prosite/	NO	SI	https://www.wikidata.org/wiki/Q899676	
+ protclustdb	NCBI Protein Clusters Database	 https://www.ncbi.nlm.nih.gov/proteinclusters?db=proteinclusters	NO	NO	por definir	
+ proteomicsdb.peptide	ProteomicsDB Peptide	 https://www.proteomicsdb.org/#peptideSearch	NO	NO	por definir	
+ proteomicsdb.protein	ProteomicsDB Protein	 https://www.proteomicsdb.org/#human	NO	NO	por definir	
+ protonet.cluster	ProtoNet Cluster	 http://www.protonet.cs.huji.ac.il/	NO	NO	por definir	
+ protonet.proteincard	ProtoNet ProteinCard	 http://www.protonet.cs.huji.ac.il/	NO	NO	por definir	
+ prov	PROV Namespace	 https://www.w3.org/ns/prov	desconocido	NO	por definir	
+ pscdb	Protein Structure Change Database	 http://idp1.force.cs.is.nagoya-u.ac.jp/pscdb/index.html	NO	NO	por definir	
+ psdo	Performance Summary Display Ontology	 https://github.com/Display-Lab/psdo	NO	NO	por definir	
+ pseudogene	PseudoGene	 http://www.pseudogene.org	desconocido	SI	https://www.wikidata.org/wiki/Q7254809	
+ pseudomonas	Pseudomonas Genome Database	 http://www.pseudomonas.com/	NO	NO	por definir	
+ psipar	Protein Affinity Reagents	 https://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=PAR	NO	NO	por definir	
+ pso	PatientSafetyOntology	 https://github.com/Planteome/plant-stress-ontology	NO	NO	por definir	
+ pspub	Phenoscape Publication	 https://wiki.phenoscape.org/wiki/Curation_workflow	desconocido	NO	por definir	
+ pubchem.bioassay	PubChem-bioassay	 https://www.ncbi.nlm.nih.gov/sites/entrez?db=pcassay	NO	NO	por definir	
+ pubchem.compound	PubChem	 https://pubchem.ncbi.nlm.nih.gov/	NO	SI	https://www.wikidata.org/wiki/Q278487	
+ pubchem.element	PubChem Element	 https://pubchem.ncbi.nlm.nih.gov/periodic-table	desconocido	NO	por definir	
+ pubchem.substance	PubChem-substance	 https://pubchem.ncbi.nlm.nih.gov/	NO	SI	https://www.wikidata.org/wiki/Q278487	
+ publons.researcher	Publons Researcher ID	 https://publons.com/researcher	desconocido	NO	por definir	
+ pubmed	PubMed	 https://www.ncbi.nlm.nih.gov/PubMed/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ pw	Pathway Ontology	 http://rgd.mcw.edu/rgdweb/ontology/search.html	NO	SI	https://www.wikidata.org/wiki/Q28864280	
+ px	ProteomeXchange	 http://www.proteomexchange.org/	NO	NO	por definir	
+ pypi	PyPI	 https://www.python.org/psf/	NO	NO	por definir	
+ qtldb	Animal Genome QTL	 https://www.animalgenome.org/QTLdb	NO	NO	por definir	
+ qudt	Quantities, Units, Dimensions and Types	 https://qudt.org	desconocido	NO	por definir	
+ radiomics	Radiomics Ontology	 http://www.radiomics.org/RO	desconocido	NO	por definir	
+ rapdb.locus	RAP-DB Locus	 https://rapdb.dna.affrc.go.jp/	NO	NO	por definir	
+ rapdb.transcript	RAP-DB Transcript	 https://rapdb.dna.affrc.go.jp/	NO	NO	por definir	
+ rbk	(Re)Building a Kidney	 https://www.rebuildingakidney.org/	NO	NO	por definir	
+ rbo	Radiation Biology Ontology	 https://github.com/Radiobiology-Informatics-Consortium/RBO	NO	NO	por definir	
+ rcb	RIKEN Bioresource Center Cell Bank	 https://cell.brc.riken.jp/en/rcb	desconocido	NO	por definir	
+ rdf	Resource Description Framework	 http://www.w3.org/1999/02/22-rdf-syntax-ns	desconocido	NO	por definir	
+ rdfs	Resource Description Framework Schema	 https://www.w3.org/TR/rdf-schema/	desconocido	NO	por definir	
+ rdo	RGD Disease_Ontology	 https://ratmine.mcw.edu/ontology/disease/	desconocido	NO	por definir	
+ re3data	re3data	 https://datacite.org	NO	NO	por definir	
+ reactome	Reactome	 https://www.reactome.org/	NO	SI	https://www.wikidata.org/wiki/Q2134522	
+ reaxys	Reaxys	 https://www.reaxys.com	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ rebase	Restriction enzymes and methylases database	 http://rebase.neb.com/rebase/	NO	NO	por definir	
+ receptome.family	Human Plasma Membrane Receptome Families	 http://www.receptome.org	desconocido	NO	por definir	
+ refseq	Reference Sequence Database	 https://www.ncbi.nlm.nih.gov/projects/RefSeq/	NO	NO	por definir	
+ reo	Reagent Ontology	 https://github.com/tis-lab/reagent-ontology	desconocido	NO	por definir	
+ repeatsdb.protein	RepeatsDB Protein	 https://repeatsdb.org/	NO	NO	por definir	
+ repeatsdb.structure	RepeatsDB Structure	 https://repeatsdb.org/	NO	NO	por definir	
+ reproduceme	REPRODUCE-ME	 https://w3id.org/reproduceme/research	desconocido	NO	por definir	
+ resid	RESID	 http://pir0.georgetown.edu/resid/	NO	NO	por definir	
+ reto	Regulation of Transcription Ontolology	 http://www.semantic-systems-biology.org/apo	desconocido	NO	por definir	
+ rex	Physico-chemical process	 https://www.ebi.ac.uk/chebi/	NO	NO	por definir	
+ rexo	Regulation of Gene Expression Ontolology	 http://www.semantic-systems-biology.org/apo	desconocido	NO	por definir	
+ rfam	Rfam	 https://rfam.xfam.org/	NO	NO	por definir	
+ rgd	Rat Genome Database	 http://rgd.mcw.edu/	NO	SI	https://www.wikidata.org/wiki/Q7295410	
+ rgd.qtl	Rat Genome Database qTL	 http://rgd.mcw.edu/	NO	NO	por definir	
+ rgd.strain	Rat Genome Database strain	 http://rgd.mcw.edu/	NO	NO	por definir	
+ rhea	Rhea	 https://www.rhea-db.org/	NO	SI	https://www.wikidata.org/wiki/Q24265951	
+ ricegap	Rice Genome Annotation Project	 http://rice.plantbiology.msu.edu/annotation_pseudo_current.shtml	NO	NO	por definir	
+ ricenetdb.compound	RiceNetDB Compound	 http://bis.zju.edu.cn/ricenetdb	NO	NO	por definir	
+ ricenetdb.gene	RiceNetDB Gene	 http://bis.zju.edu.cn/ricenetdb/	NO	NO	por definir	
+ ricenetdb.mirna	RiceNetDB miRNA	 http://bis.zju.edu.cn/ricenetdb	NO	NO	por definir	
+ ricenetdb.protein	RiceNetDB Protein	 http://bis.zju.edu.cn/ricenetdb/	NO	NO	por definir	
+ ricenetdb.reaction	RiceNetDB Reaction	 http://bis.zju.edu.cn/ricenetdb	NO	NO	por definir	
+ rnacentral	RNAcentral	 https://rnacentral.org/	NO	NO	por definir	
+ rnamod	The RNA Modification Database	 http://rna.rega.kuleuven.be/rnamods/	desconocido	NO	por definir	
+ rnamods	RNA Modification Database	 http://rna-mdb.cas.albany.edu/RNAmods/rnaover.htm	NO	NO	por definir	
+ rnao	RNA Ontology	 https://github.com/bgsu-rna/rnao	NO	NO	por definir	
+ ro	OBO Relations Ontology	 http://obofoundry.org/ontology/ro.html	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ rouge	ROdent Unidentified Gene-Encoded large proteins	 http://www.kazusa.or.jp/rouge/	NO	NO	por definir	
+ rrid	Research Resource Identifiers	 https://scicrunch.org/resolver	NO	NO	por definir	
+ rs	Rat Strain Ontology	 http://rgd.mcw.edu/rgdweb/search/strains.html	NO	NO	por definir	
+ runbiosimulations	runBioSimulations	 https://icahn.mssm.edu/	NO	NO	por definir	
+ rxno	Name Reaction Ontology	 https://github.com/rsc-ontologies/rxno	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ rxnorm	RxNORM	 https://www.nlm.nih.gov/research/umls/rxnorm/	desconocido	SI	https://www.wikidata.org/wiki/Q7383767	
+ sabiork.compound	SABIO-RK Compound	 http://sabiork.h-its.org/	NO	NO	por definir	
+ sabiork.ec	SABIO-RK EC Record	 http://sabiork.h-its.org/	NO	NO	por definir	
+ sabiork.kineticrecord	SABIO-RK Kinetic Record	 http://sabiork.h-its.org/	NO	NO	por definir	
+ sabiork.reaction	SABIO-RK Biochemical Reaction Kinetics Database	 http://sabiork.h-its.org/	NO	NO	por definir	
+ sael	Standards and Ontologies for Functional Genomics (SOFG) Anatomy Entry List	 URL no encontrado	SI	NO	por definir	
+ salk	Salk Institute for Biological Studies Accession	 https://www.salk.edu/	desconocido	NO	por definir	
+ sao	Subcellular Anatomy Ontology	 http://ccdb.ucsd.edu/CCDBWebSite/sao.html	SI	NO	por definir	
+ sasbdb	Small angle scattering biological data bank	 http://www.sasbdb.org/	NO	NO	por definir	
+ sbo	Systems Biology Ontology	 https://www.ebi.ac.uk/sbo/	NO	NO	por definir	
+ scdo	Sickle Cell Disease Ontology	 https://scdontology.h3abionet.org/	NO	NO	por definir	
+ schem	Selventa Chemicals	 https://raw.githubusercontent.com/OpenBEL/resource-generator/master/datasets	desconocido	NO	por definir	
+ scholia.resource	Scholia Registry	 https://scholia.toolforge.org/	desconocido	NO	por definir	
+ scomp	Selventa Complexes	 https://raw.githubusercontent.com/OpenBEL/resource-generator/master/datasets	desconocido	NO	por definir	
+ scop	Structural Classification Of Proteins	 http://scop.mrc-lmb.cam.ac.uk/scop/	NO	NO	por definir	
+ scopus	Scopus	 https://www.scopus.com	desconocido	NO	por definir	
+ scretf	ScerTF	 http://stormo.wustl.edu/ScerTF/	NO	NO	por definir	
+ sdbs	Spectral Database for Organic Compounds	 http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi	NO	NO	por definir	
+ sdgio	Sustainable Development Goals Interface Ontology	 https://github.com/SDG-InterfaceOntology/sdgio	desconocido	NO	por definir	
+ sdis	Selventa Diseases	 https://raw.githubusercontent.com/OpenBEL/resource-generator/master/datasets	desconocido	NO	por definir	
+ sedml.format	SED-ML data format	 http://sed-ml.org/	NO	NO	por definir	
+ sedml.language	SED-ML model format	 http://sed-ml.org/	NO	NO	por definir	
+ seed	SEED Subsystem	 http://seed-viewer.theseed.org/seedviewer.cgi	NO	NO	por definir	
+ seed.compound	SEED Compound	 http://modelseed.org/	NO	NO	por definir	
+ seed.reaction	SEED Reactions	 http://modelseed.org/biochem/reactions/	NO	NO	por definir	
+ sep	Sample Processing and Separation Techniques Ontology	 https://psidev.info/sepcv	SI	NO	por definir	
+ sepio	Scientific Evidence and Provenance Information Ontology	 http://ifomis.org/bfo	NO	NO	por definir	
+ sfam	Selventa Families	 https://raw.githubusercontent.com/OpenBEL/resource-generator/master/datasets	desconocido	NO	por definir	
+ sgd	Saccharomyces Genome Database	 https://www.yeastgenome.org/	NO	SI	https://www.wikidata.org/wiki/Q3460832	
+ sgd.pathways	Saccharomyces genome database pathways	 http://pathway.yeastgenome.org/	NO	NO	por definir	
+ sgn	Sol Genomics Network	 http://solgenomics.net/	NO	NO	por definir	
+ sheepqtldb	Animal Genome Sheep QTL	 https://www.animalgenome.org/QTLdb	NO	NO	por definir	
+ sibo	Social Inset Behavior Ontology	 https://github.com/obophenotype/sibo	NO	NO	por definir	
+ sider.drug	SIDER Drug	 http://sideeffects.embl.de/	NO	NO	por definir	
+ sider.effect	SIDER Side Effect	 http://sideeffects.embl.de/	NO	NO	por definir	
+ sigmaaldirch	Sigma Aldrich	 https://www.sigmaaldrich.com	desconocido	NO	por definir	
+ signaling-gateway	Signaling Gateway	 http://www.signaling-gateway.org/molecule	NO	NO	por definir	
+ signor	SIGnaling Network Open Resource	 https://signor.uniroma2.it/	NO	NO	por definir	
+ signor.relation	SIGNOR Relation	 https://signor.uniroma2.it	desconocido	NO	por definir	
+ sio	Semanticscience Integrated Ontology	 https://www.ebi.ac.uk	NO	NO	por definir	
+ sisu	Sequencing Initiative Suomi	 http://www.sisuproject.fi/	NO	NO	por definir	
+ sitex	SitEx database of eukaryotic protein functional sites	 http://www-bionet.sscc.ru/sitex/	NO	NO	por definir	
+ skip	Stemcell Knowledge and Information Portal	 https://skip.stemcellinformatics.org/en/	desconocido	NO	por definir	
+ skos	Simple Knowledge Organization System	 https://www.w3.org/2004/02/skos/	desconocido	NO	por definir	
+ slkbase	SUM Breast Cancer Cell Line Knowledge Base	 https://sumlineknowledgebase.com/	desconocido	NO	por definir	
+ smart	Simple Modular Architecture Research Tool	 http://smart.embl-heidelberg.de/	NO	NO	por definir	
+ smid	C. elegans Small Molecule Identifier Database	 https://smid-db.org/	desconocido	NO	por definir	
+ smiles	Simplified Molecular Input Line Entry Specification Format	 https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ smpdb	Small Molecule Pathway Database	 https://smpdb.ca/	NO	NO	por definir	
+ snap	Snapshot	 http://ontology.buffalo.edu/smith/articles/SNAP_SPAN.pdf	desconocido	NO	por definir	
+ snomedct	Systematized Nomenclature of Medicine-Clinical Terms	 http://www.snomedbrowser.com/	NO	SI	https://www.wikidata.org/wiki/Q1753883	
+ snornabase	snoRNABase	 https://www-snorna.biotoul.fr/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ snp2tfbs	SNP to Transcription Factor Binding Sites	 https://ccg.epfl.ch/snp2tfbs/	NO	NO	por definir	
+ so	Sequence Ontology	 http://www.sequenceontology.org/	NO	NO	por definir	
+ sopharm	Suggested Ontology for Pharmacogenomics	 http://www.loria.fr/~coulet/sopharm2.0_description.php	SI	NO	por definir	
+ soybase	SoyBase	 http://soybase.org/	NO	NO	por definir	
+ span	Span	 http://ontology.buffalo.edu/smith/articles/SNAP_SPAN.pdf	desconocido	NO	por definir	
+ spd	Spider Anatomy Ontology	 http://research.amnh.org/atol/files/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ spdx	Software Package Data Exchange License	 https://spdx.org	NO	NO	por definir	
+ spike.map	SPIKE Map	 http://www.cs.tau.ac.il/~spike/	NO	NO	por definir	
+ splash	Spectra Hash Code	 http://mona.fiehnlab.ucdavis.edu/	NO	NO	por definir	
+ spp	Signaling Pathways Project	 https://www.signalingpathways.org/index.jsf	NO	NO	por definir	
+ srao	Subject Resource Application Ontology	 https://github.com/FAIRsharing/subject-ontology	desconocido	NO	por definir	
+ ssbd.dataset	SSBD: Systems Science of Biological Dynamics	 https://ssbd.riken.jp	desconocido	NO	por definir	
+ ssbd.project	System Science of Biological Dynamics project	 https://ssbd.riken.jp	desconocido	NO	por definir	
+ stap	Statistical Torsional Angles Potentials of NMR Refinement Database	 http://psb.kobic.re.kr/STAP/refinement/	NO	NO	por definir	
+ stato	Statistics Ontology	 http://stato-ontology.org/	NO	NO	por definir	
+ stitch	Search Tool for Interactions of Chemicals	 http://stitch.embl.de/	NO	NO	por definir	
+ storedb	STOREDB	 https://www.storedb.org/	NO	NO	por definir	
+ string	STRING	 http://string.embl.de/	NO	NO	por definir	
+ sty	Semantic Types Ontology	 https://lhncbc.nlm.nih.gov/semanticnetwork/	desconocido	NO	por definir	
+ subtilist	Bacillus subtilis strain 168 genome	 http://genolist.pasteur.fr/SubtiList/	NO	NO	por definir	
+ subtiwiki	SubtiWiki	 http://www.subtiwiki.uni-goettingen.de/wiki/index.php/Main_Page	NO	NO	por definir	
+ sugarbind	SugarBind	 http://sugarbind.expasy.org/	NO	NO	por definir	
+ supfam	SUPERFAMILY	 http://supfam.org/SUPERFAMILY/	NO	NO	por definir	
+ sweetrealm	Semantic Web for Earth and Environment Technology Ontology	 https://bioportal.bioontology.org/ontologies/SWEET	desconocido	NO	por definir	
+ swh	Software Heritage	 https://archive.softwareheritage.org	NO	NO	por definir	
+ swiss-model	SWISS-MODEL Repository of 3D protein structure models	 https://swissmodel.expasy.org	NO	NO	por definir	
+ swisslipid	SwissLipids	 http://www.swisslipids.org/#/	NO	SI	https://www.wikidata.org/wiki/Q41165322	
+ swissregulon	SwissRegulon	 http://swissregulon.unibas.ch	NO	NO	por definir	
+ swo	SoftWare Ontology	 https://github.com/allysonlister/swo	NO	NO	por definir	
+ symp	Symptom Ontology	 http://symptomontologywiki.igs.umaryland.edu/mediawiki/index.php/Main_Page	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ syoid	Gemina Symptom Ontology Identifier	 URL no encontrado	SI	NO	por definir	
+ t3db	Toxin and Toxin Target Database	 http://www.t3db.org/	NO	NO	por definir	
+ tads	Tick Gross Anatomy	 https://www.vectorbase.org/ontology-browser	NO	NO	por definir	
+ tahe	Terminology of Anatomy of Human Embryology	 http://purl.obolibrary.org/obo/TAHE_$1	SI	NO	por definir	
+ tahh	Terminology of Anatomy of Human Histology	 http://purl.obolibrary.org/obo/TAHH_$1	SI	NO	por definir	
+ tair.gene	TAIR Gene	 http://arabidopsis.org/index.jsp	NO	NO	por definir	
+ tair.locus	TAIR Locus	 http://arabidopsis.org/index.jsp	NO	NO	por definir	
+ tair.protein	TAIR Protein	 http://arabidopsis.org/index.jsp	NO	NO	por definir	
+ tao	Teleost Anatomy Ontology	 http://wiki.phenoscape.org/wiki/Teleost_Anatomy_Ontology	SI	NO	por definir	
+ tarbase	TarBase	 http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index	NO	NO	por definir	
+ taxrank	Taxonomic Rank Vocabulary	 https://github.com/phenoscape/taxrank	NO	NO	por definir	
+ tcb	Tick Cell Biobank	 https://www.pirbright.ac.uk/tick-cell-lines-views-page	desconocido	NO	por definir	
+ tcdb	Transporter Classification Database	 http://www.tcdb.org/	NO	SI	https://www.wikidata.org/wiki/Q142667	
+ te	Terminologia Embryologica	 https://ifaa.unifr.ch/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ tfclass	Transcription Factor Class	 http://tfclass.bioinf.med.uni-goettingen.de	desconocido	NO	por definir	
+ tgd	Tetrahymena Genome Database	 http://ciliate.org/index.php/	NO	NO	por definir	
+ tgma	Mosquito gross anatomy	 https://www.vectorbase.org/ontology-browser	NO	NO	por definir	
+ tgn	Getty Thesaurus of Geographic Names	 https://www.getty.edu/research/tools/vocabularies/tgn/	SI	NO	por definir	
+ th	Terminologia Histologica	 https://ifaa.unifr.ch/	desconocido	NO	por definir	
+ thermofisher	Thermo Fisher Scientific	 https://www.thermofisher.com	desconocido	NO	por definir	
+ tigrfam	TIGRFAMS	 http://www.jcvi.org/cgi-bin/tigrfams/Listing.cgi	NO	NO	por definir	
+ tkg	Tohoku University cell line catalog	 http://www2.idac.tohoku.ac.jp/dep/ccr/	desconocido	NO	por definir	
+ tngb	Telethon Network of Genetic Biobanks	 http://biobanknetwork.telethon.it/	desconocido	NO	por definir	
+ to	Plant Trait Ontology	 http://browser.planteome.org/amigo	NO	NO	por definir	
+ tokue	TOKU-E Cell-culture Database	 http://cell-lines.toku-e.com	SI	NO	por definir	
+ tol	Tree of Life	 http://tolweb.org/tree/	NO	NO	por definir	
+ topdb	Topology Data Bank of Transmembrane Proteins	 http://topdb.enzim.hu/	NO	NO	por definir	
+ topfind	Termini-Oriented Protein Function INferred Database	 http://clipserve.clip.ubc.ca/topfind	NO	NO	por definir	
+ toxoplasma	ToxoDB	 http://toxodb.org/toxo/	NO	NO	por definir	
+ trans	Nurse Transitional	 https://github.com/DiseaseOntology/PathogenTransmissionOntology	NO	NO	por definir	
+ transyt	Transport Systems Tracker	 https://www.bio.di.uminho.pt/	NO	NO	por definir	
+ treebase	TreeBase	 http://treebase.org/	NO	NO	por definir	
+ treefam	TreeFam	 http://www.treefam.org/	NO	NO	por definir	
+ trichdb	TrichDB	 http://trichdb.org/trichdb/	NO	NO	por definir	
+ tritrypdb	TriTrypDB	 http://tritrypdb.org/tritrypdb/	NO	NO	por definir	
+ ttd.drug	TTD Drug	 http://bidd.nus.edu.sg/group/ttd/ttd.asp	NO	NO	por definir	
+ ttd.target	TTD Target	 http://bidd.nus.edu.sg/group/ttd/ttd.asp	NO	NO	por definir	
+ tto	Teleost Taxonomy Ontology	 https://github.com/phenoscape/teleost-taxonomy-ontology	NO	SI	https://www.wikidata.org/wiki/Q81661821	
+ txpo	Toxic Process Ontology	 https://toxpilot.nibiohn.go.jp/	NO	NO	por definir	
+ uberon	UBER anatomy ONtology	 http://bioportal.bioontology.org/ontologies/UBERON	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ ubio.namebank	uBio NameBank	 http://www.ubio.org	NO	NO	por definir	
+ ubprop	Uberon Property	 All of these are typedefs in uberon now	SI	NO	por definir	
+ ucsc	UCSC Genome Browser	 https://genome.ucsc.edu/	desconocido	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ umbbd.compound	UM-BBD Compound	 http://umbbd.ethz.ch/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ umbbd.enzyme	UM-BBD Enzyme	 http://umbbd.ethz.ch/	NO	NO	por definir	
+ umbbd.pathway	UM-BBD Pathway	 http://umbbd.ethz.ch/	NO	NO	por definir	
+ umbbd.reaction	UM-BBD Reaction	 http://umbbd.ethz.ch/	NO	SI	https://www.wikidata.org/wiki/Q24188985	
+ umbbd.rule	UM-BBD Biotransformation Rule	 http://umbbd.ethz.ch/servlets/pageservlet?ptype=allrules	NO	NO	por definir	
+ umls	Unified Medical Language System	 http://linkedlifedata.com/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ unigene	UniGene gene-oriented nucleotide sequence clusters	 http://www.ncbi.nlm.nih.gov/unigene	NO	NO	por definir	
+ unii	Unique Ingredient Identifier	 http://fdasis.nlm.nih.gov/srs/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ unimod	Unimod	 http://www.unimod.org/	NO	NO	por definir	
+ uniparc	UniParc	 https://www.ebi.ac.uk/uniparc/	NO	NO	por definir	
+ unipathway.compound	UniPathway Compound	 http://www.grenoble.prabi.fr/obiwarehouse/unipathway	NO	NO	por definir	
+ unipathway.reaction	UniPathway Reaction	 http://www.grenoble.prabi.fr/obiwarehouse/unipathway	NO	NO	por definir	
+ uniprot	UniProt Knowledgebase	 https://www.uniprot.org/	NO	SI	https://www.wikidata.org/wiki/Q905695	
+ uniprot.chain	UniProt Chain	 https://www.uniprot.org	NO	NO	por definir	
+ uniprot.disease	UniProt Diseases	 https://www.uniprot.org/diseases/	desconocido	NO	por definir	
+ uniprot.isoform	UniProt Isoform	 http://www.uniprot.org/	NO	NO	por definir	
+ uniprot.keyword	UniProt Keywords	 http://www.uniprot.org/keywords/	desconocido	NO	por definir	
+ uniprot.location	UniProt Subcellular Locations	 https://www.uniprot.org/locations/	desconocido	NO	por definir	
+ uniprot.resource	UniProt Resource	 https://www.uniprot.org/database/	desconocido	NO	por definir	
+ uniprot.tissue	Tissue List	 https://www.uniprot.org/docs/tisslist.txt	NO	NO	por definir	
+ uniprot.var	UniProt Variants	 https://web.expasy.org/variant_pages	desconocido	NO	por definir	
+ uniref	UniRef	 https://www.uniprot.org/	NO	NO	por definir	
+ unirule	UniRule	 https://www.uniprot.org/unirule/	desconocido	NO	por definir	
+ unists	UniSTS	 https://www.ncbi.nlm.nih.gov/sites/entrez?db=unists	NO	NO	por definir	
+ unite	UNITE	 http://unite.ut.ee/	NO	NO	por definir	
+ unpd	Universal Natural Products Database	 http://pkuxxj.pku.edu.cn/UNPD/	SI	NO	por definir	
+ uo	Units Ontology	 https://www.ebi.ac.uk/ols/ontologies/uo	NO	NO	por definir	
+ upa	Unipathway	 https://github.com/geneontology/unipathway	NO	SI	https://www.wikidata.org/wiki/Q85719315	
+ upheno	Combined Phenotype Ontology	 https://github.com/obophenotype/upheno	NO	NO	por definir	
+ uspto	United States Patent and Trademark Office	 http://patft.uspto.gov/netahtml/PTO/index.html	NO	NO	por definir	
+ validatordb	ValidatorDB	 https://webchem.ncbr.muni.cz/Platform/ValidatorDb/	NO	NO	por definir	
+ vandf	Veterans Health Administration National Drug File	 https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/VANDF	desconocido	NO	por definir	
+ vario	Variation Ontology	 http://bioportal.bioontology.org/ontologies/VARIO	NO	NO	por definir	
+ vbase2	VBASE2	 http://www.vbase2.org/vbase2.php	NO	NO	por definir	
+ vbrc	Viral Bioinformatics Resource Center	 http://vbrc.org/	NO	NO	por definir	
+ vcell	VCell Published Models	 https://health.uconn.edu/	NO	NO	por definir	
+ vectorbase	VectorBase	 https://www.vectorbase.org/	NO	NO	por definir	
+ vega	The Vertebrate Genome Annotation Database	 https://vega.archive.ensembl.org/index.html	desconocido	NO	por definir	
+ vegbank	VegBank	 http://vegbank.org/	NO	NO	por definir	
+ vfb	Virtual Fly Brain	 https://VirtualFlyBrain.org	NO	NO	por definir	
+ vfdb.gene	VFDB Gene	 http://www.mgc.ac.cn/VFs/	NO	NO	por definir	
+ vfdb.genus	VFDB Genus	 http://www.mgc.ac.cn/VFs/	NO	NO	por definir	
+ vgnc	Vertebrate Gene Nomenclature Committee	 https://vertebrate.genenames.org	NO	NO	por definir	
+ vhog	Vertebrate Homologous Organ Group Ontology	 http://purl.obolibrary.org/obo/VHOG_$1	SI	NO	por definir	
+ viaf	Virtual International Authority File	 http://viaf.org	NO	NO	por definir	
+ vido	Virus Infectious Disease Ontology	 https://github.com/infectious-disease-ontology-extensions/ido-virus	desconocido	NO	por definir	
+ vipr	Virus Pathogen Database and Analysis Resource	 http://www.viprbrc.org/brc/home.do?decorator=vipr	NO	NO	por definir	
+ viralzone	ViralZone	 http://www.expasy.org/viralzone/	NO	NO	por definir	
+ virsirna	VIRsiRNA	 http://crdd.osdd.net/servers/virsirnadb	NO	NO	por definir	
+ vmc	Variation Modelling Collaboration	 URL no encontrado	SI	NO	por definir	
+ vmhgene	VMH Gene	 https://www.vmh.life/	NO	NO	por definir	
+ vmhmetabolite	VMH metabolite	 https://www.vmh.life/	NO	NO	por definir	
+ vmhreaction	VMH reaction	 https://www.vmh.life/	NO	NO	por definir	
+ vo	Vaccine Ontology	 http://www.violinet.org/vaccineontology	NO	NO	por definir	
+ void	Vocabulary of Interlinked Datasets	 http://vocab.deri.ie/void	desconocido	NO	por definir	
+ vsao	Vertebrate Skeletal Anatomy Ontology	 https://www.nescent.org/phenoscape/Main_Page	SI	NO	por definir	
+ vsdb	Veterinary Substances DataBase	 https://sitem.herts.ac.uk/aeru/vsdb	desconocido	NO	por definir	
+ vso	Vital Sign Ontology	 https://bioportal.bioontology.org/ontologies/VSO	desconocido	NO	por definir	
+ vt	Vertebrate Trait Ontology	 https://github.com/AnimalGenome/vertebrate-trait-ontology	NO	NO	por definir	
+ vto	Vertebrate Taxonomy Ontology	 https://github.com/phenoscape/vertebrate-taxonomy-ontology	NO	NO	por definir	
+ vuid	Veterans Health Administration (VHA) unique identifier	 https://www.va.gov/health	desconocido	NO	por definir	
+ vz	ViralZone	 http://viralzone.expasy.org/	desconocido	SI	https://www.wikidata.org/wiki/Q15674507	
+ wb.rnai	WormBase RNAi	 https://www.wormbase.org/	NO	NO	por definir	
+ wbbt	C. elegans gross anatomy	 https://github.com/obophenotype/c-elegans-gross-anatomy-ontology	NO	NO	por definir	
+ wbls	C. elegans development	 https://github.com/obophenotype/c-elegans-development-ontology	NO	NO	por definir	
+ wbphenotype	C. elegans phenotype	 https://github.com/obophenotype/c-elegans-phenotype-ontology	NO	NO	por definir	
+ webelements	Web Elements	 https://www.webelements.com/	desconocido	NO	por definir	
+ wgs84	WGS84 Geo Positioning	 https://www.w3.org/2003/01/geo/wgs84_pos	desconocido	NO	por definir	
+ wicell	WiCell Research Institute Cell Collection	 https://www.wicell.org	desconocido	NO	por definir	
+ wikidata	Wikidata	 https://www.wikidata.org/	NO	NO	por definir	
+ wikidata.property	Wikidata Property	 https://www.wikidata.org	desconocido	NO	por definir	
+ wikigenes	WikiGenes	 http://www.wikigenes.org/	NO	NO	por definir	
+ wikipathways	WikiPathways	 http://www.wikipathways.org/	NO	SI	https://www.wikidata.org/wiki/Q7999828	
+ wikipedia.en	Wikipedia	 http://en.wikipedia.org/wiki/Main_Page	NO	NO	por definir	
+ worfdb	Worfdb	 http://worfdb.dfci.harvard.edu/	NO	NO	por definir	
+ wormbase	WormBase	 https://www.wormbase.org/	NO	SI	https://www.wikidata.org/wiki/Q3570042	
+ wormpep	Wormpep	 https://www.wormbase.org/db/seq/protein	NO	NO	por definir	
+ worms	World Register of Marine Species	 http://www.marinespecies.org/	NO	NO	por definir	
+ wwf.ecoregion	World Wildlife Fund Ecoregion	 https://www.worldwildlife.org/biomes	desconocido	SI	https://www.wikidata.org/wiki/Q929975	
+ xao	Xenopus Anatomy Ontology	 http://www.xenbase.org/anatomy/xao.do?method=display	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ xco	Experimental Conditions Ontology	 https://rgd.mcw.edu/rgdweb/ontology/view.html?acc_id=XCO:0000000	NO	NO	por definir	
+ xenbase	Xenopus laevis and tropicalis biology and genomics resource	 https://www.xenbase.org/	NO	NO	por definir	
+ ximbio	Ximbio	 https://ximbio.com	desconocido	NO	por definir	
+ xl	Cross-linker reagents ontology	 http://www.psidev.info/groups/controlled-vocabularies	SI	NO	por definir	
+ xlmod	mass spectrometry cross-linking and derivatization reagents	 http://www.psidev.info/groups/controlled-vocabularies	NO	NO	por definir	
+ xpo	Xenopus Phenotype Ontology	 https://github.com/obophenotype/xenopus-phenotype-ontology	NO	NO	por definir	
+ xsd	XML Schema Definition	 http://www.w3.org/2001/XMLSchema	desconocido	NO	por definir	
+ xuo	XUO	 URL no encontrado	SI	NO	por definir	
+ ydpm	Yeast Deletion and the Mitochondrial Proteomics Project	 http://www-deletion.stanford.edu/YDPM/	NO	NO	por definir	
+ yeastintron	Yeast Intron Database v4.3	 http://intron.ucsc.edu/yeast4.3/	NO	NO	por definir	
+ yetfasco	YeTFasCo	 http://yetfasco.ccbr.utoronto.ca/	NO	NO	por definir	
+ yid	Yeast Intron Database v3	 http://compbio.soe.ucsc.edu/yeast_introns.html	NO	NO	por definir	
+ ymdb	The Yeast Metabolome Database	 http://www.ymdb.ca	desconocido	NO	por definir	
+ yrcpdr	Yeast Resource Center Public Data Repository	 http://www.yeastrc.org/pdr/	NO	NO	por definir	
+ zea	Maize Gross Anatomy Ontology	 http://www.maizemap.org/	SI	NO	por definir	
+ zeco	Zebrafish Experimental Conditions Ontology	 https://github.com/ybradford/zebrafish-experimental-conditions-ontology	NO	NO	por definir	
+ zfa	Zebrafish anatomy and development	 https://wiki.zfin.org/display/general/Anatomy+Atlases+and+Resources	NO	NO	por definir	
+ zfin	The Zebrafish Information Network	 http://zfin.org	NO	SI	https://www.wikidata.org/wiki/Q29128476	
+ zfs	Zebrafish Developmental Stages	 https://wiki.zfin.org/display/general/Anatomy+Atlases+and+Resources	NO	NO	por definir	
+ zinc	ZINC is not Commercial	 http://zinc15.docking.org/	NO	NO	Aunque tiene propiedad wikidata, no tiene un url en ella	
+ zp	Zebrafish Phenotype Ontology	 https://github.com/obophenotype/zebrafish-phenotype-ontology	NO	NO	por definir	
