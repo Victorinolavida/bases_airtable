@@ -1,4 +1,4 @@
-Abreviatura	Nombre	URL	URL vencida	Esta en wikidata	URL Wikidata
+Abreviatura,Nombre,URL,URL,vencida,Esta en wikidata,URL Wikidata
  3dmet	Three-Dimensional Structure Database of Natural Metabolites	 http://www.3dmet.dna.affrc.go.jp/	NO	SI	https://www.wikidata.org/wiki/Q23948774	
  4dn.biosource	4DNucleome Data Portal	 https://data.4dnucleome.org/	NO	SI	https://www.wikidata.org/wiki/Q110613621	
  4dn.replicate	4D Nucleome Data Portal Experiment Replicate	 https://data.4dnucleome.org/experiment-set-replicates/	desconocido	NO	por definir	
